@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShadowMinions2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{18457578-4F15-40B6-9331-2E5DF553F6EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShadowMinions2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShadowMinions2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C5107F4F-3FE3-4A31-B812-2285E141993E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShadowMinions2">
+      <UniqueIdentifier>{3EA2F416-8B27-402C-8431-EEA3CE54C253}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShadowMinions2\BaseCharacter.cpp">
+      <Filter>Source\ShadowMinions2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShadowMinions2\BaseCharacter.h">
+      <Filter>Source\ShadowMinions2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ShadowMinions2\ShadowMinions2.Build.cs">
+      <Filter>Source\ShadowMinions2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShadowMinions2\ShadowMinions2.cpp">
+      <Filter>Source\ShadowMinions2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShadowMinions2\ShadowMinions2.h">
+      <Filter>Source\ShadowMinions2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

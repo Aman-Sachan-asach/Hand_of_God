@@ -1,0 +1,14 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for ShadowMinions2Editor
+    Running UnrealHeaderTool "D:\Documents\Unreal Projects\ShadowMinions2\ShadowMinions2.uproject" "D:\Documents\Unreal Projects\ShadowMinions2\Intermediate\Build\Win64\ShadowMinions2Editor\Development\ShadowMinions2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ShadowMinions2Editor in 8.496127 seconds
+  Performing 5 actions (4 in parallel)
+  BaseCharacter.gen.cpp
+  BaseCharacter.cpp
+  ShadowMinions2.init.gen.cpp
+  [4/5] Link UE4Editor-ShadowMinions2-4480.dll
+  [5/5] Link UE4Editor-ShadowMinions2-4480.lib
+     Creating library D:\Documents\Unreal Projects\ShadowMinions2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ShadowMinions2-4480.lib and object D:\Documents\Unreal Projects\ShadowMinions2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ShadowMinions2-4480.exp
+     Creating library D:\Documents\Unreal Projects\ShadowMinions2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ShadowMinions2-4480.suppressed.lib and object D:\Documents\Unreal Projects\ShadowMinions2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ShadowMinions2-4480.suppressed.exp
+  Deploying ShadowMinions2Editor Win64 Development...
+  Total build time: 15.92 seconds (Local executor: 2.38 seconds)
