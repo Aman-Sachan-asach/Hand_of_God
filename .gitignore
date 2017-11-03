@@ -73,3 +73,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Stauffer added
+# crashreports
+Runner/Saved/Config/CrashReportClient/*
+# logs
+Runner/Saved/Backups/*
+Runner/Saved/Logs/*
