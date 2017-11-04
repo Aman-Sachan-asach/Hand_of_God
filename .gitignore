@@ -78,5 +78,7 @@ DerivedDataCache/*
 # crashreports
 Runner/Saved/Config/CrashReportClient/*
 # logs
-Runner/Saved/Backups/*
+Runner/Saved/Backup/*
 Runner/Saved/Logs/*
+Runner/Saved/Autosaves/*
+Runner/Intermediate/*
