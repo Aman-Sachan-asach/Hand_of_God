@@ -1,0 +1,728 @@
+﻿Log file open, 11/03/17 19:59:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(428484251) SRandInit(428484251).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 32 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.364182
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.17.0
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Users/SIG Admin/Documents/Unreal Projects/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.03-23.59.16:617][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.03-23.59.16:617][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.03-23.59.16:630][  0]LogInit: Computer: SIGLAB-VR1
+[2017.11.03-23.59.16:630][  0]LogInit: User: SIGAdmin
+[2017.11.03-23.59.16:630][  0]LogInit: CPU Page size=4096, Cores=10
+[2017.11.03-23.59.16:630][  0]LogInit: High frequency timer resolution =3.020350 MHz
+[2017.11.03-23.59.16:630][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.03-23.59.16:630][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.03-23.59.16:630][  0]LogMemory: Process Physical Memory: 280.26 MB used, 280.26 MB peak
+[2017.11.03-23.59.16:630][  0]LogMemory: Process Virtual Memory: 274.36 MB used, 274.36 MB peak
+[2017.11.03-23.59.16:630][  0]LogMemory: Physical Memory: 22331.91 MB used,  10358.34 MB free, 32690.26 MB total
+[2017.11.03-23.59.16:630][  0]LogMemory: Virtual Memory: 699.97 MB used,  10358.34 MB free, 134217728.00 MB total
+[2017.11.03-23.59.16:801][  0]LogInit: Using OS detected language (en-US).
+[2017.11.03-23.59.16:801][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.03-23.59.16:804][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.03-23.59.17:235][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.03-23.59.17:517][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.03-23.59.17:578][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2017.11.03-23.59.17:578][  0]LogD3D11RHI:       4060/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.03-23.59.17:580][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.03-23.59.17:580][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.03-23.59.17:580][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.03-23.59.17:821][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.03-23.59.17:821][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.03-23.59.17:821][  0]LogWindows: EnumDisplayDevices:
+[2017.11.03-23.59.17:821][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2017.11.03-23.59.17:822][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2017.11.03-23.59.17:822][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.11.03-23.59.17:822][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.11.03-23.59.17:822][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.03-23.59.17:822][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2017.11.03-23.59.17:822][  0]LogD3D11RHI:   Driver Version: 388.00 (internal:23.21.13.8800, unified:388.00)
+[2017.11.03-23.59.17:822][  0]LogD3D11RHI:      Driver Date: 10-12-2017
+[2017.11.03-23.59.17:822][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2017.11.03-23.59.17:868][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.03-23.59.17:880][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.03-23.59.17:969][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Desktop/JonLee/Hand_of_God/Runner/Intermediate/Shaders/WorkingDirectory/1750408/).
+[2017.11.03-23.59.17:969][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SIG Admin/AppData/Local/Temp/UnrealShaderWorkingDir/F9DC3E514648701FF82DEC9B2B72E11B/'.
+[2017.11.03-23.59.17:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.03-23.59.18:979][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.03-23.59.19:037][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.03-23.59.19:094][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.03-23.59.19:152][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.03-23.59.19:209][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.03-23.59.19:266][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.03-23.59.19:323][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.03-23.59.19:379][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.03-23.59.19:429][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.03-23.59.19:487][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.03-23.59.19:544][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.03-23.59.19:604][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.03-23.59.19:664][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.03-23.59.19:733][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.03-23.59.19:851][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.03-23.59.19:851][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.03-23.59.19:915][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.03-23.59.19:976][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.03-23.59.20:087][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.03-23.59.20:121][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.03-23.59.20:182][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.03-23.59.20:242][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.03-23.59.20:299][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.03-23.59.20:356][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.03-23.59.20:356][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.03-23.59.20:900][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/SIG Admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SIG Admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Desktop/JonLee/Hand_of_God/Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Desktop/JonLee/Hand_of_God/Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.03-23.59.20:997][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.03-23.59.21:015][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.03-23.59.21:028][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SIG Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.03-23.59.21:039][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.03-23.59.21:040][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.03-23.59.21:040][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.03-23.59.21:040][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.03-23.59.21:442][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.03-23.59.21:843][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.03-23.59.21:891][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.03-23.59.21:891][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.03-23.59.21:891][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.03-23.59.21:891][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.03-23.59.21:891][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.03-23.59.21:923][  0]LogNetVersion: Runner , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3172265664)
+[2017.11.03-23.59.22:105][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2017.11.03-23.59.22:654][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.055557 seconds
+[2017.11.03-23.59.22:659][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.03-23.59.22:659][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.03-23.59.22:659][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.03-23.59.22:719][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.03-23.59.25:847][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.03-23.59.25:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.03-23.59.26:684][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.03-23.59.27:185][  0]SourceControl: Source control is disabled
+[2017.11.03-23.59.27:185][  0]SourceControl: Source control is disabled
+[2017.11.03-23.59.27:259][  0]SourceControl: Source control is disabled
+[2017.11.03-23.59.27:323][  0]SourceControl: Source control is disabled
+[2017.11.03-23.59.28:271][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.03-23.59.28:584][  0]LogOcInput: OculusInput pre-init called
+[2017.11.03-23.59.28:917][  0]LogEngine: Initializing Engine...
+[2017.11.03-23.59.29:058][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.11.03-23.59.29:305][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.03-23.59.29:305][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.03-23.59.29:463][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.03-23.59.29:475][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-23.59.29:612][  0]LogInit: FAudioDevice initialized.
+[2017.11.03-23.59.29:693][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/SIG Admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.03-23.59.29:714][  0]LogInit: Texture streaming: Enabled
+[2017.11.03-23.59.29:830][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.03-23.59.30:207][  0]LogInit: Transaction tracking system initialized
+[2017.11.03-23.59.30:598][  0]BlueprintLog: New page: Editor Load
+[2017.11.03-23.59.31:715][  0]LocalizationService: Localization service is disabled
+[2017.11.03-23.59.32:621][  0]LogConsoleResponse: Display: 
+[2017.11.03-23.59.32:807][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.03-23.59.32:807][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.03-23.59.32:807][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.03-23.59.33:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG Admin/Desktop/JonLee/Hand_of_God/Runner/Content/' took 0.02s
+[2017.11.03-23.59.34:219][  0]SourceControl: Source control is disabled
+[2017.11.03-23.59.34:220][  0]Cmd: MAP LOAD FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.03-23.59.34:220][  0]LightingResults: New page: Lighting Build
+[2017.11.03-23.59.34:270][  0]MapCheck: New page: Map Check
+[2017.11.03-23.59.34:270][  0]LightingResults: New page: Lighting Build
+[2017.11.03-23.59.34:522][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.03-23.59.34:522][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.03-23.59.34:522][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.03-23.59.34:537][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.03-23.59.34:537][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.03-23.59.34:537][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.03-23.59.34:540][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.03-23.59.34:540][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.03-23.59.34:541][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.03-23.59.34:541][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.03-23.59.34:552][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.03-23.59.34:552][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.03-23.59.34:552][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.03-23.59.34:552][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.03-23.59.34:717][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.03-23.59.34:727][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.03-23.59.34:751][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.03-23.59.34:814][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.205ms to complete.
+[2017.11.03-23.59.34:814][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.594
+[2017.11.03-23.59.34:975][  0]LogCollectionManager: Loaded 0 collections in 0.001802 seconds
+[2017.11.03-23.59.35:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG Admin/Desktop/JonLee/Hand_of_God/Runner/Saved/Collections/' took 0.01s
+[2017.11.03-23.59.35:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG Admin/Desktop/JonLee/Hand_of_God/Runner/Content/Developers/SIGAdmin/Collections/' took 0.01s
+[2017.11.03-23.59.35:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG Admin/Desktop/JonLee/Hand_of_God/Runner/Content/Collections/' took 0.01s
+[2017.11.03-23.59.35:070][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.03-23.59.35:079][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2363 classes and 519 folders.
+[2017.11.03-23.59.35:167][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.03-23.59.35:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.03-23.59.35:263][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.03-23.59.35:281][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.03-23.59.35:283][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.03-23.59.35:288][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.03-23.59.35:395][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.03-23.59.35:615][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.03-23.59.35:615][  0]LogLoad: (Engine Initialization) Total time: 22.34 seconds
+[2017.11.03-23.59.35:615][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.03-23.59.35:615][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.03-23.59.35:974][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.03-23.59.36:042][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.03-23.59.36:299][  1]LogAssetRegistry: Asset discovery search completed in 14.2153 seconds
+[2017.11.03-23.59.36:301][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.03-23.59.36:301][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2017.11.03-23.59.43:311][640]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.03-23.59.43:787][640]LogAIModule: Creating AISystem for world Beta
+[2017.11.03-23.59.43:848][640]Cmd: MAP LOAD FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.03-23.59.43:848][640]LightingResults: New page: Lighting Build
+[2017.11.03-23.59.43:849][640]LoadErrors: New page: Loading map: Beta.umap
+[2017.11.03-23.59.43:850][640]MapCheck: New page: Map Check
+[2017.11.03-23.59.43:850][640]LightingResults: New page: Lighting Build
+[2017.11.03-23.59.43:923][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.03-23.59.43:976][640]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.03-23.59.44:047][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.73ms to complete.
+[2017.11.03-23.59.44:048][640]LogFileHelpers: Loading map 'Beta' took 0.202
+[2017.11.04-00.00.05:958][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.04-00.00.09:138][237]LogEditorViewport: Clicking on Actor (context menu): PostProcessVolume (PostProcessVolume4)
+[2017.11.04-00.00.10:859][417]Cmd: TRANSACTION UNDO
+[2017.11.04-00.00.10:859][417]LogEditorTransaction: Undo Move Actors
+[2017.11.04-00.00.10:881][417]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.04-00.00.12:408][588]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.04-00.00.14:148][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.04-00.00.15:078][775]LogEditorViewport: Clicking on Actor (context menu): FloorTileBP_C (FloorTileBP8)
+[2017.11.04-00.00.25:988][ 26]Cmd: SELECT NONE
+[2017.11.04-00.00.30:818][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-00.00.30:939][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.00.30:939][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-00.00.30:940][601]PIE: New page: PIE session: Beta (Nov 3, 2017, 4:00:30 PM)
+[2017.11.04-00.00.30:940][601]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.04-00.00.30:951][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011685s)
+[2017.11.04-00.00.30:952][601]LogAIModule: Creating AISystem for world Beta
+[2017.11.04-00.00.30:952][601]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.11.04-00.00.30:952][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012639s)
+[2017.11.04-00.00.30:978][601]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-00.00.30:995][601]LogInit: FAudioDevice initialized.
+[2017.11.04-00.00.31:037][601]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.04-00.00.31:042][601]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.03-20.00.31
+[2017.11.04-00.00.31:043][601]LogWorld: Bringing up level for play took: 0.004374
+[2017.11.04-00.00.31:095][601]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.04-00.00.31:107][601]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.054
+[2017.11.04-00.00.31:107][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.00.31:968][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.00.32:006][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.01.46:365][142]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Desktop/JonLee/Hand_of_God/Assets/lightshard.fbx)
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: Model, ItemCount : 2
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.04-00.01.46:376][142]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.04-00.01.46:381][142]LogFbx: Loading FBX Scene from ../../../../../../Desktop/JonLee/Hand_of_God/Assets/lightshard.fbx
+[2017.11.04-00.01.46:388][142]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.04-00.01.48:115][142]LogFbx: Loading FBX Scene from ../../../../../../Desktop/JonLee/Hand_of_God/Assets/lightshard.fbx
+[2017.11.04-00.01.48:122][142]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.04-00.01.48:122][142]LogLinker: Can't find file '/Game/OBJs/Purple_Gem1'
+[2017.11.04-00.01.48:122][142]LogLinker: Can't find file '/Game/OBJs/Purple_Gem1'
+[2017.11.04-00.01.48:130][142]LogMaterial: Missing cached shader map for material Purple_Gem1, compiling. 
+[2017.11.04-00.01.48:171][142]LogStaticMesh: Building static mesh lightshard...
+[2017.11.04-00.01.48:172][142]LogStaticMesh: Built static mesh [0.00s] /Game/OBJs/lightshard.lightshard
+[2017.11.04-00.01.48:184][142]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.04-00.03.07:126][150]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2017.11.04-00.03.07:907][150]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.04-00.03.07:929][150]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.11.04-00.03.08:044][150]LogSlate: Took 0.004360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.04-00.03.08:157][151]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.04-00.03.34:676][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4060.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:678][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4062.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:680][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4064.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:681][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4066.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:683][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4068.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:684][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4069.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:685][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4070.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:687][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4073.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:689][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4076.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:689][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4059.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:692][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4078.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:694][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4080.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.34:695][ 71]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4082.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:066][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4100.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:068][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4103.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:070][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4104.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:072][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4106.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:072][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4105.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.39:073][465]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4108.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.43:136][822]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_4113.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.03.47:200][191]BlueprintLog: New page: Compile LightShardBP
+[2017.11.04-00.03.48:049][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.03.48:115][227]LogSavePackage: Save=37.38ms
+[2017.11.04-00.03.48:115][227]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBPB389E0E8470BAC9F7CFE52A0B276AEAA.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.03.48:121][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.03.50:351][459]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-00.03.50:382][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.03.50:382][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-00.03.50:382][459]PIE: New page: PIE session: Beta (Nov 3, 2017, 4:03:50 PM)
+[2017.11.04-00.03.50:382][459]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.04-00.03.50:393][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010582s)
+[2017.11.04-00.03.50:394][459]LogAIModule: Creating AISystem for world Beta
+[2017.11.04-00.03.50:394][459]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2017.11.04-00.03.50:394][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.011540s)
+[2017.11.04-00.03.50:432][459]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-00.03.50:450][459]LogInit: FAudioDevice initialized.
+[2017.11.04-00.03.50:482][459]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.04-00.03.50:486][459]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.03-20.03.50
+[2017.11.04-00.03.50:486][459]LogWorld: Bringing up level for play took: 0.003688
+[2017.11.04-00.03.50:490][459]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.563
+[2017.11.04-00.03.50:490][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.03.52:630][714]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.04-00.03.52:630][714]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.04-00.03.55:302][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.03.55:337][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.04.09:709][387]BlueprintLog: New page: Compile LightShardBP
+[2017.11.04-00.04.10:598][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.04.10:673][427]LogSavePackage: Save=52.56ms
+[2017.11.04-00.04.10:673][427]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBP64B3C97D470908E12F274285D5291346.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.04.10:676][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.04.13:460][603]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-00.04.13:493][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.04.13:496][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-00.04.13:497][603]PIE: New page: PIE session: Beta (Nov 3, 2017, 4:04:13 PM)
+[2017.11.04-00.04.13:497][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.04-00.04.13:508][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010861s)
+[2017.11.04-00.04.13:508][603]LogAIModule: Creating AISystem for world Beta
+[2017.11.04-00.04.13:508][603]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.11.04-00.04.13:508][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.011825s)
+[2017.11.04-00.04.13:545][603]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-00.04.13:561][603]LogInit: FAudioDevice initialized.
+[2017.11.04-00.04.13:597][603]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.04-00.04.13:601][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.03-20.04.13
+[2017.11.04-00.04.13:602][603]LogWorld: Bringing up level for play took: 0.003876
+[2017.11.04-00.04.13:605][603]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.552
+[2017.11.04-00.04.13:605][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.04.15:676][775]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.04-00.04.15:676][775]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.04-00.04.21:812][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.04.21:851][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.04.38:322][117]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1).
+[2017.11.04-00.04.55:831][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_344.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.01:137][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_365.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.01:898][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.05.01:957][952]LogSavePackage: Save=36.06ms
+[2017.11.04-00.05.01:957][952]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBP70AAB20E472C15FDDA4B84BB633EE590.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.05.01:962][952]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.05.07:228][396]BlueprintLog: New page: Compile LightShardBP
+[2017.11.04-00.05.07:696][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_34.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.12:744][814]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_57.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.17:062][164]BlueprintLog: New page: Compile LightShardBP
+[2017.11.04-00.05.17:509][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_34.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.17:823][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.05.17:879][183]LogSavePackage: Save=35.88ms
+[2017.11.04-00.05.17:879][183]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBP07490F2748DA9911DA692CA39E69395E.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.05.17:882][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.05.22:196][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_LightShardBP_C_CHILDACTOR_54.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.05.23:477][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.05.23:531][626]LogSavePackage: Save=34.96ms
+[2017.11.04-00.05.23:531][626]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBP639E4C88432721293873E1BFBB6A37F0.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.05.23:534][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.05.24:072][668]BlueprintLog: New page: Compile LightShardBP
+[2017.11.04-00.05.24:731][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LightShardBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset" SILENT=true
+[2017.11.04-00.05.24:782][686]LogSavePackage: Save=37.76ms
+[2017.11.04-00.05.24:782][686]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/LightShardBPADC229EC4AB53091D2601A9BF73EE3E5.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset'
+[2017.11.04-00.05.24:783][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/LightShardBP.uasset
+[2017.11.04-00.05.33:255][350]MapCheck: New page: Map Check
+[2017.11.04-00.05.33:271][350]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.04-00.05.33:272][350]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.04-00.05.33:387][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.04-00.05.33:395][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.11.04-00.05.33:403][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy blinn2, compiling. 
+[2017.11.04-00.05.33:410][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EBlue, compiling. 
+[2017.11.04-00.05.33:418][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2017.11.04-00.05.34:089][350]TextureStreamingBuild: Display: Compiling optional shaders took 0.710 seconds.
+[2017.11.04-00.05.34:107][350]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2017.11.04-00.05.34:125][350]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2017.11.04-00.05.34:164][350]LightingResults: New page: Lighting Build - Nov 3, 2017, 4:05:34 PM
+[2017.11.04-00.05.34:246][350]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.04-00.05.34:525][350]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.04-00.05.34:539][350]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.04-00.05.35:799][350]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.04-00.05.35:799][350]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1750408
+[2017.11.04-00.05.45:008][350]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.04-00.05.45:009][350]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.04-00.05.45:009][350]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.04-00.05.45:009][350]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.04-00.05.45:009][350]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.04-00.05.45:009][350]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.04-00.05.46:993][350]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.04-00.05.46:994][350]MapCheck: New page: Beta - Nov 3, 2017, 4:05:46 PM
+[2017.11.04-00.05.46:995][350]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.11.04-00.05.47:077][350]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 83.185ms to complete.
+[2017.11.04-00.05.47:100][350]LogEditorBuildUtils: Build time 0:13
+[2017.11.04-00.05.47:201][350]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2017.11.04-00.05.47:215][350]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2017.11.04-00.05.47:287][351]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2017.11.04-00.05.47:298][351]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2017.11.04-00.05.47:343][352]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.04-00.05.47:353][352]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.04-00.05.52:805][514]LightingResults: Warning: Heartless_Model_polySurface9 Object has overlapping UVs.
+[2017.11.04-00.05.52:805][514]LightingResults: Heartless_Model_polySurface9 Lightmap UV are overlapping by 6.2%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.04-00.05.53:252][535]Job is a success!
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2017.11.04-00.05.53:315][536]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.04-00.05.53:337][536]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2017.11.04-00.05.53:338][536]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.04-00.05.53:338][536]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2017.11.04-00.05.53:338][536]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.04-00.05.53:338][536]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.11.04-00.05.53:338][536]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2017.11.04-00.05.53:385][536]Lightmass on SIGLAB-VR1: 2.96 sec total, 311 ms importing, 103 ms setup, 1.41 sec photons, 1.11 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 19.5 sec total, 615 ms processing.
+[2017.11.04-00.05.53:437][536]LogStaticLightingSystem: Illumination: 19.2 sec (4 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2017.11.04-00.05.53:438][536]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.04-00.05.53:438][536]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.04-00.05.53:820][536]DumpUnbuiltLightIteractions
+[2017.11.04-00.05.53:820][536]Lights with unbuilt interactions: 0
+[2017.11.04-00.05.53:820][536]
+[2017.11.04-00.05.53:820][536]Primitives with unbuilt interactions: 0
+[2017.11.04-00.05.53:839][537]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.04-00.05.53:839][537]MapCheck: New page: Beta - Nov 3, 2017, 4:05:53 PM
+[2017.11.04-00.05.53:916][537]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.682ms to complete.
+[2017.11.04-00.05.55:765][641]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-00.05.55:791][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.05.55:791][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-00.05.55:791][641]PIE: New page: PIE session: Beta (Nov 3, 2017, 4:05:55 PM)
+[2017.11.04-00.05.55:791][641]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.04-00.05.55:803][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011703s)
+[2017.11.04-00.05.55:804][641]LogAIModule: Creating AISystem for world Beta
+[2017.11.04-00.05.55:804][641]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.11.04-00.05.55:804][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012980s)
+[2017.11.04-00.05.55:849][641]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-00.05.55:866][641]LogInit: FAudioDevice initialized.
+[2017.11.04-00.05.55:897][641]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.04-00.05.55:901][641]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.03-20.05.55
+[2017.11.04-00.05.55:902][641]LogWorld: Bringing up level for play took: 0.004119
+[2017.11.04-00.05.55:905][641]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.852
+[2017.11.04-00.05.55:905][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.05.57:718][785]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.04-00.05.57:718][785]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.04-00.05.58:958][883]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_10] Light Shard! You have:
+[2017.11.04-00.05.58:958][883]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_10] 21
+[2017.11.04-00.06.01:613][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.06.01:660][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.04-00.09.05:938][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.04-00.09.12:175][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.04-00.09.13:274][136]LogSavePackage: Save=980.85ms
+[2017.11.04-00.09.13:274][136]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/Beta1F1FFD4E4F297C66F99615920E2C3A87.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap'
+[2017.11.04-00.09.13:303][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap
+[2017.11.04-00.09.13:426][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta_BuiltData" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset" SILENT=true
+[2017.11.04-00.09.13:487][136]LogSavePackage: Save=44.13ms
+[2017.11.04-00.09.13:487][136]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/Beta_BuiltDataB77553794CA49BBC08FB37B87F79DA43.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset'
+[2017.11.04-00.09.13:499][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset
+[2017.11.04-00.10.46:083][603]LogEditorViewport: Clicking on Actor (LMB): FloorTileBP_C (FloorTileBP4)
+[2017.11.04-00.11.07:795][197]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Desktop/JonLee/Hand_of_God/Assets/crystal.fbx)
+[2017.11.04-00.11.07:802][197]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: Model, ItemCount : 2
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.04-00.11.07:803][197]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.04-00.11.07:808][197]LogFbx: Loading FBX Scene from ../../../../../../Desktop/JonLee/Hand_of_God/Assets/crystal.fbx
+[2017.11.04-00.11.07:814][197]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.04-00.11.08:935][197]LogFbx: Loading FBX Scene from ../../../../../../Desktop/JonLee/Hand_of_God/Assets/crystal.fbx
+[2017.11.04-00.11.08:942][197]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.04-00.11.08:942][197]LogLinker: Can't find file '/Game/OBJs/Yellow_Gem1'
+[2017.11.04-00.11.08:943][197]LogLinker: Can't find file '/Game/OBJs/Yellow_Gem1'
+[2017.11.04-00.11.08:949][197]LogMaterial: Missing cached shader map for material Yellow_Gem1, compiling. 
+[2017.11.04-00.11.08:972][197]LogStaticMesh: Building static mesh crystal...
+[2017.11.04-00.11.08:973][197]LogStaticMesh: Built static mesh [0.00s] /Game/OBJs/crystal.crystal
+[2017.11.04-00.11.08:984][197]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.04-00.11.16:197][986]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:1).
+[2017.11.04-00.11.22:243][472]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2017.11.04-00.11.27:597][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OBJs/crystal" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/OBJs/crystal.uasset" SILENT=true
+[2017.11.04-00.11.27:613][825]LogSavePackage: Save=13.06ms
+[2017.11.04-00.11.27:613][825]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/crystal498A81E34DD3FBFCABD151B639E52652.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/OBJs/crystal.uasset'
+[2017.11.04-00.11.27:615][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/OBJs/crystal.uasset
+[2017.11.04-00.11.35:532][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.04-00.11.36:034][521]LogSavePackage: Save=445.12ms
+[2017.11.04-00.11.36:035][521]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/Beta8096F3F1419458FE3E133791777B18D9.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap'
+[2017.11.04-00.11.36:037][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta.umap
+[2017.11.04-00.11.36:077][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta_BuiltData" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset" SILENT=true
+[2017.11.04-00.11.36:111][521]LogSavePackage: Save=10.19ms
+[2017.11.04-00.11.36:111][521]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/Beta_BuiltData90BA6E784375CA973378428C4CC791D9.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset'
+[2017.11.04-00.11.36:112][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset
+[2017.11.04-00.11.50:159][492]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_CrystalBP_C_CHILDACTOR_321.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.11.50:160][492]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_CrystalBP_C_CHILDACTOR_323.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.11.50:162][492]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Beta.Beta:PersistentLevel.DESTROYED_CrystalBP_C_CHILDACTOR_324.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.04-00.11.58:642][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/CrystalBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset" SILENT=true
+[2017.11.04-00.11.58:701][ 81]LogSavePackage: Save=31.04ms
+[2017.11.04-00.11.58:701][ 81]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/CrystalBP5E8F4C764CDA9FD3CBDFD19E88DD3F30.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset'
+[2017.11.04-00.11.58:706][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset
+[2017.11.04-00.11.59:158][114]BlueprintLog: New page: Compile CrystalBP
+[2017.11.04-00.12.12:855][953]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.04-00.12.43:118][721]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.04-00.12.43:797][765]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.04-00.12.44:360][809]LogEditorTransaction: Undo Set Rotation
+[2017.11.04-00.12.53:666][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/CrystalBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset" SILENT=true
+[2017.11.04-00.12.53:722][553]LogSavePackage: Save=33.13ms
+[2017.11.04-00.12.53:722][553]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/CrystalBP4BADE24A405CA0C264DE34B3DFDB2C28.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset'
+[2017.11.04-00.12.53:727][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset
+[2017.11.04-00.13.03:417][217]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.04-00.13.09:194][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/CrystalBP" FILE="../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset" SILENT=true
+[2017.11.04-00.13.09:247][678]LogSavePackage: Save=31.08ms
+[2017.11.04-00.13.09:248][678]LogSavePackage: Moving '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Saved/CrystalBPB33DACB04CDD26A3D37904AB199FF406.tmp' to '../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset'
+[2017.11.04-00.13.09:253][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/JonLee/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/CrystalBP.uasset
+[2017.11.04-00.13.09:828][725]BlueprintLog: New page: Compile CrystalBP
+[2017.11.04-00.13.09:851][725]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_18, Actor: /Engine/Transient.World_18:PersistentLevel.REINST_CrystalBP_C_0
+[2017.11.04-00.13.09:852][725]LogWorld: --- Actors Currently in /Engine/Transient.World_18:PersistentLevel ---
+[2017.11.04-00.13.09:852][725]LogWorld:   /Engine/Transient.World_18:PersistentLevel.WorldSettings
+[2017.11.04-00.13.09:852][725]LogWorld:   /Engine/Transient.World_18:PersistentLevel.Brush_18
+[2017.11.04-00.13.09:852][725]LogWorld:   /Engine/Transient.World_18:PersistentLevel.DefaultPhysicsVolume_18
+[2017.11.04-00.13.09:852][725]LogWorld:   /Engine/Transient.World_18:PersistentLevel.ParticleEventManager_18
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   NONE
+[2017.11.04-00.13.09:852][725]LogWorld:   /Engine/Transient.World_18:PersistentLevel.CrystalBP_C_13
+[2017.11.04-00.13.09:965][725]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.113 s
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: 
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_18:PersistentLevel.REINST_CrystalBP_C_0 from world (check level is /Engine/Transient.World_18:PersistentLevel)
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: Stack: 
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000092391EA6 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000009213121A UE4Editor-Core.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000009214B826 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000009028D7F6 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008F928D85 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008F92EED3 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008DAEB275 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008DAECBDD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008DAAE29F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008A8816BF UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008A821584 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008DAB5DFE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008A820FB3 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008A870E41 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008A875BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008E9D7BBF UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EADD3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EA376D2 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EA38C29 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EAB8C25 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EB72B27 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EB9EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008E9B5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008E988095 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EA228A7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008EA0B092 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000008E9FD902 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x00000000E1F3E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x00000000E1F31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x00000000E1F403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x00000000E1F2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000000E69BC50 USER32.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x000000000E69B5CF USER32.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x00000000E1F41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000013FC50C8 UE4Editor.exe!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000013FD5430 UE4Editor.exe!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000013FD54AA UE4Editor.exe!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000013FE2379 UE4Editor.exe!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000013FE3D57 UE4Editor.exe!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000010A32774 KERNEL32.DLL!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: [Callstack] 0x0000000011170D51 ntdll.dll!UnknownFunction []
+[2017.11.04-00.13.09:965][725]LogOutputDevice: Error: 
+[2017.11.04-00.13.09:968][725]LogStats:                SubmitErrorReport -  0.000 s

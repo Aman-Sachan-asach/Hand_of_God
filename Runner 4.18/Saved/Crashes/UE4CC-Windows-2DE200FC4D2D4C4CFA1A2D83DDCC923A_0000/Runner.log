@@ -1,0 +1,722 @@
+﻿Log file open, 10/30/17 19:36:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(444689175) SRandInit(444689175).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168327
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.30-23.36.32:909][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.30-23.36.32:909][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.30-23.36.32:918][  0]LogInit: Computer: SIGLAB-VR2
+[2017.10.30-23.36.32:918][  0]LogInit: User: SIG
+[2017.10.30-23.36.32:918][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.30-23.36.32:918][  0]LogInit: High frequency timer resolution =3.604939 MHz
+[2017.10.30-23.36.32:918][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.10.30-23.36.32:918][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.30-23.36.32:918][  0]LogMemory: Process Physical Memory: 282.04 MB used, 282.04 MB peak
+[2017.10.30-23.36.32:918][  0]LogMemory: Process Virtual Memory: 275.81 MB used, 275.81 MB peak
+[2017.10.30-23.36.32:918][  0]LogMemory: Physical Memory: 8511.36 MB used,  24179.05 MB free, 32690.41 MB total
+[2017.10.30-23.36.32:918][  0]LogMemory: Virtual Memory: 698.14 MB used,  24179.05 MB free, 134217728.00 MB total
+[2017.10.30-23.36.33:070][  0]LogInit: Using OS detected language (en-US).
+[2017.10.30-23.36.33:070][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.30-23.36.33:072][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.30-23.36.33:695][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.30-23.36.33:716][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.30-23.36.33:716][  0]LogD3D11RHI:       8145/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.30-23.36.33:717][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.30-23.36.33:717][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.30-23.36.33:717][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.30-23.36.33:721][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.30-23.36.33:721][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.30-23.36.33:721][  0]LogWindows: EnumDisplayDevices:
+[2017.10.30-23.36.33:721][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.30-23.36.33:721][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.10.30-23.36.33:722][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.30-23.36.33:722][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.30-23.36.33:722][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.30-23.36.33:722][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.30-23.36.33:722][  0]LogD3D11RHI:   Driver Version: 376.51 (internal:21.21.13.7651, unified:376.51)
+[2017.10.30-23.36.33:722][  0]LogD3D11RHI:      Driver Date: 12-25-2016
+[2017.10.30-23.36.33:722][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.30-23.36.33:738][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.30-23.36.33:747][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.30-23.36.33:835][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Intermediate/Shaders/WorkingDirectory/100744/).
+[2017.10.30-23.36.33:835][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SIG/AppData/Local/Temp/UnrealShaderWorkingDir/AF6E2C634E44EA506EAF0193792DF80A/'.
+[2017.10.30-23.36.33:835][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.30-23.36.34:640][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.30-23.36.34:687][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.30-23.36.34:734][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.30-23.36.34:781][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.30-23.36.34:828][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.30-23.36.34:875][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.30-23.36.34:921][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.30-23.36.34:969][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.30-23.36.35:011][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.30-23.36.35:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.30-23.36.35:103][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.30-23.36.35:149][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.30-23.36.35:195][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.30-23.36.35:241][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.30-23.36.35:287][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.30-23.36.35:377][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.30-23.36.35:377][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.30-23.36.35:414][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.30-23.36.35:500][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.30-23.36.35:527][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.30-23.36.35:572][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.30-23.36.35:617][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.30-23.36.35:663][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.30-23.36.35:708][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.30-23.36.35:708][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.30-23.36.36:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/SIG/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SIG/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.30-23.36.36:253][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.30-23.36.36:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.30-23.36.36:279][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SIG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.30-23.36.36:288][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.30-23.36.36:288][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.30-23.36.36:289][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.30-23.36.36:289][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.30-23.36.36:516][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.10.30-23.36.36:622][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.30-23.36.36:751][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.30-23.36.37:043][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.30-23.36.37:085][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.30-23.36.37:085][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.30-23.36.37:085][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.30-23.36.37:085][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.30-23.36.37:085][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.30-23.36.37:406][  0]LogNetVersion: Runner , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1549170253)
+[2017.10.30-23.36.37:598][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.041757 seconds
+[2017.10.30-23.36.37:605][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.30-23.36.37:605][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.30-23.36.37:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.30-23.36.37:676][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.30-23.36.40:081][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.30-23.36.40:125][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.30-23.36.40:700][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.30-23.36.41:069][  0]SourceControl: Source control is disabled
+[2017.10.30-23.36.41:069][  0]SourceControl: Source control is disabled
+[2017.10.30-23.36.41:113][  0]SourceControl: Source control is disabled
+[2017.10.30-23.36.41:155][  0]SourceControl: Source control is disabled
+[2017.10.30-23.36.41:691][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.30-23.36.41:909][  0]LogOcInput: OculusInput pre-init called
+[2017.10.30-23.36.42:141][  0]LogEngine: Initializing Engine...
+[2017.10.30-23.36.42:158][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.10.30-23.36.42:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.30-23.36.42:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.30-23.36.42:478][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.30-23.36.42:491][  0]LogInit: XAudio2 using 'DELL U2414H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.30-23.36.42:509][  0]LogInit: FAudioDevice initialized.
+[2017.10.30-23.36.42:596][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/SIG/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.30-23.36.42:613][  0]LogInit: Texture streaming: Enabled
+[2017.10.30-23.36.42:723][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.30-23.36.42:928][  0]LogInit: Transaction tracking system initialized
+[2017.10.30-23.36.43:220][  0]BlueprintLog: New page: Editor Load
+[2017.10.30-23.36.44:096][  0]LocalizationService: Localization service is disabled
+[2017.10.30-23.36.44:747][  0]LogConsoleResponse: Display: 
+[2017.10.30-23.36.44:905][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.30-23.36.44:905][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.30-23.36.44:905][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.30-23.36.45:044][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/' took 0.01s
+[2017.10.30-23.36.45:888][  0]SourceControl: Source control is disabled
+[2017.10.30-23.36.45:889][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2017.10.30-23.36.45:895][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.10.30-23.36.45:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.10.30-23.36.45:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.10.30-23.36.45:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.10.30-23.36.45:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.10.30-23.36.45:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.10.30-23.36.45:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.10.30-23.36.45:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.10.30-23.36.45:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.10.30-23.36.45:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.10.30-23.36.45:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.10.30-23.36.45:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.10.30-23.36.45:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.10.30-23.36.45:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.10.30-23.36.45:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.10.30-23.36.45:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.10.30-23.36.45:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.10.30-23.36.45:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.10.30-23.36.45:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Fire01.uasset"
+[2017.10.30-23.36.45:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.10.30-23.36.45:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.10.30-23.36.45:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.10.30-23.36.45:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Light01.uasset"
+[2017.10.30-23.36.45:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.10.30-23.36.45:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Light02.uasset"
+[2017.10.30-23.36.45:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.10.30-23.36.45:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.10.30-23.36.45:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.10.30-23.36.46:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.10.30-23.36.46:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.10.30-23.36.46:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.10.30-23.36.46:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.10.30-23.36.46:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.10.30-23.36.46:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.10.30-23.36.46:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Steam01.uasset"
+[2017.10.30-23.36.46:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.10.30-23.36.46:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.10.30-23.36.46:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.10.30-23.36.46:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.10.30-23.36.46:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.10.30-23.36.46:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.10.30-23.36.46:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.10.30-23.36.46:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.10.30-23.36.46:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.10.30-23.36.46:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.10.30-23.36.46:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.10.30-23.36.46:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.10.30-23.36.46:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.10.30-23.36.46:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.10.30-23.36.46:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.10.30-23.36.46:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.10.30-23.36.46:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.10.30-23.36.46:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.10.30-23.36.46:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.10.30-23.36.46:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.10.30-23.36.46:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.10.30-23.36.46:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.10.30-23.36.46:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/StarterMap.umap"
+[2017.10.30-23.36.46:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.10.30-23.36.46:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.10.30-23.36.46:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.10.30-23.36.46:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.10.30-23.36.46:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.10.30-23.36.46:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.10.30-23.36.46:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.10.30-23.36.46:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.10.30-23.36.46:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.10.30-23.36.46:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.10.30-23.36.46:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.10.30-23.36.46:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.10.30-23.36.46:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.10.30-23.36.46:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.10.30-23.36.46:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.10.30-23.36.46:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.10.30-23.36.46:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.10.30-23.36.46:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.10.30-23.36.46:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.10.30-23.36.46:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.10.30-23.36.46:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.10.30-23.36.46:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.10.30-23.36.46:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.10.30-23.36.46:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.10.30-23.36.46:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.10.30-23.36.46:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.10.30-23.36.46:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.10.30-23.36.46:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.10.30-23.36.46:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.10.30-23.36.46:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.10.30-23.36.46:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.10.30-23.36.46:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.10.30-23.36.46:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.10.30-23.36.46:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.10.30-23.36.46:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.10.30-23.36.46:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.10.30-23.36.46:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.10.30-23.36.46:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.10.30-23.36.46:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.10.30-23.36.46:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.10.30-23.36.46:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.10.30-23.36.46:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.10.30-23.36.46:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.10.30-23.36.46:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.10.30-23.36.46:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.10.30-23.36.46:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.10.30-23.36.46:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.10.30-23.36.46:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.10.30-23.36.46:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.10.30-23.36.46:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.10.30-23.36.46:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.10.30-23.36.46:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.10.30-23.36.46:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.10.30-23.36.46:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.10.30-23.36.46:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.10.30-23.36.46:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.10.30-23.36.46:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.10.30-23.36.46:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.10.30-23.36.46:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.10.30-23.36.46:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.10.30-23.36.46:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.10.30-23.36.46:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.10.30-23.36.46:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.10.30-23.36.46:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.10.30-23.36.46:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.10.30-23.36.46:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Door.uasset"
+[2017.10.30-23.36.46:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.10.30-23.36.46:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.10.30-23.36.46:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.10.30-23.36.46:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.10.30-23.36.46:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.10.30-23.36.46:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.10.30-23.36.46:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.10.30-23.36.46:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.10.30-23.36.46:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.10.30-23.36.46:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.10.30-23.36.46:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.10.30-23.36.46:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.10.30-23.36.46:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.10.30-23.36.46:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.10.30-23.36.46:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.10.30-23.36.46:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.10.30-23.36.46:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.10.30-23.36.46:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.10.30-23.36.46:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.10.30-23.36.46:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.10.30-23.36.46:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.10.30-23.36.46:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.10.30-23.36.46:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.10.30-23.36.46:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.10.30-23.36.46:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.10.30-23.36.46:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.10.30-23.36.46:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.10.30-23.36.46:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.10.30-23.36.46:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.10.30-23.36.46:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.10.30-23.36.46:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.10.30-23.36.46:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.10.30-23.36.46:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.10.30-23.36.46:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.10.30-23.36.46:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.10.30-23.36.46:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.10.30-23.36.46:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.10.30-23.36.46:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.10.30-23.36.46:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.10.30-23.36.46:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.10.30-23.36.46:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.10.30-23.36.46:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.10.30-23.36.46:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.10.30-23.36.46:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.10.30-23.36.46:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.10.30-23.36.46:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.10.30-23.36.46:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.10.30-23.36.46:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.10.30-23.36.46:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.10.30-23.36.46:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.10.30-23.36.46:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.10.30-23.36.46:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.10.30-23.36.46:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.10.30-23.36.46:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.10.30-23.36.46:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.10.30-23.36.46:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.10.30-23.36.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.10.30-23.36.46:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.10.30-23.36.46:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.10.30-23.36.46:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.10.30-23.36.46:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.10.30-23.36.46:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.10.30-23.36.46:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.10.30-23.36.46:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.10.30-23.36.46:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.10.30-23.36.46:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.10.30-23.36.46:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.10.30-23.36.46:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.10.30-23.36.46:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.10.30-23.36.46:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.10.30-23.36.46:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.10.30-23.36.46:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.10.30-23.36.46:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.10.30-23.36.46:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.10.30-23.36.46:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.10.30-23.36.46:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.10.30-23.36.46:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.10.30-23.36.46:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.10.30-23.36.46:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.10.30-23.36.46:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.10.30-23.36.46:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.10.30-23.36.47:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.10.30-23.36.47:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.10.30-23.36.47:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.10.30-23.36.47:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.10.30-23.36.47:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.10.30-23.36.47:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.10.30-23.36.47:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.10.30-23.36.47:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.10.30-23.36.47:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.10.30-23.36.47:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.10.30-23.36.47:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.10.30-23.36.47:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.10.30-23.36.47:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.10.30-23.36.47:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.10.30-23.36.47:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.10.30-23.36.47:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.10.30-23.36.47:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.10.30-23.36.47:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.10.30-23.36.47:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.10.30-23.36.47:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.10.30-23.36.47:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.10.30-23.36.47:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.10.30-23.36.47:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.10.30-23.36.47:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.10.30-23.36.47:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.10.30-23.36.47:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.10.30-23.36.47:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.10.30-23.36.47:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.10.30-23.36.47:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.10.30-23.36.47:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.10.30-23.36.47:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.10.30-23.36.47:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.10.30-23.36.47:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.10.30-23.36.47:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.10.30-23.36.47:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.10.30-23.36.47:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.10.30-23.36.47:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.10.30-23.36.47:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.10.30-23.36.47:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.10.30-23.36.47:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.10.30-23.36.47:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.10.30-23.36.47:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.10.30-23.36.47:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.10.30-23.36.47:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.10.30-23.36.47:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.10.30-23.36.47:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.10.30-23.36.47:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.10.30-23.36.47:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.10.30-23.36.47:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.10.30-23.36.47:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.10.30-23.36.47:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.10.30-23.36.47:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.10.30-23.36.47:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.10.30-23.36.47:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.10.30-23.36.47:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.10.30-23.36.47:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.10.30-23.36.47:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.10.30-23.36.47:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.10.30-23.36.47:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.10.30-23.36.47:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.10.30-23.36.47:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.10.30-23.36.47:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.10.30-23.36.47:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.10.30-23.36.47:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.10.30-23.36.47:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.10.30-23.36.47:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.10.30-23.36.47:560][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-23.36.47:649][  0]LogSavePackage: Save=12.07ms
+[2017.10.30-23.36.47:649][  0]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/Floor_400x4003BA578C541D3F2ED2667E0B4B1B869E7.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.10.30-23.36.47:652][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.10.30-23.36.47:652][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.10.30-23.36.47:654][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.30-23.36.47:654][  0]LightingResults: New page: Lighting Build
+[2017.10.30-23.36.47:692][  0]MapCheck: New page: Map Check
+[2017.10.30-23.36.47:692][  0]LightingResults: New page: Lighting Build
+[2017.10.30-23.36.48:007][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.30-23.36.48:014][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.30-23.36.48:036][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.30-23.36.48:087][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.528ms to complete.
+[2017.10.30-23.36.48:087][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.434
+[2017.10.30-23.36.48:156][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.30-23.36.48:230][  0]LogCollectionManager: Loaded 0 collections in 0.001345 seconds
+[2017.10.30-23.36.48:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/Collections/' took 0.01s
+[2017.10.30-23.36.48:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/Developers/SIG/Collections/' took 0.01s
+[2017.10.30-23.36.48:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/Collections/' took 0.01s
+[2017.10.30-23.36.48:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.30-23.36.48:318][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2386 classes and 500 folders.
+[2017.10.30-23.36.48:380][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.30-23.36.48:411][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.30-23.36.48:454][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.30-23.36.48:471][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.30-23.36.48:473][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.30-23.36.48:477][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.30-23.36.48:508][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-23.36.48:539][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-23.36.48:699][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.10.30-23.36.48:699][  0]LogLoad: (Engine Initialization) Total time: 17.80 seconds
+[2017.10.30-23.36.48:699][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.30-23.36.48:699][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.30-23.36.48:699][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.30-23.36.48:728][  0]LogAssetRegistry: Asset discovery search completed in 12.2329 seconds
+[2017.10.30-23.36.48:729][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.30-23.36.48:729][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2017.10.30-23.36.48:827][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.30-23.37.09:987][ 15]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.10.30-23.37.10:107][ 16]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2017.10.30-23.37.13:375][393]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-23.37.13:676][393]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.10.30-23.37.14:200][393]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.30-23.37.14:252][393]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.30-23.37.14:378][394]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.30-23.37.33:673][727]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.10.30-23.37.36:349][883]LogSavePackage: Save=64.29ms
+[2017.10.30-23.37.36:349][883]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/ThirdPersonCharacterC37BAD5840450F990664938286FDBD67.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.10.30-23.37.36:351][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.10.30-23.37.45:067][250]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-23.37.45:151][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.30-23.37.45:151][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-23.37.45:151][250]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 30, 2017, 3:37:45 PM)
+[2017.10.30-23.37.45:151][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.30-23.37.45:170][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019047s)
+[2017.10.30-23.37.45:171][250]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.30-23.37.45:171][250]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2017.10.30-23.37.45:172][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020156s)
+[2017.10.30-23.37.45:198][250]LogInit: XAudio2 using 'DELL U2414H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.30-23.37.45:205][250]LogInit: FAudioDevice initialized.
+[2017.10.30-23.37.45:256][250]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.30-23.37.45:259][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.30-19.37.45
+[2017.10.30-23.37.45:259][250]LogWorld: Bringing up level for play took: 0.001730
+[2017.10.30-23.37.45:299][250]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.10.30-23.37.45:299][250]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.546
+[2017.10.30-23.37.45:300][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.30-23.37.56:797][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.30-23.37.56:870][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.30-23.38.45:035][530]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.30-23.38.45:049][530]LightingResults: New page: Lighting Build
+[2017.10.30-23.38.45:050][530]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.10.30-23.38.45:078][530]MapCheck: New page: Map Check
+[2017.10.30-23.38.45:078][530]LightingResults: New page: Lighting Build
+[2017.10.30-23.38.45:109][530]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.30-23.38.45:114][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.30-23.38.45:135][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.30-23.38.45:191][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.683ms to complete.
+[2017.10.30-23.38.45:191][530]LogFileHelpers: Loading map 'Template_Default' took 0.158
+[2017.10.30-23.38.54:530][132]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.30-23.38.55:910][209]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.30-23.39.13:885][149]LogRenderer: Reallocating scene render targets to support 1208x912 Format 10 NumSamples 1 (Frame:1).
+[2017.10.30-23.39.42:174][417]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.30-23.39.54:571][334]LogSavePackage: Save=19.44ms
+[2017.10.30-23.39.54:571][334]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/FloorTileBP4E31C25D4E41006AB8C967966923989A.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.30-23.39.54:573][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.30-23.39.55:257][387]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.30-23.40.12:630][760]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.30-23.40.23:571][659]LogSavePackage: Save=18.99ms
+[2017.10.30-23.40.23:571][659]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/FloorTileBPC9111E794E07C599197A96B46B1B7718.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.30-23.40.23:574][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.30-23.40.30:660][235]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.30-23.42.42:087][310]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.30-23.42.42:852][348]LogSavePackage: Save=20.08ms
+[2017.10.30-23.42.42:852][348]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/FloorTileBP93B40944440BD74EB0E388A9135A4944.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.30-23.42.42:854][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.30-23.43.19:507][682]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.30-23.43.20:151][713]LogSavePackage: Save=22.72ms
+[2017.10.30-23.43.20:151][713]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/FloorTileBPDBD0E67B4AC6154D4690FD8E42309E81.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.30-23.43.20:153][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.30-23.43.28:118][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.30-23.43.29:064][495]Cmd: DELETE
+[2017.10.30-23.43.29:064][495]Cmd: ACTOR DELETE
+[2017.10.30-23.43.29:064][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.30-23.43.29:081][495]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.10.30-23.43.36:677][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.30-23.43.39:717][456]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-23.43.39:733][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-23.43.39:733][456]PIE: New page: PIE session: Untitled_1 (Oct 30, 2017, 3:43:39 PM)
+[2017.10.30-23.43.39:734][456]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.10.30-23.43.39:735][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001463s)
+[2017.10.30-23.43.39:736][456]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.30-23.43.39:736][456]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2017.10.30-23.43.39:736][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002353s)
+[2017.10.30-23.43.39:762][456]LogInit: XAudio2 using 'DELL U2414H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.30-23.43.39:768][456]LogInit: FAudioDevice initialized.
+[2017.10.30-23.43.39:798][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.30-23.43.39:799][456]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.10.30-19.43.39
+[2017.10.30-23.43.39:799][456]LogWorld: Bringing up level for play took: 0.000925
+[2017.10.30-23.43.39:801][456]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.044
+[2017.10.30-23.43.59:808][423]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.30-23.44.00:950][523]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.30-23.44.02:718][680]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.30-23.44.05:446][922]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.30-23.44.06:088][977]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.30-23.44.06:098][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.30-23.44.06:099][977]PIE: New page: PIE session: Untitled_1 (Oct 30, 2017, 3:44:06 PM)
+[2017.10.30-23.44.06:099][977]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.10.30-23.44.06:100][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001498s)
+[2017.10.30-23.44.06:101][977]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.30-23.44.06:101][977]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2017.10.30-23.44.06:101][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002348s)
+[2017.10.30-23.44.06:127][977]LogInit: XAudio2 using 'DELL U2414H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.30-23.44.06:133][977]LogInit: FAudioDevice initialized.
+[2017.10.30-23.44.06:163][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.30-23.44.06:165][977]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.10.30-19.44.06
+[2017.10.30-23.44.06:165][977]LogWorld: Bringing up level for play took: 0.000925
+[2017.10.30-23.44.06:166][977]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.321
+[2017.10.30-23.44.26:036][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialLevel" FILE="../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.30-23.44.26:079][170]LogSavePackage: Save=22.31ms
+[2017.10.30-23.44.26:079][170]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/TutorialLevelBD354EDD4F9C3066FC69D78EBA44F637.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel.umap'
+[2017.10.30-23.44.26:082][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel.umap
+[2017.10.30-23.44.26:100][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialLevel_BuiltData" FILE="../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel_BuiltData.uasset" SILENT=true
+[2017.10.30-23.44.26:112][170]LogSavePackage: Save=9.57ms
+[2017.10.30-23.44.26:112][170]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Saved/TutorialLevel_BuiltDataF7BA5E904B6288571D837DBC298AF7EA.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel_BuiltData.uasset'
+[2017.10.30-23.44.26:113][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Hand_of_God/Runner/Content/TutorialLevel_BuiltData.uasset
+[2017.10.30-23.44.26:117][170]LogFileHelpers: Saving map 'TutorialLevel' took 0.603
+[2017.10.30-23.45.37:335][226]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.30-23.46.02:548][595]LogEditorTransaction: Undo Rename Variable
+[2017.10.30-23.46.02:606][595]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.054 s
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: 
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\ScopedTransaction.cpp] [Line: 20]
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: 
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: Stack: 
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000069933E36
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000696BC2D2
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000696D4746
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000626A737B
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000062678B40
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BCCE539
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC5AEF7
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC5F257
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F9EA227
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F80725A
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F807D7D
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7A6E74
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006C067D34
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006C02FD09
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006C02F1F7
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BFF0747
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000060927C93
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000006095AF74
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000608E922B
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000608EECCA
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000608ED507
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000609826BC
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000060985E23
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BCDDC61
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BCA79A6
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC5901C
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC5DD1C
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000050131CE7
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000624770EF
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BDC4B11
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000620D3D06
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000620FA552
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000620E2FD9
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000620E390B
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000062146D6B
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006218DE3F
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC59451
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006BC5E1B6
+[2017.10.30-23.46.02:606][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7A7DD0
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7E6850
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000062924FAE
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006291096F
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F794761
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7660BE
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F767CC6
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7E80B7
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006F7D9B18
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006990B498
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000698F3EE1
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006990D5BB
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000698EF042
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: USER32.dll!0x000000009B59BC50
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: USER32.dll!0x000000009B59B5CF
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006990DCC6
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor.exe!0x0000000044DC4BE2
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor.exe!0x0000000044DD3970
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor.exe!0x0000000044DD39EA
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor.exe!0x0000000044DE02D9
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: UE4Editor.exe!0x0000000044DE1C47
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: KERNEL32.DLL!0x000000009B902774
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: ntdll.dll!0x000000009BED0D51
+[2017.10.30-23.46.02:607][595]LogOutputDevice: Error: 
+[2017.10.30-23.46.02:608][595]LogStats:                SubmitErrorReport -  0.000 s
