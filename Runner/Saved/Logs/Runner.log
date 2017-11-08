@@ -1,0 +1,1056 @@
+﻿Log file open, 11/08/17 14:39:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(269788411) SRandInit(269788412).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288965
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.08-19.39.58:463][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-19.39.58:463][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.08-19.39.58:501][  0]LogInit: Computer: DESKTOP-PTDA5BA
+[2017.11.08-19.39.58:501][  0]LogInit: User: Aman
+[2017.11.08-19.39.58:501][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.08-19.39.58:501][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2017.11.08-19.39.58:501][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.11.08-19.39.58:501][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.08-19.39.58:501][  0]LogMemory: Process Physical Memory: 278.43 MB used, 278.43 MB peak
+[2017.11.08-19.39.58:501][  0]LogMemory: Process Virtual Memory: 274.18 MB used, 274.18 MB peak
+[2017.11.08-19.39.58:501][  0]LogMemory: Physical Memory: 4529.88 MB used,  28195.71 MB free, 32725.59 MB total
+[2017.11.08-19.39.58:501][  0]LogMemory: Virtual Memory: 669.07 MB used,  28195.71 MB free, 134217728.00 MB total
+[2017.11.08-19.39.59:093][  0]LogInit: Using OS detected language (en-US).
+[2017.11.08-19.39.59:093][  0]LogInit: Using OS detected locale (en-IN).
+[2017.11.08-19.39.59:176][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.08-19.40.02:086][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.08-19.40.02:121][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.08-19.40.02:121][  0]LogD3D11RHI:       8089/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.11.08-19.40.02:122][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.08-19.40.02:122][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.08-19.40.02:123][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.08-19.40.02:123][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.08-19.40.02:123][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.08-19.40.02:130][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.08-19.40.02:131][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.08-19.40.02:131][  0]LogWindows: EnumDisplayDevices:
+[2017.11.08-19.40.02:131][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.08-19.40.02:131][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.11.08-19.40.02:131][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.08-19.40.02:131][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.08-19.40.02:131][  0]LogWindows:    4. 'DisplayLink USB Device' (P:0 D:1)
+[2017.11.08-19.40.02:131][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.08-19.40.02:131][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.08-19.40.02:131][  0]LogD3D11RHI:   Driver Version: 388.00 (internal:23.21.13.8800, unified:388.00)
+[2017.11.08-19.40.02:131][  0]LogD3D11RHI:      Driver Date: 10-12-2017
+[2017.11.08-19.40.02:131][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.08-19.40.02:159][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.08-19.40.02:257][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.08-19.40.02:349][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/Documents/Github/Hand_of_God/Runner/Intermediate/Shaders/WorkingDirectory/11872/).
+[2017.11.08-19.40.02:349][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aman/AppData/Local/Temp/UnrealShaderWorkingDir/9EAEA1E84C13CD9852E2FAB47F0A1E08/'.
+[2017.11.08-19.40.02:350][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.08-19.40.04:371][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.08-19.40.04:415][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.08-19.40.04:460][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.08-19.40.04:502][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.08-19.40.04:550][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.08-19.40.04:593][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.08-19.40.04:636][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.08-19.40.04:679][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.08-19.40.04:717][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.08-19.40.04:766][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.08-19.40.04:815][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.08-19.40.04:860][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.08-19.40.04:927][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.08-19.40.05:006][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.08-19.40.05:048][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.08-19.40.05:149][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.08-19.40.05:149][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.08-19.40.05:183][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.08-19.40.05:278][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.08-19.40.05:306][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.08-19.40.05:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.08-19.40.05:398][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.08-19.40.05:442][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.08-19.40.05:493][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.08-19.40.05:493][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.08-19.40.06:069][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: Loaded boot cache 0.33s 93MB C:/Users/Aman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Github/Hand_of_God/Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Github/Hand_of_God/Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.08-19.40.06:397][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.08-19.40.06:422][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.08-19.40.06:435][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.08-19.40.06:447][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.08-19.40.06:452][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.08-19.40.06:469][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-19.40.06:470][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-19.40.07:241][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2017.11.08-19.40.07:373][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-19.40.07:770][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.08-19.40.08:103][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.08-19.40.08:139][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.08-19.40.08:140][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.08-19.40.08:140][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.08-19.40.08:140][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.08-19.40.08:140][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.08-19.40.08:897][  0]LogNetVersion: Runner , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1549170253)
+[2017.11.08-19.40.09:374][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.063752 seconds
+[2017.11.08-19.40.09:380][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.08-19.40.09:380][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.08-19.40.09:380][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.08-19.40.09:434][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.08-19.40.14:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.08-19.40.14:259][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.08-19.40.14:998][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.08-19.40.15:568][  0]SourceControl: Source control is disabled
+[2017.11.08-19.40.15:568][  0]SourceControl: Source control is disabled
+[2017.11.08-19.40.15:616][  0]SourceControl: Source control is disabled
+[2017.11.08-19.40.15:662][  0]SourceControl: Source control is disabled
+[2017.11.08-19.40.16:235][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.08-19.40.16:454][  0]LogOcInput: OculusInput pre-init called
+[2017.11.08-19.40.16:727][  0]LogEngine: Initializing Engine...
+[2017.11.08-19.40.16:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.08-19.40.17:155][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.08-19.40.17:156][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.08-19.40.17:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.08-19.40.17:467][  0]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.40.17:495][  0]LogInit: FAudioDevice initialized.
+[2017.11.08-19.40.17:555][  0]LogDerivedDataCache: Saved boot cache 0.06s 93MB C:/Users/Aman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.08-19.40.17:562][  0]LogInit: Texture streaming: Enabled
+[2017.11.08-19.40.17:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.08-19.40.17:945][  0]LogInit: Transaction tracking system initialized
+[2017.11.08-19.40.18:248][  0]BlueprintLog: New page: Editor Load
+[2017.11.08-19.40.19:253][  0]LocalizationService: Localization service is disabled
+[2017.11.08-19.40.19:854][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestLevel'
+[2017.11.08-19.40.19:854][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestLevel'
+[2017.11.08-19.40.19:854][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/TestLevel.TestLevel_C'
+[2017.11.08-19.40.20:053][  0]LogConsoleResponse: Display: 
+[2017.11.08-19.40.20:521][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.08-19.40.20:521][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.08-19.40.20:523][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.08-19.40.21:693][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Hand_of_God/Runner/Content/' took 0.02s
+[2017.11.08-19.40.21:753][  0]SourceControl: Source control is disabled
+[2017.11.08-19.40.21:755][  0]Cmd: MAP LOAD FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-19.40.21:757][  0]LightingResults: New page: Lighting Build
+[2017.11.08-19.40.21:818][  0]MapCheck: New page: Map Check
+[2017.11.08-19.40.21:818][  0]LightingResults: New page: Lighting Build
+[2017.11.08-19.40.22:667][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.08-19.40.22:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-19.40.22:725][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-19.40.22:784][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.729ms to complete.
+[2017.11.08-19.40.22:784][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.030
+[2017.11.08-19.40.23:009][  0]LogCollectionManager: Loaded 0 collections in 0.003078 seconds
+[2017.11.08-19.40.23:117][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Hand_of_God/Runner/Saved/Collections/' took 0.01s
+[2017.11.08-19.40.23:117][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Hand_of_God/Runner/Content/Developers/Aman/Collections/' took 0.01s
+[2017.11.08-19.40.23:117][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Hand_of_God/Runner/Content/Collections/' took 0.01s
+[2017.11.08-19.40.23:117][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.08-19.40.23:130][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2386 classes and 500 folders.
+[2017.11.08-19.40.23:213][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.11.08-19.40.23:647][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.11.08-19.40.23:696][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.08-19.40.23:762][  0]LogSlate: Took 0.007407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-19.40.23:771][  0]LogSlate: Took 0.006043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.08-19.40.23:783][  0]LogSlate: Took 0.005664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.08-19.40.23:965][  0]LogRenderer: Reallocating scene render targets to support 952x516 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-19.40.24:219][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2017.11.08-19.40.24:219][  0]LogLoad: (Engine Initialization) Total time: 28.45 seconds
+[2017.11.08-19.40.24:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.08-19.40.24:219][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.08-19.40.24:219][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.08-19.40.24:579][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.08-19.40.24:636][  0]LogSlate: Took 0.005232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-19.40.24:901][  1]LogAssetRegistry: Asset discovery search completed in 17.6821 seconds
+[2017.11.08-19.40.24:902][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.08-19.40.24:903][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2017.11.08-19.41.04:520][168]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-19.41.05:564][168]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.41.05:607][168]Cmd: MAP LOAD FILE="D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-19.41.05:607][168]LightingResults: New page: Lighting Build
+[2017.11.08-19.41.05:608][168]LoadErrors: New page: Loading map: Beta.umap
+[2017.11.08-19.41.05:609][168]MapCheck: New page: Map Check
+[2017.11.08-19.41.05:609][168]LightingResults: New page: Lighting Build
+[2017.11.08-19.41.05:658][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-19.41.05:701][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-19.41.05:754][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.311ms to complete.
+[2017.11.08-19.41.05:754][168]LogFileHelpers: Loading map 'Beta' took 0.148
+[2017.11.08-19.41.28:670][494]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-19.41.28:783][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.41.28:783][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-19.41.28:784][494]PIE: New page: PIE session: Beta (08-Nov-2017 9:41:28 am)
+[2017.11.08-19.41.28:784][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-19.41.28:796][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011923s)
+[2017.11.08-19.41.28:796][494]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.41.28:796][494]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.11.08-19.41.28:797][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012996s)
+[2017.11.08-19.41.28:944][494]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.41.28:956][494]LogInit: FAudioDevice initialized.
+[2017.11.08-19.41.29:005][494]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-19.41.29:022][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-14.41.29
+[2017.11.08-19.41.29:028][494]LogWorld: Bringing up level for play took: 0.016131
+[2017.11.08-19.41.29:098][494]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.11.08-19.41.29:104][494]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.344
+[2017.11.08-19.41.29:104][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.41.29:141][495]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.083157 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2017.11.08-19.41.30:734][590]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.41.30:734][590]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-19.41.41:802][254]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.41.41:802][254]LogBlueprintUserMessages: [FloorTileStartBP_177] 2
+[2017.11.08-19.41.46:673][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.41.46:720][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.41.59:927][242]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.11.08-19.42.00:585][242]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-19.42.00:701][242]LogSlate: Took 0.004400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.08-19.42.01:010][243]LogSlate: Took 0.004941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.08-19.42.22:897][430]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-19.42.22:927][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.42.22:928][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-19.42.22:928][430]PIE: New page: PIE session: Beta (08-Nov-2017 9:42:22 am)
+[2017.11.08-19.42.22:928][430]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-19.42.22:941][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013402s)
+[2017.11.08-19.42.22:942][430]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.42.22:942][430]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2017.11.08-19.42.22:943][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.014796s)
+[2017.11.08-19.42.23:113][430]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.42.23:123][430]LogInit: FAudioDevice initialized.
+[2017.11.08-19.42.23:159][430]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-19.42.23:167][430]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-14.42.23
+[2017.11.08-19.42.23:169][430]LogWorld: Bringing up level for play took: 0.007547
+[2017.11.08-19.42.23:174][430]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.274
+[2017.11.08-19.42.23:174][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.42.25:382][556]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.42.25:382][556]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-19.42.32:073][928]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_494] Light Shard! You have:
+[2017.11.08-19.42.32:073][928]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_494] 3
+[2017.11.08-19.42.32:883][971]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_570] Light Shard! You have:
+[2017.11.08-19.42.32:883][971]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_570] 4
+[2017.11.08-19.42.39:370][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.42.39:408][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.42.44:756][611]LogRenderer: Reallocating scene render targets to support 1056x696 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-19.43.09:486][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-19.43.09:566][902]LogSavePackage: Save=45.28ms
+[2017.11.08-19.43.09:566][902]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy6A94E6B8435D29767D8BECADB95708E7.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-19.43.09:573][902]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-19.43.10:927][974]BlueprintLog: New page: Compile Enemy
+[2017.11.08-19.43.12:674][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-19.43.12:729][ 39]LogSavePackage: Save=42.99ms
+[2017.11.08-19.43.12:729][ 39]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy9CF2BAC94B70723BF6A9B1A86588973E.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-19.43.12:731][ 39]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-19.43.14:648][143]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-19.43.14:674][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.43.14:674][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-19.43.14:674][143]PIE: New page: PIE session: Beta (08-Nov-2017 9:43:14 am)
+[2017.11.08-19.43.14:674][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-19.43.14:686][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011724s)
+[2017.11.08-19.43.14:687][143]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.43.14:687][143]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2017.11.08-19.43.14:687][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012967s)
+[2017.11.08-19.43.14:845][143]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.43.14:857][143]LogInit: FAudioDevice initialized.
+[2017.11.08-19.43.14:887][143]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-19.43.14:891][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-14.43.14
+[2017.11.08-19.43.14:892][143]LogWorld: Bringing up level for play took: 0.003756
+[2017.11.08-19.43.14:894][143]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.553
+[2017.11.08-19.43.14:895][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.43.16:696][249]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.43.16:696][249]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-19.43.21:582][542]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] Light Shard! You have:
+[2017.11.08-19.43.21:582][542]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] 3
+[2017.11.08-19.43.28:087][932]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_570] Light Shard! You have:
+[2017.11.08-19.43.28:087][932]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_570] 4
+[2017.11.08-19.43.54:728][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.43.54:766][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.44.29:782][388]BlueprintLog: New page: Compile Weapon
+[2017.11.08-19.44.32:615][512]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-19.44.32:638][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.44.32:638][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-19.44.32:639][512]PIE: New page: PIE session: Beta (08-Nov-2017 9:44:32 am)
+[2017.11.08-19.44.32:639][512]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-19.44.32:650][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010955s)
+[2017.11.08-19.44.32:650][512]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.44.32:650][512]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2017.11.08-19.44.32:651][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012144s)
+[2017.11.08-19.44.32:806][512]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.44.32:817][512]LogInit: FAudioDevice initialized.
+[2017.11.08-19.44.32:853][512]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-19.44.32:862][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-14.44.32
+[2017.11.08-19.44.32:864][512]LogWorld: Bringing up level for play took: 0.008540
+[2017.11.08-19.44.32:870][512]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.578
+[2017.11.08-19.44.32:871][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.44.34:504][607]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.44.34:504][607]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-19.44.40:356][957]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] Light Shard! You have:
+[2017.11.08-19.44.40:356][957]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] 3
+[2017.11.08-19.44.43:323][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_113] Crystal
+[2017.11.08-19.44.51:728][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.44.51:765][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.46.36:760][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset" SILENT=true
+[2017.11.08-19.46.36:872][758]LogSavePackage: Save=93.69ms
+[2017.11.08-19.46.36:872][758]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/WeaponD00977064A8F58BA76356489F3F08C2F.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset'
+[2017.11.08-19.46.36:875][758]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset
+[2017.11.08-19.47.50:272][648]LogEditorTransaction: Undo Move Node
+[2017.11.08-19.47.50:304][648]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-19.47.56:178][759]LogEditorTransaction: Undo Move Node
+[2017.11.08-19.48.42:706][974]BlueprintLog: New page: Compile Weapon
+[2017.11.08-19.49.23:918][241]BlueprintLog: New page: Compile Weapon
+[2017.11.08-19.49.34:373][774]BlueprintLog: New page: Compile Weapon
+[2017.11.08-19.49.35:409][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset" SILENT=true
+[2017.11.08-19.49.35:502][798]LogSavePackage: Save=80.60ms
+[2017.11.08-19.49.35:502][798]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Weapon542B4B0E48BE8CB03B3CA5B0DAD398FA.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset'
+[2017.11.08-19.49.35:505][798]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset
+[2017.11.08-19.49.37:061][880]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-19.49.37:088][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.49.37:088][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-19.49.37:088][880]PIE: New page: PIE session: Beta (08-Nov-2017 9:49:37 am)
+[2017.11.08-19.49.37:088][880]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-19.49.37:099][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011275s)
+[2017.11.08-19.49.37:100][880]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-19.49.37:100][880]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2017.11.08-19.49.37:100][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012304s)
+[2017.11.08-19.49.37:256][880]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-19.49.37:268][880]LogInit: FAudioDevice initialized.
+[2017.11.08-19.49.37:301][880]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-19.49.37:308][880]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-14.49.37
+[2017.11.08-19.49.37:309][880]LogWorld: Bringing up level for play took: 0.006694
+[2017.11.08-19.49.37:314][880]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.134
+[2017.11.08-19.49.37:315][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.49.39:951][ 33]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-19.49.39:951][ 33]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-19.49.59:600][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_113] Crystal
+[2017.11.08-19.50.02:040][334]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_498] Light Shard! You have:
+[2017.11.08-19.50.02:040][334]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_498] 3
+[2017.11.08-19.50.09:573][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.50.09:611][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-19.50.11:254][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset" SILENT=true
+[2017.11.08-19.50.11:336][845]LogSavePackage: Save=70.53ms
+[2017.11.08-19.50.11:336][845]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Weapon7991688F4436374AE326CE9C2CC5BD4E.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset'
+[2017.11.08-19.50.11:338][845]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset
+[2017.11.08-19.51.37:608][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:608][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:624][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:641][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:657][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:674][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:690][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:707][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:724][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:741][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:757][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:774][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:790][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:807][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:824][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:840][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:857][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:874][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:890][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:907][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:924][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:941][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:957][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:974][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.37:991][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.38:008][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.51.38:025][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.Weapon_C_1.FlashLightTrigger' 
+[2017.11.08-19.52.21:558][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset" SILENT=true
+[2017.11.08-19.52.21:655][ 30]LogSavePackage: Save=77.37ms
+[2017.11.08-19.52.21:655][ 30]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Weapon38280C234AEA56D01C74388F682991A2.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset'
+[2017.11.08-19.52.21:659][ 30]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Weapon.uasset
+[2017.11.08-19.52.23:033][100]BlueprintLog: New page: Compile Weapon
+[2017.11.08-19.53.11:352][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-19.53.11:696][107]LogSavePackage: Save=328.01ms
+[2017.11.08-19.53.11:696][107]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto15319519F45E80FF241BA07A670C517C9.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto1.umap'
+[2017.11.08-19.53.11:698][107]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto1.umap
+[2017.11.08-19.53.11:701][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.378
+[2017.11.08-19.53.11:701][107]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.378
+[2017.11.08-19.57.27:322][987]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.04.51:541][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-20.04.51:883][106]LogSavePackage: Save=323.58ms
+[2017.11.08-20.04.51:883][106]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto2C42E03CD4F3A896EECB1018AEC7AABB4.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap'
+[2017.11.08-20.04.51:886][106]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap
+[2017.11.08-20.04.51:889][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.376
+[2017.11.08-20.04.51:889][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.376
+[2017.11.08-20.04.51:913][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2017.11.08-20.04.51:949][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2017.11.08-20.04.51:950][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2017.11.08-20.04.52:015][106]LogSavePackage: Save=48.88ms
+[2017.11.08-20.04.52:015][106]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy_Auto2209ACA6446C04A1967C2758B236E1217.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto2.uasset'
+[2017.11.08-20.04.52:021][106]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto2.uasset
+[2017.11.08-20.04.52:021][106]LogFileHelpers: Auto-saving content packages took 0.112
+[2017.11.08-20.04.57:202][322]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.04.58:269][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-20.04.58:332][342]LogSavePackage: Save=48.89ms
+[2017.11.08-20.04.58:332][342]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyE357E5244D1CADE4C67E7C82D6F3E6F8.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-20.04.58:339][342]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-20.05.44:494][443]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{74246f82-d3f8-40ff-bfc6-5bac8a67f4ac} was removed. Shutting down audio device.
+[2017.11.08-20.06.35:644][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-20.06.35:702][ 91]LogSavePackage: Save=43.05ms
+[2017.11.08-20.06.35:702][ 91]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyED56900E43D618F0A67098B6882E02B2.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-20.06.35:706][ 91]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-20.09.58:254][778]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{74246f82-d3f8-40ff-bfc6-5bac8a67f4ac} was removed. Shutting down audio device.
+[2017.11.08-20.14.52:704][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-20.14.53:121][660]LogSavePackage: Save=398.30ms
+[2017.11.08-20.14.53:121][660]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto374AB62904DC12459736896A5BDD1D033.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap'
+[2017.11.08-20.14.53:124][660]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap
+[2017.11.08-20.14.53:126][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.470
+[2017.11.08-20.14.53:126][660]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.470
+[2017.11.08-20.14.53:141][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2017.11.08-20.14.53:164][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2017.11.08-20.14.53:164][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2017.11.08-20.14.53:237][660]LogSavePackage: Save=50.88ms
+[2017.11.08-20.14.53:237][660]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy_Auto3E1208960424377AAF60895A39AC90D52.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto3.uasset'
+[2017.11.08-20.14.53:238][660]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto3.uasset
+[2017.11.08-20.14.53:238][660]LogFileHelpers: Auto-saving content packages took 0.099
+[2017.11.08-20.23.48:223][694]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.24.46:698][163]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.08-20.28.29:979][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-20.28.30:351][924]LogSavePackage: Save=351.33ms
+[2017.11.08-20.28.30:351][924]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto4550021E3429C037353825683878DC954.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap'
+[2017.11.08-20.28.30:353][924]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap
+[2017.11.08-20.28.30:356][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.412
+[2017.11.08-20.28.30:356][924]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.412
+[2017.11.08-20.28.30:383][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2017.11.08-20.28.30:419][924]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2017.11.08-20.28.30:419][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2017.11.08-20.28.30:497][924]LogSavePackage: Save=56.62ms
+[2017.11.08-20.28.30:497][924]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy_Auto42F696F434D973E73183AD382E3BF9998.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto4.uasset'
+[2017.11.08-20.28.30:499][924]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto4.uasset
+[2017.11.08-20.28.30:500][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.08-20.28.30:510][924]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.08-20.28.30:510][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.11.08-20.28.30:715][924]LogSavePackage: Save=186.83ms
+[2017.11.08-20.28.30:715][924]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter_Auto49FC3C8EB412C9FF70E9769ACBE6D6670.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2017.11.08-20.28.30:720][924]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2017.11.08-20.28.30:720][924]LogFileHelpers: Auto-saving content packages took 0.338
+[2017.11.08-20.29.08:293][142]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.29.44:244][891]LogEditorTransaction: Undo Move Node
+[2017.11.08-20.29.44:662][900]LogEditorTransaction: Undo Move Node
+[2017.11.08-20.29.45:350][920]LogEditorTransaction: Undo Move Node
+[2017.11.08-20.30.20:919][740]LogSlate: Took 0.004243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.08-20.30.23:416][823]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.32.05:413][400]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.32.10:891][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.32.11:092][400]LogSavePackage: Save=190.02ms
+[2017.11.08-20.32.11:092][400]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacterD512F7784A3DBE9B705492B4ABA83D39.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.32.11:102][400]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.32.12:479][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.32.12:655][446]LogSavePackage: Save=161.21ms
+[2017.11.08-20.32.12:655][446]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter2EB92A084A799D7AF161DC908D43B821.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.32.12:656][446]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.32.14:588][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-20.32.14:653][526]LogSavePackage: Save=52.42ms
+[2017.11.08-20.32.14:653][526]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyE0ED8CA740A52EBFFFE5BCADDE256FF5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-20.32.14:659][526]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-20.32.16:814][632]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.32.16:843][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.32.16:843][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.32.16:844][632]PIE: New page: PIE session: Beta (08-Nov-2017 10:32:16 am)
+[2017.11.08-20.32.16:844][632]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.32.16:858][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014152s)
+[2017.11.08-20.32.16:859][632]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.32.16:859][632]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2017.11.08-20.32.16:860][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015860s)
+[2017.11.08-20.32.17:033][632]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.32.17:120][632]LogInit: FAudioDevice initialized.
+[2017.11.08-20.32.17:159][632]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.32.17:164][632]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.32.17
+[2017.11.08-20.32.17:165][632]LogWorld: Bringing up level for play took: 0.004419
+[2017.11.08-20.32.17:167][632]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.28
+[2017.11.08-20.32.17:168][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.32.19:508][771]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.32.19:508][771]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.32.21:407][885]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] Light Shard! You have:
+[2017.11.08-20.32.21:407][885]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] 3
+[2017.11.08-20.32.21:424][886]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_9] Crystal
+[2017.11.08-20.32.22:340][941]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_13] Crystal
+[2017.11.08-20.32.23:058][984]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_3] Light Shard! You have:
+[2017.11.08-20.32.23:058][984]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_3] 4
+[2017.11.08-20.32.25:096][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.32.25:134][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.33.44:500][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.33.44:710][144]LogSavePackage: Save=194.12ms
+[2017.11.08-20.33.44:710][144]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter238000DD4CEE6049CA45F4863E3D7621.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.33.44:714][144]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.33.45:535][180]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.33.52:785][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.33.52:992][206]LogSavePackage: Save=196.64ms
+[2017.11.08-20.33.52:992][206]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter7385DE7A499889EDE2158996DA47DC71.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.33.52:994][206]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.33.55:435][315]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.33.55:461][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.33.55:462][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.33.55:462][315]PIE: New page: PIE session: Beta (08-Nov-2017 10:33:55 am)
+[2017.11.08-20.33.55:462][315]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.33.55:476][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013711s)
+[2017.11.08-20.33.55:477][315]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.33.55:477][315]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2017.11.08-20.33.55:477][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.014840s)
+[2017.11.08-20.33.55:634][315]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.33.56:228][315]LogInit: FAudioDevice initialized.
+[2017.11.08-20.33.56:271][315]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.33.56:276][315]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.33.56
+[2017.11.08-20.33.56:277][315]LogWorld: Bringing up level for play took: 0.004670
+[2017.11.08-20.33.56:280][315]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.832
+[2017.11.08-20.33.56:280][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.33.57:738][384]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.33.57:738][384]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.34.00:124][499]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-20.34.00:211][503]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_25] Crystal
+[2017.11.08-20.34.00:211][503]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_15] Crystal
+[2017.11.08-20.34.00:460][515]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] Light Shard! You have:
+[2017.11.08-20.34.00:460][515]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_584] 3
+[2017.11.08-20.34.01:429][560]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] Light Shard! You have:
+[2017.11.08-20.34.01:429][560]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] 4
+[2017.11.08-20.34.08:120][865]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_10] Light Shard! You have:
+[2017.11.08-20.34.08:120][865]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_10] 5
+[2017.11.08-20.34.09:292][916]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.34.09:292][916]LogBlueprintUserMessages: [FloorTileStartBP_177] 10
+[2017.11.08-20.34.10:665][975]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.34.10:665][975]LogBlueprintUserMessages: [FloorTileStartBP_177] 11
+[2017.11.08-20.34.15:208][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_13] Crystal
+[2017.11.08-20.34.16:237][238]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] Light Shard! You have:
+[2017.11.08-20.34.16:237][238]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] 6
+[2017.11.08-20.34.17:378][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.34.17:414][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.35.02:544][645]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{74246f82-d3f8-40ff-bfc6-5bac8a67f4ac} was removed. Shutting down audio device.
+[2017.11.08-20.36.04:983][277]LogEditorTransaction: Undo Add Node
+[2017.11.08-20.36.06:060][322]LogEditorTransaction: Undo Edit Slow Mo Scale Value
+[2017.11.08-20.36.06:094][322]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_18:PersistentLevel.ThirdPersonCharacter_C_2.CollisionCylinder) Component already registered.
+[2017.11.08-20.41.12:607][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-20.41.13:047][299]LogSavePackage: Save=418.98ms
+[2017.11.08-20.41.13:047][299]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto5497507BE44D410DF5174D1BB7F937215.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto5.umap'
+[2017.11.08-20.41.13:050][299]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto5.umap
+[2017.11.08-20.41.13:052][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.478
+[2017.11.08-20.41.13:053][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.478
+[2017.11.08-20.41.13:079][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.08-20.41.13:115][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.08-20.41.13:116][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.11.08-20.41.13:348][299]LogSavePackage: Save=211.76ms
+[2017.11.08-20.41.13:348][299]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter_Auto5A8B12E4C4DB24B4077629BAF193992ED.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2017.11.08-20.41.13:350][299]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset
+[2017.11.08-20.41.13:350][299]LogFileHelpers: Auto-saving content packages took 0.272
+[2017.11.08-20.44.06:159][993]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.44.14:294][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.44.14:499][ 53]LogSavePackage: Save=194.20ms
+[2017.11.08-20.44.14:499][ 53]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter0233F8264821526D26AD6FA72B0398A0.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.44.14:506][ 53]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.44.18:153][241]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.44.18:179][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.44.18:179][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.44.18:179][241]PIE: New page: PIE session: Beta (08-Nov-2017 10:44:18 am)
+[2017.11.08-20.44.18:179][241]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.44.18:194][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013894s)
+[2017.11.08-20.44.18:195][241]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.44.18:195][241]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2017.11.08-20.44.18:195][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015056s)
+[2017.11.08-20.44.18:280][241]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.44.18:294][241]LogInit: FAudioDevice initialized.
+[2017.11.08-20.44.18:328][241]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.44.18:333][241]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.44.18
+[2017.11.08-20.44.18:334][241]LogWorld: Bringing up level for play took: 0.004599
+[2017.11.08-20.44.18:336][241]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.888
+[2017.11.08-20.44.18:336][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.44.19:504][310]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.44.19:504][310]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.44.20:358][361]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_39] Crystal
+[2017.11.08-20.44.20:575][374]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_113] Crystal
+[2017.11.08-20.44.21:560][433]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_33] Crystal
+[2017.11.08-20.44.21:642][438]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] Light Shard! You have:
+[2017.11.08-20.44.21:642][438]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] 3
+[2017.11.08-20.44.22:009][460]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_34] Crystal
+[2017.11.08-20.44.29:170][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.44.29:212][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.44.45:395][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:396][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:398][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:398][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:400][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:401][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:402][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:404][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:405][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:405][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:406][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:407][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:408][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:409][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:410][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:411][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:412][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:412][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:413][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:414][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:415][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:416][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:417][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:418][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:419][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:420][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:420][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:421][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:422][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:422][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:423][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:424][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:425][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:425][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:426][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:427][615]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-20.44.45:448][615]LogEditorActor: Deleted 36 Actors (0.061 secs)
+[2017.11.08-20.45.12:521][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.45.12:702][ 29]LogSavePackage: Save=168.05ms
+[2017.11.08-20.45.12:702][ 29]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter5EB2D8F44C81468F112B37901DE4EEB3.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.45.12:705][ 29]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.45.14:327][109]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.45.20:592][192]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.45.20:620][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.45.20:620][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.45.20:620][192]PIE: New page: PIE session: Beta (08-Nov-2017 10:45:20 am)
+[2017.11.08-20.45.20:620][192]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.45.20:630][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010154s)
+[2017.11.08-20.45.20:631][192]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.45.20:631][192]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2017.11.08-20.45.20:631][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.011127s)
+[2017.11.08-20.45.20:715][192]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.45.20:727][192]LogInit: FAudioDevice initialized.
+[2017.11.08-20.45.20:759][192]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.45.20:764][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.45.20
+[2017.11.08-20.45.20:764][192]LogWorld: Bringing up level for play took: 0.004313
+[2017.11.08-20.45.20:766][192]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.681
+[2017.11.08-20.45.20:767][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.45.22:018][259]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.45.22:018][259]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.45.22:852][304]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_39] Crystal
+[2017.11.08-20.45.24:092][370]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_33] Crystal
+[2017.11.08-20.45.29:840][670]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.45.29:840][670]LogBlueprintUserMessages: [FloorTileStartBP_177] 8
+[2017.11.08-20.45.30:980][727]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.45.30:980][727]LogBlueprintUserMessages: [FloorTileStartBP_177] 9
+[2017.11.08-20.45.32:126][783]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_40] Crystal
+[2017.11.08-20.45.33:076][830]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_43] Crystal
+[2017.11.08-20.45.39:269][116]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_14] Light Shard! You have:
+[2017.11.08-20.45.39:269][116]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_14] 3
+[2017.11.08-20.45.43:570][305]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.45.43:570][305]LogBlueprintUserMessages: [FloorTileStartBP_177] 23
+[2017.11.08-20.45.45:753][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.45.45:801][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.46.23:209][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.46.23:411][408]LogSavePackage: Save=184.87ms
+[2017.11.08-20.46.23:411][408]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter39BA24F04C6F1EB34A295CA82EFD23C5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.46.23:414][408]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.46.24:340][459]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.46.45:901][510]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.46.45:962][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.46.45:962][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.46.45:962][510]PIE: New page: PIE session: Beta (08-Nov-2017 10:46:45 am)
+[2017.11.08-20.46.45:962][510]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.46.45:982][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019403s)
+[2017.11.08-20.46.45:982][510]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.46.45:983][510]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2017.11.08-20.46.45:983][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.020455s)
+[2017.11.08-20.46.46:074][510]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.46.46:087][510]LogInit: FAudioDevice initialized.
+[2017.11.08-20.46.46:121][510]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.46.46:126][510]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.46.46
+[2017.11.08-20.46.46:127][510]LogWorld: Bringing up level for play took: 0.004297
+[2017.11.08-20.46.46:129][510]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.682
+[2017.11.08-20.46.46:130][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.46.47:555][594]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.46.47:555][594]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.46.48:439][647]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_39] Crystal
+[2017.11.08-20.46.48:627][658]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] Light Shard! You have:
+[2017.11.08-20.46.48:627][658]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] 3
+[2017.11.08-20.46.49:044][683]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] Light Shard! You have:
+[2017.11.08-20.46.49:044][683]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] 4
+[2017.11.08-20.46.49:647][719]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_33] Crystal
+[2017.11.08-20.46.53:585][954]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-20.46.56:163][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.46.56:210][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.06:446][665]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.47.13:017][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.47.13:200][734]LogSavePackage: Save=171.82ms
+[2017.11.08-20.47.13:200][734]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacterAD8390064AF5DA289410629D83555D6F.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.47.13:203][734]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.47.16:128][881]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.47.16:161][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.16:161][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.47.16:161][881]PIE: New page: PIE session: Beta (08-Nov-2017 10:47:16 am)
+[2017.11.08-20.47.16:161][881]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.47.16:173][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011859s)
+[2017.11.08-20.47.16:173][881]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.47.16:174][881]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2017.11.08-20.47.16:174][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012696s)
+[2017.11.08-20.47.16:276][881]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.47.16:289][881]LogInit: FAudioDevice initialized.
+[2017.11.08-20.47.16:323][881]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.47.16:328][881]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.47.16
+[2017.11.08-20.47.16:329][881]LogWorld: Bringing up level for play took: 0.004165
+[2017.11.08-20.47.16:331][881]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.883
+[2017.11.08-20.47.16:332][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.23:970][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.24:011][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.33:088][629]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.47.43:483][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.47.43:660][690]LogSavePackage: Save=164.47ms
+[2017.11.08-20.47.43:660][690]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter972BB34A4CAF49EDF4FA38837FFFABF0.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.47.43:664][690]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-20.47.45:668][745]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.47.45:698][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.45:698][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.47.45:698][745]PIE: New page: PIE session: Beta (08-Nov-2017 10:47:45 am)
+[2017.11.08-20.47.45:698][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.47.45:713][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014269s)
+[2017.11.08-20.47.45:713][745]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.47.45:713][745]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2017.11.08-20.47.45:714][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015252s)
+[2017.11.08-20.47.45:816][745]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.47.45:829][745]LogInit: FAudioDevice initialized.
+[2017.11.08-20.47.45:860][745]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.47.45:864][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.47.45
+[2017.11.08-20.47.45:865][745]LogWorld: Bringing up level for play took: 0.003962
+[2017.11.08-20.47.45:867][745]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.419
+[2017.11.08-20.47.45:867][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.47.55:307][308]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.47.55:307][308]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.48.00:475][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.48.00:517][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.12:869][378]LogEditorTransaction: Undo Delete current selection
+[2017.11.08-20.51.42:115][911]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.51.50:379][  5]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.51.50:406][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.50:406][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.51.50:406][  5]PIE: New page: PIE session: Beta (08-Nov-2017 10:51:50 am)
+[2017.11.08-20.51.50:406][  5]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.51.50:418][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012662s)
+[2017.11.08-20.51.50:419][  5]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.51.50:419][  5]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2017.11.08-20.51.50:420][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.014355s)
+[2017.11.08-20.51.50:506][  5]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.51.50:519][  5]LogInit: FAudioDevice initialized.
+[2017.11.08-20.51.50:553][  5]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.51.50:557][  5]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.51.50
+[2017.11.08-20.51.50:558][  5]LogWorld: Bringing up level for play took: 0.004430
+[2017.11.08-20.51.50:560][  5]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 1.112
+[2017.11.08-20.51.50:560][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.51:663][ 70]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.51.51:663][ 70]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.51.52:614][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_33] Crystal
+[2017.11.08-20.51.55:993][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.56:037][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.58:141][445]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-20.51.58:170][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.58:170][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-20.51.58:170][445]PIE: New page: PIE session: Beta (08-Nov-2017 10:51:58 am)
+[2017.11.08-20.51.58:170][445]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-20.51.58:182][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012382s)
+[2017.11.08-20.51.58:182][445]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-20.51.58:182][445]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2017.11.08-20.51.58:183][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.013413s)
+[2017.11.08-20.51.58:273][445]LogInit: XAudio2 using 'Speakers (DisplayLink Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-20.51.58:287][445]LogInit: FAudioDevice initialized.
+[2017.11.08-20.51.58:319][445]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-20.51.58:323][445]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-15.51.58
+[2017.11.08-20.51.58:323][445]LogWorld: Bringing up level for play took: 0.003874
+[2017.11.08-20.51.58:325][445]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.878
+[2017.11.08-20.51.58:326][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.51.59:584][519]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-20.51.59:584][519]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-20.52.00:002][544]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_39] Crystal
+[2017.11.08-20.52.00:086][549]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_40] Crystal
+[2017.11.08-20.52.01:339][624]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_34] Crystal
+[2017.11.08-20.52.02:207][676]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] Light Shard! You have:
+[2017.11.08-20.52.02:207][676]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] 3
+[2017.11.08-20.52.03:307][742]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_36] Crystal
+[2017.11.08-20.52.03:390][747]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_12] Light Shard! You have:
+[2017.11.08-20.52.03:390][747]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_12] 4
+[2017.11.08-20.52.08:021][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.52.08:065][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-20.53.08:571][468]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-20.55.09:605][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-20.55.10:011][237]LogSavePackage: Save=384.63ms
+[2017.11.08-20.55.10:011][237]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto6C6D903634B134AADF495E78D47CCE806.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto6.umap'
+[2017.11.08-20.55.10:014][237]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto6.umap
+[2017.11.08-20.55.10:020][237]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.453
+[2017.11.08-20.55.10:020][237]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.453
+[2017.11.08-20.55.10:048][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2017.11.08-20.55.10:084][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2017.11.08-20.55.10:084][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2017.11.08-20.55.10:161][237]LogSavePackage: Save=60.30ms
+[2017.11.08-20.55.10:161][237]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy_Auto667C13AE14515DB72D31E2DA82BFB869E.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto6.uasset'
+[2017.11.08-20.55.10:163][237]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto6.uasset
+[2017.11.08-20.55.10:163][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.08-20.55.10:174][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.08-20.55.10:174][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.11.08-20.55.10:357][237]LogSavePackage: Save=167.02ms
+[2017.11.08-20.55.10:357][237]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter_Auto64D69BFF6472E8EC76D0119B90759D930.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2017.11.08-20.55.10:359][237]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset
+[2017.11.08-20.55.10:359][237]LogFileHelpers: Auto-saving content packages took 0.312
+[2017.11.08-20.58.39:103][368]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.59.16:140][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-20.59.16:209][150]LogSavePackage: Save=58.48ms
+[2017.11.08-20.59.16:209][150]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy7A6B0519407AF7F93591018294C91A25.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-20.59.16:216][150]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-20.59.17:066][188]BlueprintLog: New page: Compile Enemy
+[2017.11.08-20.59.20:710][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-20.59.20:887][305]LogSavePackage: Save=165.11ms
+[2017.11.08-20.59.20:888][305]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter78C16C074B993E9C2D3B6D8A908D5154.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-20.59.20:894][305]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-21.02.07:494][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:496][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:497][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:498][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:499][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:500][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:500][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:501][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:502][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:503][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:503][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:504][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:505][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:506][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:506][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:507][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:508][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:508][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:509][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:510][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:511][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:513][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:514][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:515][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:516][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:517][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:518][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:518][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:519][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:520][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:520][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:521][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:522][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:522][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:523][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:524][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:524][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:525][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:526][148]LogEditorActor: Deleted Actor: CrystalBP_C
+[2017.11.08-21.02.07:549][148]LogEditorActor: Deleted 39 Actors (0.055 secs)
+[2017.11.08-21.05.10:634][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-21.05.10:958][195]LogSavePackage: Save=304.25ms
+[2017.11.08-21.05.10:958][195]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto710072A934952C43A72A250A6D2E08129.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto7.umap'
+[2017.11.08-21.05.10:960][195]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto7.umap
+[2017.11.08-21.05.10:963][195]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.353
+[2017.11.08-21.05.10:963][195]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2017.11.08-21.05.10:974][195]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2017.11.08-21.05.10:993][195]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2017.11.08-21.05.10:993][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2017.11.08-21.05.11:079][195]LogSavePackage: Save=68.92ms
+[2017.11.08-21.05.11:079][195]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy_Auto7404521814AD0DFE84B32A48A16FABEA1.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto7.uasset'
+[2017.11.08-21.05.11:082][195]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto7.uasset
+[2017.11.08-21.05.11:082][195]LogFileHelpers: Auto-saving content packages took 0.109
+[2017.11.08-21.05.40:698][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.08-21.05.41:030][907]LogSavePackage: Save=300.18ms
+[2017.11.08-21.05.41:030][907]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta8DD4C72C43A60A9714FF49977B6358B5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap'
+[2017.11.08-21.05.41:037][907]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap
+[2017.11.08-21.05.41:078][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset" SILENT=true
+[2017.11.08-21.05.41:111][907]LogSavePackage: Save=12.33ms
+[2017.11.08-21.05.41:111][907]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_BuiltDataCDE3BC7E4DE5CBD8A2BF0F8AA0A0AFD9.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset'
+[2017.11.08-21.05.41:112][907]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset
+[2017.11.08-21.15.47:440][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-21.15.47:518][ 40]LogSavePackage: Save=58.05ms
+[2017.11.08-21.15.47:518][ 40]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy0CA159994716C19257D908B80348D9E2.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-21.15.47:525][ 40]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SmokeOfDarkness:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SKEL_SmokeOfDarkness_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SmokeOfDarkness_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SmokeOfDarkness:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SmokeOfDarkness:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:616][708]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness.SmokeOfDarkness:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Smoke.PackageMetaData'
+[2017.11.08-21.16.42:634][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset" SILENT=true
+[2017.11.08-21.16.42:650][708]LogSavePackage: Save=13.22ms
+[2017.11.08-21.16.42:650][708]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarknessC089AF1F43EEDCA0A18C24B1D25D67BA.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset'
+[2017.11.08-21.16.42:653][708]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset
+[2017.11.08-21.17.40:450][260]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2017.11.08-21.17.51:674][879]LogCascade: Quitting Cascade. FXSystem=0x0000022BA500F240
+[2017.11.08-21.22.09:424][433]LogCascade: Quitting Cascade. FXSystem=0x0000022BA5046E80
+[2017.11.08-21.22.36:819][737]LogEditorTransaction: Undo Edit Curve
+[2017.11.08-21.22.37:026][747]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2017.11.08-21.22.37:231][754]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2017.11.08-21.22.37:412][761]LogEditorTransaction: Undo Edit Curve
+[2017.11.08-21.22.37:580][767]LogEditorTransaction: Undo Edit Curve
+[2017.11.08-21.22.37:773][775]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2017.11.08-21.22.37:963][782]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2017.11.08-21.22.38:188][791]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.38:371][798]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.38:566][806]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.38:766][814]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.38:959][822]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.39:134][829]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.39:333][837]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.39:530][845]LogEditorTransaction: Undo Edit Template
+[2017.11.08-21.22.39:709][852]LogEditorTransaction: Undo Rename Component Variable
+[2017.11.08-21.22.39:925][861]LogEditorTransaction: Undo Make New Scene Root
+[2017.11.08-21.22.40:114][868]LogEditorTransaction: Undo Add Component
+[2017.11.08-21.23.55:903][527]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2017.11.08-21.23.56:392][548]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2017.11.08-21.23.56:809][564]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2017.11.08-21.23.57:091][574]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2017.11.08-21.24.02:488][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2017.11.08-21.24.02:549][804]LogSavePackage: Save=44.49ms
+[2017.11.08-21.24.02:549][804]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/P_Explosion0DA9F67145A8D6DDC72F3CA23D59ABDB.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset'
+[2017.11.08-21.24.02:553][804]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.11.08-21.24.04:548][889]BlueprintLog: New page: Compile SmokeOfDarkness
+[2017.11.08-21.24.11:418][167]LogCascade: Quitting Cascade. FXSystem=0x0000022BAE17EF20
+[2017.11.08-21.25.00:070][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.027
+[2017.11.08-21.25.00:071][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness] ([1] browsable assets)...
+[2017.11.08-21.25.00:071][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness]
+[2017.11.08-21.25.00:103][393]LogSavePackage: Save=11.64ms
+[2017.11.08-21.25.00:103][393]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarkness_Auto86D97F6934610C3D4D8FF09ACB65FA8D7.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto8.uasset'
+[2017.11.08-21.25.00:104][393]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto8.uasset
+[2017.11.08-21.25.00:104][393]LogFileHelpers: Auto-saving content packages took 0.034
+[2017.11.08-21.26.03:166][259]BlueprintLog: New page: Compile SmokeOfDarkness
+[2017.11.08-21.28.38:984][642]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.08-21.35.01:231][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.028
+[2017.11.08-21.35.01:233][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness] ([1] browsable assets)...
+[2017.11.08-21.35.01:233][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness]
+[2017.11.08-21.35.01:271][943]LogSavePackage: Save=16.55ms
+[2017.11.08-21.35.01:271][943]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarkness_Auto913BA378E4A57797ADB6EE68C1F422E77.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto9.uasset'
+[2017.11.08-21.35.01:272][943]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto9.uasset
+[2017.11.08-21.35.01:273][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Explosion] ([1] browsable assets)...
+[2017.11.08-21.35.01:281][943]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Explosion.P_Explosion]
+[2017.11.08-21.35.01:281][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Explosion]
+[2017.11.08-21.35.01:341][943]LogSavePackage: Save=41.59ms
+[2017.11.08-21.35.01:341][943]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/P_Explosion_Auto9EA94F3DE4724F3E03D2A8281B449EEA5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/StarterContent/Particles/P_Explosion_Auto9.uasset'
+[2017.11.08-21.35.01:344][943]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/StarterContent/Particles/P_Explosion_Auto9.uasset
+[2017.11.08-21.35.01:344][943]LogFileHelpers: Auto-saving content packages took 0.112
+[2017.11.08-21.44.03:518][509]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2017.11.08-21.44.08:501][725]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2017.11.08-21.46.16:017][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2017.11.08-21.46.16:081][861]LogSavePackage: Save=43.88ms
+[2017.11.08-21.46.16:081][861]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/P_Explosion8D70C95E487425D39C0A02915DAF7F50.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset'
+[2017.11.08-21.46.16:087][861]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.11.08-21.46.19:176][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2017.11.08-21.46.19:223][ 42]LogSavePackage: Save=33.70ms
+[2017.11.08-21.46.19:223][ 42]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/P_ExplosionC8DAAFBD4E62CEA47B61D29E165FB8F0.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset'
+[2017.11.08-21.46.19:224][ 42]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.11.08-21.46.22:009][202]LogCascade: Quitting Cascade. FXSystem=0x0000022B6B3F9A80
+[2017.11.08-21.46.38:482][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset" SILENT=true
+[2017.11.08-21.46.38:513][ 50]LogSavePackage: Save=13.67ms
+[2017.11.08-21.46.38:513][ 50]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarkness1507401645CAE06FD14D6D9F0C93A2C2.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset'
+[2017.11.08-21.46.38:515][ 50]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset
+[2017.11.08-21.47.04:185][247]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.08-21.47.30:781][753]Cmd: DELETE
+[2017.11.08-21.47.30:781][753]Cmd: ACTOR DELETE
+[2017.11.08-21.47.30:790][753]LogEditorActor: Deleted Actor: SmokeOfDarkness_C
+[2017.11.08-21.47.30:812][753]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.11.08-21.47.55:543][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-21.47.55:857][ 50]LogSavePackage: Save=295.59ms
+[2017.11.08-21.47.55:857][ 50]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto0B16AFAF940833CA85F0FABA25E007E45.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto0.umap'
+[2017.11.08-21.47.55:859][ 50]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto0.umap
+[2017.11.08-21.47.55:864][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.341
+[2017.11.08-21.47.55:864][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
