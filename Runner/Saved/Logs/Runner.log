@@ -2196,3 +2196,8 @@ LogInit: Object subsystem initialized
 [2017.11.08-23.24.52:370][633]LogSavePackage: Save=10.29ms
 [2017.11.08-23.24.52:370][633]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_BuiltDataB7F4809C4F64DF5BCC47578D5A4E35AC.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset'
 [2017.11.08-23.24.52:371][633]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset
+[2017.11.08-23.25.47:060][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-23.25.47:269][846]LogSavePackage: Save=190.71ms
+[2017.11.08-23.25.47:269][846]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter086AD1E04F0B4B31C50560BF9836013F.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-23.25.47:273][846]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-23.25.57:829][388]BlueprintLog: New page: Compile ThirdPersonCharacter
