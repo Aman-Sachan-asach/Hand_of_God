@@ -1054,3 +1054,1145 @@ LogInit: Object subsystem initialized
 [2017.11.08-21.47.55:859][ 50]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto0.umap
 [2017.11.08-21.47.55:864][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.341
 [2017.11.08-21.47.55:864][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2017.11.08-22.40.23:579][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.037
+[2017.11.08-22.40.23:581][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness] ([1] browsable assets)...
+[2017.11.08-22.40.23:581][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness]
+[2017.11.08-22.40.23:615][537]LogSavePackage: Save=16.18ms
+[2017.11.08-22.40.23:615][537]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarkness_Auto1925A01394F9008D75D00739D8AF90D8D.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto1.uasset'
+[2017.11.08-22.40.23:617][537]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness_Auto1.uasset
+[2017.11.08-22.40.23:617][537]LogFileHelpers: Auto-saving content packages took 0.037
+[2017.11.08-22.41.10:422][228]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-22.41.10:456][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.41.10:456][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-22.41.10:456][228]PIE: New page: PIE session: Beta (08-Nov-2017 12:41:10 pm)
+[2017.11.08-22.41.10:456][228]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-22.41.10:467][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010695s)
+[2017.11.08-22.41.10:468][228]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-22.41.10:468][228]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2017.11.08-22.41.10:468][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012128s)
+[2017.11.08-22.41.10:624][228]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-22.41.11:302][228]LogInit: FAudioDevice initialized.
+[2017.11.08-22.41.11:349][228]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-22.41.11:353][228]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-17.41.11
+[2017.11.08-22.41.11:353][228]LogWorld: Bringing up level for play took: 0.003697
+[2017.11.08-22.41.11:356][228]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 1.908
+[2017.11.08-22.41.11:356][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.41.14:230][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.41.14:267][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.42.05:915][390]LogCascade: Quitting Cascade. FXSystem=0x0000022BA4DE9E40
+[2017.11.08-22.42.07:788][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SmokeOfDarkness" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset" SILENT=true
+[2017.11.08-22.42.07:811][479]LogSavePackage: Save=11.69ms
+[2017.11.08-22.42.07:811][479]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/SmokeOfDarkness50C5A12849E9EA5031C4C0A710CF28FC.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset'
+[2017.11.08-22.42.07:817][479]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/SmokeOfDarkness.uasset
+[2017.11.08-22.45.01:434][  9]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.08-22.52.20:152][650]BlueprintLog: New page: Compile Enemy
+[2017.11.08-22.52.21:292][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-22.52.21:378][676]LogSavePackage: Save=68.66ms
+[2017.11.08-22.52.21:378][676]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy0646D17643394323C182B49122B6FD1E.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-22.52.21:382][676]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-22.52.57:097][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-22.52.57:436][807]LogSavePackage: Save=321.87ms
+[2017.11.08-22.52.57:436][807]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto294DC9549420219793834DDA50A31A21F.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap'
+[2017.11.08-22.52.57:438][807]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto2.umap
+[2017.11.08-22.52.57:441][807]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.368
+[2017.11.08-22.52.57:441][807]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.368
+[2017.11.08-22.55.59:098][741]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-22.56.04:126][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-22.56.04:329][787]LogSavePackage: Save=184.22ms
+[2017.11.08-22.56.04:329][787]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacterCB6A1FA94B04B58AAE6EB4988324B0FB.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-22.56.04:336][787]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-22.59.38:819][792]BlueprintLog: New page: Compile Enemy
+[2017.11.08-22.59.41:899][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-22.59.41:991][939]LogSavePackage: Save=74.21ms
+[2017.11.08-22.59.41:991][939]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy597E43914DBED711C58CF480A0F65DCD.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-22.59.41:996][939]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-22.59.43:914][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-22.59.43:940][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.59.43:941][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-22.59.43:941][ 52]PIE: New page: PIE session: Beta (08-Nov-2017 12:59:43 pm)
+[2017.11.08-22.59.43:941][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-22.59.43:953][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012483s)
+[2017.11.08-22.59.43:954][ 52]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-22.59.43:954][ 52]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2017.11.08-22.59.43:955][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.013904s)
+[2017.11.08-22.59.44:129][ 52]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-22.59.44:141][ 52]LogInit: FAudioDevice initialized.
+[2017.11.08-22.59.44:173][ 52]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-22.59.44:177][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-17.59.44
+[2017.11.08-22.59.44:177][ 52]LogWorld: Bringing up level for play took: 0.003527
+[2017.11.08-22.59.44:180][ 52]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.732
+[2017.11.08-22.59.44:180][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-22.59.45:662][140]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-22.59.45:662][140]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-22.59.54:117][647]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_15] Light Shard! You have:
+[2017.11.08-22.59.54:117][647]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_15] 3
+[2017.11.08-23.00.08:105][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.08:145][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.25:895][495]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.00.25:923][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.25:923][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.00.25:923][495]PIE: New page: PIE session: Beta (08-Nov-2017 1:00:25 pm)
+[2017.11.08-23.00.25:923][495]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.00.25:935][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011434s)
+[2017.11.08-23.00.25:936][495]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.00.25:936][495]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2017.11.08-23.00.25:936][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012680s)
+[2017.11.08-23.00.26:102][495]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.00.26:113][495]LogInit: FAudioDevice initialized.
+[2017.11.08-23.00.26:148][495]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.00.26:152][495]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.00.26
+[2017.11.08-23.00.26:153][495]LogWorld: Bringing up level for play took: 0.003771
+[2017.11.08-23.00.26:155][495]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.707
+[2017.11.08-23.00.26:156][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.27:826][594]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.00.27:826][594]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.00.32:638][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.32:676][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.50:283][907]BlueprintLog: New page: Compile Enemy
+[2017.11.08-23.00.51:402][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-23.00.51:490][937]LogSavePackage: Save=75.19ms
+[2017.11.08-23.00.51:490][937]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy430A68E849E7CAD83C1B93ABFA08716D.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-23.00.51:493][937]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-23.00.53:265][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.00.53:292][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.53:292][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.00.53:292][ 43]PIE: New page: PIE session: Beta (08-Nov-2017 1:00:53 pm)
+[2017.11.08-23.00.53:292][ 43]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.00.53:303][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010594s)
+[2017.11.08-23.00.53:303][ 43]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.00.53:304][ 43]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2017.11.08-23.00.53:304][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.011525s)
+[2017.11.08-23.00.53:470][ 43]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.00.53:481][ 43]LogInit: FAudioDevice initialized.
+[2017.11.08-23.00.53:512][ 43]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.00.53:516][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.00.53
+[2017.11.08-23.00.53:517][ 43]LogWorld: Bringing up level for play took: 0.003899
+[2017.11.08-23.00.53:520][ 43]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.072
+[2017.11.08-23.00.53:520][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.00.53:783][ 58]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.00.54:283][ 88]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.00.54:681][112]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.00.54:698][113]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.00.54:731][115]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.00.54:784][118]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.00.54:784][118]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.00.55:016][132]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.00.55:049][134]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.00.55:049][134]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.00.55:216][144]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.00.55:287][148]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.00.55:287][148]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.00.55:616][168]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.00.55:700][173]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.00.55:716][174]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.00.55:787][178]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.00.55:788][178]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.00.56:171][201]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.00.56:274][207]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.00.56:274][207]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.00.56:721][234]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.00.56:773][237]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.00.56:773][237]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.00.57:275][267]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.00.57:275][267]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.00.57:688][292]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.00.57:774][297]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.00.57:774][297]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.00.58:072][315]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.00.58:106][317]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.00.58:191][322]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.00.58:275][327]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.00.58:275][327]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.00.58:489][340]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.00.58:573][345]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.00.58:623][348]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.00.58:775][357]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.00.58:775][357]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.00.58:891][364]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.00.59:277][387]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.00.59:277][387]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.00.59:708][413]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.00.59:758][416]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.00.59:777][417]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.00.59:777][417]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.00:113][437]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.00:284][447]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.00:284][447]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.00:546][463]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.00:629][468]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.00:679][471]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.00:783][477]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.00:783][477]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.01:103][496]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.01:103][496]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.01:273][506]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.01:273][506]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.01:555][523]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.01:774][536]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.01:774][536]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.01:924][545]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.01:924][545]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.02:140][558]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.02:189][561]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.02:275][566]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.02:275][566]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.02:640][588]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.02:672][590]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.01.02:689][591]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.01.02:773][596]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.02:776][596]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.02:776][596]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.02:892][603]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.02:959][607]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.01.03:043][612]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:093][615]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.03:143][618]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.03:177][620]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.03:209][622]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.03:209][622]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.01.03:210][622]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] Light Shard! You have:
+[2017.11.08-23.01.03:210][622]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5] 3
+[2017.11.08-23.01.03:227][623]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.03:227][623]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.03:280][626]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.03:281][626]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.03:295][627]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.03:295][627]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.01.03:347][630]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.03:381][632]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:382][632]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.03:399][633]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.03:433][635]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.01.03:468][637]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.03:500][639]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.03:518][640]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.03:533][641]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:550][642]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.01.03:550][642]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.03:567][643]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.01.03:584][644]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.03:601][645]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:601][645]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.03:619][646]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.03:619][646]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.03:635][647]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.03:635][647]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.03:637][647]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:652][648]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.03:652][648]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.01.03:670][649]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:686][650]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:686][650]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.03:719][652]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.03:735][653]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.03:751][654]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.03:752][654]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.03:752][654]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.03:768][655]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.03:768][655]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.03:772][655]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.03:772][655]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.03:802][657]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.03:803][657]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.03:854][660]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.03:855][660]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.03:922][664]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.03:922][664]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.03:922][664]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.03:923][664]LogBlueprintUserMessages: [Enemy_C_8] Overlap
+[2017.11.08-23.01.03:938][665]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.01.03:939][665]LogBlueprintUserMessages: [Enemy_C_10] Overlap
+[2017.11.08-23.01.03:956][666]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.03:989][668]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.04:006][669]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.04:023][670]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.01.04:023][670]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:040][671]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.04:040][671]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.04:057][672]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.04:090][674]LogBlueprintUserMessages: [Enemy_C_13] Overlap
+[2017.11.08-23.01.04:106][675]LogBlueprintUserMessages: [Enemy_C_0] Overlap
+[2017.11.08-23.01.04:106][675]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.04:106][675]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.04:107][675]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.04:157][678]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.04:190][680]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.04:208][681]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.04:225][682]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.04:241][683]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_3] Light Shard! You have:
+[2017.11.08-23.01.04:241][683]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_3] 4
+[2017.11.08-23.01.04:242][683]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.04:258][684]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.04:275][685]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.04:276][685]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.04:279][685]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.04:293][686]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.04:310][687]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:327][688]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:342][689]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.04:359][690]LogBlueprintUserMessages: [Enemy_C_1] Overlap
+[2017.11.08-23.01.04:361][690]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.04:361][690]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:409][693]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.04:426][694]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.04:442][695]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.04:459][696]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:476][697]LogBlueprintUserMessages: [Enemy_C_15] Overlap
+[2017.11.08-23.01.04:493][698]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:526][700]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.04:576][703]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:610][705]LogBlueprintUserMessages: [Enemy_C_14] Overlap
+[2017.11.08-23.01.04:642][707]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:643][707]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.04:659][708]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.04:660][708]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.04:676][709]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.04:692][710]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:726][712]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.04:779][715]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.04:826][718]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.04:894][722]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:994][728]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.04:995][728]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.05:162][738]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.05:179][739]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.05:195][740]LogBlueprintUserMessages: [Enemy_C_11] Overlap
+[2017.11.08-23.01.05:247][743]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.05:284][745]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.05:317][747]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.05:365][750]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.05:398][752]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.05:416][753]LogBlueprintUserMessages: [Enemy_C_2] Overlap
+[2017.11.08-23.01.05:633][766]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.05:633][766]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.05:649][767]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.05:650][767]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.05:666][768]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.05:683][769]LogBlueprintUserMessages: [Enemy_C_9] Overlap
+[2017.11.08-23.01.05:786][775]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.05:799][776]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.05:801][776]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.05:816][777]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.05:850][779]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.05:867][780]LogBlueprintUserMessages: [Enemy_C_17] Overlap
+[2017.11.08-23.01.05:883][781]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.05:884][781]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.05:916][783]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.06:000][788]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.06:016][789]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.06:117][795]LogBlueprintUserMessages: [Enemy_C_19] Overlap
+[2017.11.08-23.01.06:151][797]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.06:151][797]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.06:200][800]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.06:283][805]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.06:286][805]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.06:300][806]LogBlueprintUserMessages: [Enemy_C_3] Overlap
+[2017.11.08-23.01.06:534][820]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.06:534][820]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.06:618][825]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.06:701][830]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.06:734][832]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.06:771][834]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.06:920][843]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.06:986][847]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.07:020][849]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.07:070][852]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.07:103][854]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.07:170][858]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.07:203][860]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.07:272][864]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.07:637][886]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.07:772][894]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.07:905][902]LogBlueprintUserMessages: [Enemy_C_22] Overlap
+[2017.11.08-23.01.07:938][904]LogBlueprintUserMessages: [Enemy_C_6] Overlap
+[2017.11.08-23.01.07:956][905]LogBlueprintUserMessages: [Enemy_C_12] Overlap
+[2017.11.08-23.01.08:089][913]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.08:255][923]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.08:275][924]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.08:356][929]LogBlueprintUserMessages: [Enemy_C_23] Overlap
+[2017.11.08-23.01.08:406][932]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.08:423][933]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.08:543][940]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.08:694][949]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.08:728][951]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.08:744][952]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.08:777][954]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.08:778][954]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.08:782][954]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.08:831][957]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.08:935][963]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.09:001][967]LogBlueprintUserMessages: [Enemy_C_24] Overlap
+[2017.11.08-23.01.09:034][969]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.09:034][969]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:101][973]LogBlueprintUserMessages: [Enemy_C_25] Overlap
+[2017.11.08-23.01.09:151][976]LogBlueprintUserMessages: [Enemy_C_7] Overlap
+[2017.11.08-23.01.09:185][978]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.09:272][983]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.09:285][984]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.09:303][985]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:319][986]LogBlueprintUserMessages: [Enemy_C_26] Overlap
+[2017.11.08-23.01.09:335][987]LogBlueprintUserMessages: [Enemy_C_16] Overlap
+[2017.11.08-23.01.09:420][992]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:469][995]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:554][  0]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:656][  6]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.09:721][ 10]LogBlueprintUserMessages: [Enemy_C_4] Overlap
+[2017.11.08-23.01.09:722][ 10]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.09:775][ 13]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.09:790][ 14]LogBlueprintUserMessages: [Enemy_C_27] Overlap
+[2017.11.08-23.01.09:806][ 15]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.09:839][ 17]LogBlueprintUserMessages: [Enemy_C_5] Overlap
+[2017.11.08-23.01.10:042][ 29]LogBlueprintUserMessages: [Enemy_C_28] Overlap
+[2017.11.08-23.01.10:209][ 39]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.10:242][ 41]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.10:258][ 42]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.10:278][ 43]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.10:511][ 57]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.10:528][ 58]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.10:615][ 63]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.10:735][ 70]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.10:770][ 72]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.10:770][ 72]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.10:773][ 72]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.10:823][ 75]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.10:840][ 76]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.10:873][ 78]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.10:977][ 84]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.11:093][ 91]LogBlueprintUserMessages: [Enemy_C_29] Overlap
+[2017.11.08-23.01.11:144][ 94]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.11:160][ 95]LogBlueprintUserMessages: [Enemy_C_31] Overlap
+[2017.11.08-23.01.11:192][ 97]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.11:210][ 98]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.11:243][100]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.11:280][102]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.11:330][105]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.11:463][113]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.11:580][120]LogBlueprintUserMessages: [Enemy_C_30] Overlap
+[2017.11.08-23.01.11:631][123]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.11:647][124]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.11:732][129]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.11:784][132]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.11:967][143]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.11:984][144]LogBlueprintUserMessages: [Enemy_C_32] Overlap
+[2017.11.08-23.01.11:984][144]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:152][154]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:185][156]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.12:269][161]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:271][161]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.12:402][169]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.12:418][170]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:486][174]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.12:503][175]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:585][180]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.12:670][185]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.12:719][188]LogBlueprintUserMessages: [Enemy_C_34] Overlap
+[2017.11.08-23.01.12:752][190]LogBlueprintUserMessages: [Enemy_C_33] Overlap
+[2017.11.08-23.01.12:771][191]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.12:819][194]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.13:028][206]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.13:112][211]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.13:282][221]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.13:347][225]LogBlueprintUserMessages: [Enemy_C_35] Overlap
+[2017.11.08-23.01.13:380][227]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.13:496][234]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.13:563][238]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.13:563][238]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.13:581][239]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.13:713][247]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.13:729][248]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.13:747][249]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.13:784][251]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.13:798][252]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.13:814][253]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.13:848][255]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.13:899][258]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.14:138][272]LogBlueprintUserMessages: [Enemy_C_36] Overlap
+[2017.11.08-23.01.14:138][272]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.14:171][274]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.14:238][278]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.14:276][280]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.14:478][292]LogBlueprintUserMessages: [Enemy_C_37] Overlap
+[2017.11.08-23.01.14:602][299]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.14:776][309]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.14:807][311]LogBlueprintUserMessages: [Enemy_C_20] Overlap
+[2017.11.08-23.01.14:842][313]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:039][324]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:160][331]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:177][332]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:278][338]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:282][338]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.15:364][343]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:365][343]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.15:415][346]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.15:583][356]LogBlueprintUserMessages: [Enemy_C_38] Overlap
+[2017.11.08-23.01.15:618][358]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.15:635][359]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.15:735][365]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.15:772][367]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.15:786][368]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.15:854][372]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.15:872][373]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.15:941][377]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.16:012][381]LogBlueprintUserMessages: [Enemy_C_21] Overlap
+[2017.11.08-23.01.16:084][385]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.16:121][387]LogBlueprintUserMessages: [Enemy_C_40] Overlap
+[2017.11.08-23.01.16:157][389]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.16:158][389]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.16:195][391]LogBlueprintUserMessages: [Enemy_C_39] Overlap
+[2017.11.08-23.01.16:280][396]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.16:284][396]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.16:417][404]LogBlueprintUserMessages: [Enemy_C_41] Overlap
+[2017.11.08-23.01.16:468][407]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.16:483][408]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_6] Crystal
+[2017.11.08-23.01.16:552][412]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.16:671][419]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.16:689][420]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.16:757][424]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.16:779][425]LogBlueprintUserMessages: [Enemy_C_46] Overlap
+[2017.11.08-23.01.16:846][429]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.17:088][443]LogBlueprintUserMessages: [Enemy_C_42] Overlap
+[2017.11.08-23.01.17:105][444]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.17:181][448]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.17:201][449]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.17:219][450]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.17:276][453]LogBlueprintUserMessages: [Enemy_C_47] Overlap
+[2017.11.08-23.01.17:327][456]LogBlueprintUserMessages: [Enemy_C_18] Overlap
+[2017.11.08-23.01.17:431][462]LogBlueprintUserMessages: [Enemy_C_43] Overlap
+[2017.11.08-23.01.17:483][465]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.17:637][474]LogBlueprintUserMessages: [Enemy_C_46] Overlap
+[2017.11.08-23.01.17:740][480]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.17:781][482]LogBlueprintUserMessages: [Enemy_C_48] Overlap
+[2017.11.08-23.01.17:845][486]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.17:901][489]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.17:973][493]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.18:081][499]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.18:116][501]LogBlueprintUserMessages: [Enemy_C_45] Overlap
+[2017.11.08-23.01.18:169][504]LogBlueprintUserMessages: [Enemy_C_46] Overlap
+[2017.11.08-23.01.18:188][505]LogBlueprintUserMessages: [Enemy_C_47] Overlap
+[2017.11.08-23.01.18:284][510]LogBlueprintUserMessages: [Enemy_C_49] Overlap
+[2017.11.08-23.01.18:338][513]LogBlueprintUserMessages: [Enemy_C_44] Overlap
+[2017.11.08-23.01.18:372][515]LogBlueprintUserMessages: [Enemy_C_46] Overlap
+[2017.11.08-23.01.18:389][516]LogBlueprintUserMessages: [Enemy_C_46] Overlap
+[2017.11.08-23.01.18:448][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.01.18:491][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.02.35:908][989]BlueprintLog: New page: Compile Enemy
+[2017.11.08-23.02.37:039][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-23.02.37:126][ 20]LogSavePackage: Save=75.43ms
+[2017.11.08-23.02.37:126][ 20]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy30FE9783453BAC2AF8F0C9AB4883FAD9.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-23.02.37:129][ 20]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-23.02.39:014][132]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.02.39:038][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.02.39:038][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.02.39:038][132]PIE: New page: PIE session: Beta (08-Nov-2017 1:02:39 pm)
+[2017.11.08-23.02.39:038][132]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.02.39:049][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011016s)
+[2017.11.08-23.02.39:050][132]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.02.39:051][132]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2017.11.08-23.02.39:051][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.012441s)
+[2017.11.08-23.02.39:212][132]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.02.39:224][132]LogInit: FAudioDevice initialized.
+[2017.11.08-23.02.39:259][132]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.02.39:262][132]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.02.39
+[2017.11.08-23.02.39:263][132]LogWorld: Bringing up level for play took: 0.003535
+[2017.11.08-23.02.39:266][132]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.182
+[2017.11.08-23.02.39:266][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.02.39:531][147]LogBlueprintUserMessages: [Enemy_C_0] No OverLap
+[2017.11.08-23.02.40:032][177]LogBlueprintUserMessages: [Enemy_C_1] No OverLap
+[2017.11.08-23.02.40:447][202]LogBlueprintUserMessages: [Enemy_C_0] No OverLap
+[2017.11.08-23.02.40:463][203]LogBlueprintUserMessages: [Enemy_C_1] No OverLap
+[2017.11.08-23.02.40:532][207]LogBlueprintUserMessages: [Enemy_C_2] No OverLap
+[2017.11.08-23.02.40:612][212]LogBlueprintUserMessages: [Enemy_C_0] No OverLap
+[2017.11.08-23.02.40:913][230]LogBlueprintUserMessages: [Enemy_C_1] No OverLap
+[2017.11.08-23.02.41:014][236]LogBlueprintUserMessages: [Enemy_C_2] No OverLap
+[2017.11.08-23.02.41:032][237]LogBlueprintUserMessages: [Enemy_C_3] No OverLap
+[2017.11.08-23.02.41:032][237]LogBlueprintUserMessages: [Enemy_C_3] No OverLap
+[2017.11.08-23.02.41:146][244]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.02.41:146][244]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.02.41:379][258]LogBlueprintUserMessages: [Enemy_C_2] No OverLap
+[2017.11.08-23.02.41:532][267]LogBlueprintUserMessages: [Enemy_C_4] No OverLap
+[2017.11.08-23.02.41:532][267]LogBlueprintUserMessages: [Enemy_C_4] No OverLap
+[2017.11.08-23.02.41:896][289]LogBlueprintUserMessages: [Enemy_C_3] No OverLap
+[2017.11.08-23.02.41:946][292]LogBlueprintUserMessages: [Enemy_C_3] No OverLap
+[2017.11.08-23.02.41:963][293]LogBlueprintUserMessages: [Enemy_C_3] No OverLap
+[2017.11.08-23.02.42:032][297]LogBlueprintUserMessages: [Enemy_C_5] No OverLap
+[2017.11.08-23.02.42:032][297]LogBlueprintUserMessages: [Enemy_C_5] No OverLap
+[2017.11.08-23.02.42:330][315]LogBlueprintUserMessages: [Enemy_C_2] No OverLap
+[2017.11.08-23.02.42:346][316]LogBlueprintUserMessages: [Enemy_C_2] No OverLap
+[2017.11.08-23.02.42:463][323]LogBlueprintUserMessages: [Enemy_C_4] No OverLap
+[2017.11.08-23.02.42:533][327]LogBlueprintUserMessages: [Enemy_C_6] No OverLap
+[2017.11.08-23.02.42:533][327]LogBlueprintUserMessages: [Enemy_C_6] No OverLap
+[2017.11.08-23.02.42:863][347]LogBlueprintUserMessages: [Enemy_C_5] No OverLap
+[2017.11.08-23.02.43:033][357]LogBlueprintUserMessages: [Enemy_C_7] No OverLap
+[2017.11.08-23.02.43:033][357]LogBlueprintUserMessages: [Enemy_C_7] No OverLap
+[2017.11.08-23.02.43:364][377]LogBlueprintUserMessages: [Enemy_C_6] No OverLap
+[2017.11.08-23.02.43:533][387]LogBlueprintUserMessages: [Enemy_C_8] No OverLap
+[2017.11.08-23.02.43:533][387]LogBlueprintUserMessages: [Enemy_C_8] No OverLap
+[2017.11.08-23.02.43:630][393]LogBlueprintUserMessages: [Enemy_C_6] No OverLap
+[2017.11.08-23.02.43:951][412]LogBlueprintUserMessages: [Enemy_C_7] No OverLap
+[2017.11.08-23.02.44:021][416]LogBlueprintUserMessages: [Enemy_C_9] No OverLap
+[2017.11.08-23.02.44:021][416]LogBlueprintUserMessages: [Enemy_C_9] No OverLap
+[2017.11.08-23.02.44:451][442]LogBlueprintUserMessages: [Enemy_C_8] No OverLap
+[2017.11.08-23.02.44:468][443]LogBlueprintUserMessages: [Enemy_C_8] No OverLap
+[2017.11.08-23.02.44:520][446]LogBlueprintUserMessages: [Enemy_C_10] No OverLap
+[2017.11.08-23.02.44:520][446]LogBlueprintUserMessages: [Enemy_C_10] No OverLap
+[2017.11.08-23.02.44:535][447]LogBlueprintUserMessages: [Enemy_C_7] No OverLap
+[2017.11.08-23.02.44:668][455]LogBlueprintUserMessages: [Enemy_C_8] No OverLap
+[2017.11.08-23.02.44:919][470]LogBlueprintUserMessages: [Enemy_C_9] No OverLap
+[2017.11.08-23.02.45:022][476]LogBlueprintUserMessages: [Enemy_C_11] No OverLap
+[2017.11.08-23.02.45:022][476]LogBlueprintUserMessages: [Enemy_C_11] No OverLap
+[2017.11.08-23.02.45:336][495]LogBlueprintUserMessages: [Enemy_C_10] No OverLap
+[2017.11.08-23.02.45:521][506]LogBlueprintUserMessages: [Enemy_C_12] No OverLap
+[2017.11.08-23.02.45:521][506]LogBlueprintUserMessages: [Enemy_C_12] No OverLap
+[2017.11.08-23.02.45:923][530]LogBlueprintUserMessages: [Enemy_C_11] No OverLap
+[2017.11.08-23.02.46:025][536]LogBlueprintUserMessages: [Enemy_C_13] No OverLap
+[2017.11.08-23.02.46:025][536]LogBlueprintUserMessages: [Enemy_C_13] No OverLap
+[2017.11.08-23.02.46:056][538]LogBlueprintUserMessages: [Enemy_C_10] No OverLap
+[2017.11.08-23.02.46:455][562]LogBlueprintUserMessages: [Enemy_C_12] No OverLap
+[2017.11.08-23.02.46:472][563]LogBlueprintUserMessages: [Enemy_C_11] No OverLap
+[2017.11.08-23.02.46:525][566]LogBlueprintUserMessages: [Enemy_C_14] No OverLap
+[2017.11.08-23.02.46:525][566]LogBlueprintUserMessages: [Enemy_C_14] No OverLap
+[2017.11.08-23.02.46:805][583]LogBlueprintUserMessages: [Enemy_C_12] No OverLap
+[2017.11.08-23.02.46:906][589]LogBlueprintUserMessages: [Enemy_C_13] No OverLap
+[2017.11.08-23.02.47:025][596]LogBlueprintUserMessages: [Enemy_C_15] No OverLap
+[2017.11.08-23.02.47:025][596]LogBlueprintUserMessages: [Enemy_C_15] No OverLap
+[2017.11.08-23.02.47:456][622]LogBlueprintUserMessages: [Enemy_C_14] No OverLap
+[2017.11.08-23.02.47:524][626]LogBlueprintUserMessages: [Enemy_C_16] No OverLap
+[2017.11.08-23.02.47:524][626]LogBlueprintUserMessages: [Enemy_C_16] No OverLap
+[2017.11.08-23.02.47:875][647]LogBlueprintUserMessages: [Enemy_C_15] No OverLap
+[2017.11.08-23.02.48:029][656]LogBlueprintUserMessages: [Enemy_C_17] No OverLap
+[2017.11.08-23.02.48:029][656]LogBlueprintUserMessages: [Enemy_C_17] No OverLap
+[2017.11.08-23.02.48:243][669]LogBlueprintUserMessages: [Enemy_C_15] No OverLap
+[2017.11.08-23.02.48:460][682]LogBlueprintUserMessages: [Enemy_C_16] No OverLap
+[2017.11.08-23.02.48:530][686]LogBlueprintUserMessages: [Enemy_C_18] No OverLap
+[2017.11.08-23.02.48:530][686]LogBlueprintUserMessages: [Enemy_C_18] No OverLap
+[2017.11.08-23.02.48:911][709]LogBlueprintUserMessages: [Enemy_C_17] No OverLap
+[2017.11.08-23.02.49:032][716]LogBlueprintUserMessages: [Enemy_C_19] No OverLap
+[2017.11.08-23.02.49:032][716]LogBlueprintUserMessages: [Enemy_C_19] No OverLap
+[2017.11.08-23.02.49:345][735]LogBlueprintUserMessages: [Enemy_C_18] No OverLap
+[2017.11.08-23.02.49:412][739]LogBlueprintUserMessages: [Enemy_C_18] No OverLap
+[2017.11.08-23.02.49:531][746]LogBlueprintUserMessages: [Enemy_C_20] No OverLap
+[2017.11.08-23.02.49:531][746]LogBlueprintUserMessages: [Enemy_C_20] No OverLap
+[2017.11.08-23.02.49:862][766]LogBlueprintUserMessages: [Enemy_C_19] No OverLap
+[2017.11.08-23.02.50:032][776]LogBlueprintUserMessages: [Enemy_C_21] No OverLap
+[2017.11.08-23.02.50:032][776]LogBlueprintUserMessages: [Enemy_C_21] No OverLap
+[2017.11.08-23.02.50:532][806]LogBlueprintUserMessages: [Enemy_C_22] No OverLap
+[2017.11.08-23.02.50:533][806]LogBlueprintUserMessages: [Enemy_C_22] No OverLap
+[2017.11.08-23.02.50:947][831]LogBlueprintUserMessages: [Enemy_C_20] No OverLap
+[2017.11.08-23.02.50:965][832]LogBlueprintUserMessages: [Enemy_C_15] No OverLap
+[2017.11.08-23.02.51:033][836]LogBlueprintUserMessages: [Enemy_C_23] No OverLap
+[2017.11.08-23.02.51:034][836]LogBlueprintUserMessages: [Enemy_C_23] No OverLap
+[2017.11.08-23.02.51:431][860]LogBlueprintUserMessages: [Enemy_C_22] No OverLap
+[2017.11.08-23.02.51:534][866]LogBlueprintUserMessages: [Enemy_C_24] No OverLap
+[2017.11.08-23.02.51:534][866]LogBlueprintUserMessages: [Enemy_C_24] No OverLap
+[2017.11.08-23.02.51:847][885]LogBlueprintUserMessages: [Enemy_C_23] No OverLap
+[2017.11.08-23.02.52:019][895]LogBlueprintUserMessages: [Enemy_C_25] No OverLap
+[2017.11.08-23.02.52:019][895]LogBlueprintUserMessages: [Enemy_C_25] No OverLap
+[2017.11.08-23.02.52:249][909]LogBlueprintUserMessages: [Enemy_C_21] No OverLap
+[2017.11.08-23.02.52:383][917]LogBlueprintUserMessages: [Enemy_C_24] No OverLap
+[2017.11.08-23.02.52:519][925]LogBlueprintUserMessages: [Enemy_C_26] No OverLap
+[2017.11.08-23.02.52:519][925]LogBlueprintUserMessages: [Enemy_C_26] No OverLap
+[2017.11.08-23.02.52:934][950]LogBlueprintUserMessages: [Enemy_C_25] No OverLap
+[2017.11.08-23.02.53:018][955]LogBlueprintUserMessages: [Enemy_C_24] No OverLap
+[2017.11.08-23.02.53:021][955]LogBlueprintUserMessages: [Enemy_C_27] No OverLap
+[2017.11.08-23.02.53:021][955]LogBlueprintUserMessages: [Enemy_C_27] No OverLap
+[2017.11.08-23.02.53:134][962]LogBlueprintUserMessages: [Enemy_C_24] No OverLap
+[2017.11.08-23.02.53:369][976]LogBlueprintUserMessages: [Enemy_C_26] No OverLap
+[2017.11.08-23.02.53:435][980]LogBlueprintUserMessages: [Enemy_C_26] No OverLap
+[2017.11.08-23.02.53:520][985]LogBlueprintUserMessages: [Enemy_C_28] No OverLap
+[2017.11.08-23.02.53:520][985]LogBlueprintUserMessages: [Enemy_C_28] No OverLap
+[2017.11.08-23.02.53:851][  5]LogBlueprintUserMessages: [Enemy_C_27] No OverLap
+[2017.11.08-23.02.53:918][  9]LogBlueprintUserMessages: [Enemy_C_27] No OverLap
+[2017.11.08-23.02.54:021][ 15]LogBlueprintUserMessages: [Enemy_C_29] No OverLap
+[2017.11.08-23.02.54:021][ 15]LogBlueprintUserMessages: [Enemy_C_29] No OverLap
+[2017.11.08-23.02.54:521][ 45]LogBlueprintUserMessages: [Enemy_C_30] No OverLap
+[2017.11.08-23.02.54:521][ 45]LogBlueprintUserMessages: [Enemy_C_30] No OverLap
+[2017.11.08-23.02.54:972][ 72]LogBlueprintUserMessages: [Enemy_C_28] No OverLap
+[2017.11.08-23.02.55:025][ 75]LogBlueprintUserMessages: [Enemy_C_31] No OverLap
+[2017.11.08-23.02.55:025][ 75]LogBlueprintUserMessages: [Enemy_C_31] No OverLap
+[2017.11.08-23.02.55:422][ 99]LogBlueprintUserMessages: [Enemy_C_30] No OverLap
+[2017.11.08-23.02.55:525][105]LogBlueprintUserMessages: [Enemy_C_32] No OverLap
+[2017.11.08-23.02.55:525][105]LogBlueprintUserMessages: [Enemy_C_32] No OverLap
+[2017.11.08-23.02.55:527][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.02.55:567][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.04.21:324][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-23.04.21:418][  8]LogSavePackage: Save=80.67ms
+[2017.11.08-23.04.21:418][  8]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy1084A12D4867F7CABA00D5817A10ED62.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-23.04.21:421][  8]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-23.04.22:877][ 95]BlueprintLog: New page: Compile Enemy
+[2017.11.08-23.04.25:644][225]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.04.25:673][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.04.25:673][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.04.25:673][225]PIE: New page: PIE session: Beta (08-Nov-2017 1:04:25 pm)
+[2017.11.08-23.04.25:673][225]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.04.25:684][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010932s)
+[2017.11.08-23.04.25:685][225]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.04.25:685][225]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2017.11.08-23.04.25:685][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.011939s)
+[2017.11.08-23.04.25:852][225]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.04.25:865][225]LogInit: FAudioDevice initialized.
+[2017.11.08-23.04.25:900][225]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.04.25:904][225]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.04.25
+[2017.11.08-23.04.25:905][225]LogWorld: Bringing up level for play took: 0.003498
+[2017.11.08-23.04.25:907][225]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.459
+[2017.11.08-23.04.25:907][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.04.26:156][239]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.26:656][269]LogBlueprintUserMessages: [Enemy_C_1] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.04.26:905][284]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.27:088][295]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.27:157][299]LogBlueprintUserMessages: [Enemy_C_2] Enemy_C_2.CollisionCylinder
+[2017.11.08-23.04.27:157][299]LogBlueprintUserMessages: [Enemy_C_2] Enemy_C_2.CollisionCylinder
+[2017.11.08-23.04.27:223][303]LogBlueprintUserMessages: [Enemy_C_1] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.04.27:306][308]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.04.27:306][308]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.04.27:522][321]LogBlueprintUserMessages: [Enemy_C_1] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.04.27:588][325]LogBlueprintUserMessages: [Enemy_C_1] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.04.27:639][328]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.27:657][329]LogBlueprintUserMessages: [Enemy_C_3] Enemy_C_3.CollisionCylinder
+[2017.11.08-23.04.27:657][329]LogBlueprintUserMessages: [Enemy_C_3] Enemy_C_3.CollisionCylinder
+[2017.11.08-23.04.27:873][342]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.28:056][353]LogBlueprintUserMessages: [Enemy_C_2] Enemy_C_2.CollisionCylinder
+[2017.11.08-23.04.28:158][359]LogBlueprintUserMessages: [Enemy_C_4] Enemy_C_4.CollisionCylinder
+[2017.11.08-23.04.28:158][359]LogBlueprintUserMessages: [Enemy_C_4] Enemy_C_4.CollisionCylinder
+[2017.11.08-23.04.28:356][371]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.28:507][380]LogBlueprintUserMessages: [Enemy_C_3] Enemy_C_3.CollisionCylinder
+[2017.11.08-23.04.28:555][383]LogBlueprintUserMessages: [Enemy_C_1] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.04.28:657][389]LogBlueprintUserMessages: [Enemy_C_5] Enemy_C_5.CollisionCylinder
+[2017.11.08-23.04.28:657][389]LogBlueprintUserMessages: [Enemy_C_5] Enemy_C_5.CollisionCylinder
+[2017.11.08-23.04.29:073][414]LogBlueprintUserMessages: [Enemy_C_4] Enemy_C_4.CollisionCylinder
+[2017.11.08-23.04.29:158][419]LogBlueprintUserMessages: [Enemy_C_6] Enemy_C_6.CollisionCylinder
+[2017.11.08-23.04.29:158][419]LogBlueprintUserMessages: [Enemy_C_6] Enemy_C_6.CollisionCylinder
+[2017.11.08-23.04.29:390][433]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.29:573][444]LogBlueprintUserMessages: [Enemy_C_5] Enemy_C_5.CollisionCylinder
+[2017.11.08-23.04.29:658][449]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.29:658][449]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.29:757][455]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.30:025][471]LogBlueprintUserMessages: [Enemy_C_6] Enemy_C_6.CollisionCylinder
+[2017.11.08-23.04.30:161][479]LogBlueprintUserMessages: [Enemy_C_8] Enemy_C_8.CollisionCylinder
+[2017.11.08-23.04.30:161][479]LogBlueprintUserMessages: [Enemy_C_8] Enemy_C_8.CollisionCylinder
+[2017.11.08-23.04.30:392][493]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.30:509][500]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.30:661][509]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.30:661][509]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.30:762][515]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.31:029][531]LogBlueprintUserMessages: [Enemy_C_8] Enemy_C_8.CollisionCylinder
+[2017.11.08-23.04.31:045][532]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.31:095][535]LogBlueprintUserMessages: [Enemy_C_8] Enemy_C_8.CollisionCylinder
+[2017.11.08-23.04.31:148][538]LogBlueprintUserMessages: [Enemy_C_10] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.04.31:149][538]LogBlueprintUserMessages: [Enemy_C_10] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.04.31:214][542]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.31:398][553]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.31:531][561]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.31:598][565]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.31:651][568]LogBlueprintUserMessages: [Enemy_C_11] Enemy_C_11.CollisionCylinder
+[2017.11.08-23.04.31:651][568]LogBlueprintUserMessages: [Enemy_C_11] Enemy_C_11.CollisionCylinder
+[2017.11.08-23.04.31:768][575]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.32:067][593]LogBlueprintUserMessages: [Enemy_C_10] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.04.32:101][595]LogBlueprintUserMessages: [Enemy_C_10] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.04.32:153][598]LogBlueprintUserMessages: [Enemy_C_12] Enemy_C_12.CollisionCylinder
+[2017.11.08-23.04.32:153][598]LogBlueprintUserMessages: [Enemy_C_12] Enemy_C_12.CollisionCylinder
+[2017.11.08-23.04.32:385][612]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.32:435][615]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:452][616]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:468][617]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:485][618]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:501][619]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:518][620]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:535][621]LogBlueprintUserMessages: [Enemy_C_7] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.04.32:568][623]LogBlueprintUserMessages: [Enemy_C_11] Enemy_C_11.CollisionCylinder
+[2017.11.08-23.04.32:634][627]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.32:654][628]LogBlueprintUserMessages: [Enemy_C_13] Enemy_C_13.CollisionCylinder
+[2017.11.08-23.04.32:654][628]LogBlueprintUserMessages: [Enemy_C_13] Enemy_C_13.CollisionCylinder
+[2017.11.08-23.04.32:769][635]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.33:018][650]LogBlueprintUserMessages: [Enemy_C_9] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.04.33:154][658]LogBlueprintUserMessages: [Enemy_C_14] Enemy_C_14.CollisionCylinder
+[2017.11.08-23.04.33:154][658]LogBlueprintUserMessages: [Enemy_C_14] Enemy_C_14.CollisionCylinder
+[2017.11.08-23.04.33:319][668]LogBlueprintUserMessages: [Enemy_C_10] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.04.33:386][672]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.33:402][673]LogBlueprintUserMessages: [Enemy_C_12] Enemy_C_12.CollisionCylinder
+[2017.11.08-23.04.33:552][682]LogBlueprintUserMessages: [Enemy_C_13] Enemy_C_13.CollisionCylinder
+[2017.11.08-23.04.33:654][688]LogBlueprintUserMessages: [Enemy_C_15] Enemy_C_15.CollisionCylinder
+[2017.11.08-23.04.33:654][688]LogBlueprintUserMessages: [Enemy_C_15] Enemy_C_15.CollisionCylinder
+[2017.11.08-23.04.33:770][695]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.34:036][711]LogBlueprintUserMessages: [Enemy_C_14] Enemy_C_14.CollisionCylinder
+[2017.11.08-23.04.34:103][715]LogBlueprintUserMessages: [Enemy_C_14] Enemy_C_14.CollisionCylinder
+[2017.11.08-23.04.34:155][718]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.34:155][718]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.34:387][732]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.34:520][740]LogBlueprintUserMessages: [Enemy_C_15] Enemy_C_15.CollisionCylinder
+[2017.11.08-23.04.34:570][743]LogBlueprintUserMessages: [Enemy_C_15] Enemy_C_15.CollisionCylinder
+[2017.11.08-23.04.34:657][748]LogBlueprintUserMessages: [Enemy_C_17] Enemy_C_17.CollisionCylinder
+[2017.11.08-23.04.34:657][748]LogBlueprintUserMessages: [Enemy_C_17] Enemy_C_17.CollisionCylinder
+[2017.11.08-23.04.34:773][755]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.35:058][772]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.35:162][778]LogBlueprintUserMessages: [Enemy_C_18] Enemy_C_18.CollisionCylinder
+[2017.11.08-23.04.35:162][778]LogBlueprintUserMessages: [Enemy_C_18] Enemy_C_18.CollisionCylinder
+[2017.11.08-23.04.35:396][792]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.35:566][802]LogBlueprintUserMessages: [Enemy_C_17] Enemy_C_17.CollisionCylinder
+[2017.11.08-23.04.35:632][806]LogBlueprintUserMessages: [Enemy_C_17] Enemy_C_17.CollisionCylinder
+[2017.11.08-23.04.35:652][807]LogBlueprintUserMessages: [Enemy_C_19] Enemy_C_19.CollisionCylinder
+[2017.11.08-23.04.35:653][807]LogBlueprintUserMessages: [Enemy_C_19] Enemy_C_19.CollisionCylinder
+[2017.11.08-23.04.35:767][814]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.35:950][825]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.35:966][826]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.35:983][827]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.36:000][828]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.36:153][837]LogBlueprintUserMessages: [Enemy_C_20] Enemy_C_20.CollisionCylinder
+[2017.11.08-23.04.36:153][837]LogBlueprintUserMessages: [Enemy_C_20] Enemy_C_20.CollisionCylinder
+[2017.11.08-23.04.36:285][845]LogBlueprintUserMessages: [Enemy_C_16] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.04.36:386][851]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.36:485][857]LogBlueprintUserMessages: [Enemy_C_19] Enemy_C_19.CollisionCylinder
+[2017.11.08-23.04.36:657][867]LogBlueprintUserMessages: [Enemy_C_21] Enemy_C_21.CollisionCylinder
+[2017.11.08-23.04.36:657][867]LogBlueprintUserMessages: [Enemy_C_21] Enemy_C_21.CollisionCylinder
+[2017.11.08-23.04.36:774][874]LogBlueprintUserMessages: [Enemy_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.04.37:149][896]LogBlueprintUserMessages: [Enemy_C_22] Enemy_C_22.CollisionCylinder
+[2017.11.08-23.04.37:149][896]LogBlueprintUserMessages: [Enemy_C_22] Enemy_C_22.CollisionCylinder
+[2017.11.08-23.04.37:217][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.04.37:253][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.05.07:196][622]BlueprintLog: New page: Compile Enemy
+[2017.11.08-23.05.09:611][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset" SILENT=true
+[2017.11.08-23.05.09:706][730]LogSavePackage: Save=76.73ms
+[2017.11.08-23.05.09:706][730]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Enemy614874A2461C78FC482050BEEBBB41D5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2017.11.08-23.05.09:709][730]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Enemy.uasset
+[2017.11.08-23.05.10:650][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.08-23.05.15:329][ 40]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.08-23.05.45:431][710]LogEditorTransaction: Undo Delete current selection
+[2017.11.08-23.05.54:060][194]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.05.58:476][194]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.06.06:762][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-23.06.07:129][376]LogSavePackage: Save=349.35ms
+[2017.11.08-23.06.07:129][376]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto38F6502E54A204A0EF4BF26A22C106E9A.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap'
+[2017.11.08-23.06.07:131][376]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto3.umap
+[2017.11.08-23.06.07:133][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.389
+[2017.11.08-23.06.07:133][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2017.11.08-23.06.07:135][376]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.08-23.06.07:146][376]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.08-23.06.07:146][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.11.08-23.06.07:349][376]LogSavePackage: Save=187.11ms
+[2017.11.08-23.06.07:349][376]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter_Auto391F00CC34AD47E8FEA238588C31559B7.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2017.11.08-23.06.07:351][376]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2017.11.08-23.06.07:351][376]LogFileHelpers: Auto-saving content packages took 0.217
+[2017.11.08-23.06.09:254][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-23.06.09:447][489]LogSavePackage: Save=182.46ms
+[2017.11.08-23.06.09:447][489]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter298EBB8A4503BD7F5A249BAE0BC26D6B.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-23.06.09:455][489]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-23.06.10:662][561]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.06.10:686][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.06.10:687][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.06.10:687][561]PIE: New page: PIE session: Beta (08-Nov-2017 1:06:10 pm)
+[2017.11.08-23.06.10:687][561]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.06.10:700][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013485s)
+[2017.11.08-23.06.10:701][561]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.06.10:701][561]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2017.11.08-23.06.10:702][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.014870s)
+[2017.11.08-23.06.10:868][561]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.06.10:881][561]LogInit: FAudioDevice initialized.
+[2017.11.08-23.06.10:916][561]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.06.10:920][561]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.06.10
+[2017.11.08-23.06.10:921][561]LogWorld: Bringing up level for play took: 0.004205
+[2017.11.08-23.06.10:924][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.10:924][561]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.524
+[2017.11.08-23.06.10:924][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.06.12:344][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.12:344][645]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.06.12:344][645]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.06.12:627][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.18:945][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.19:214][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.19:214][ 55]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.06.19:299][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.19:299][ 60]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.06.19:435][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.06.19:435][ 68]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_70] Crystal
+[2017.11.08-23.06.21:032][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.06.21:073][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.07.41:836][933]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.07.49:852][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.07.49:873][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.07.49:874][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.07.49:874][ 69]PIE: New page: PIE session: Beta (08-Nov-2017 1:07:49 pm)
+[2017.11.08-23.07.49:874][ 69]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.07.49:888][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014053s)
+[2017.11.08-23.07.49:889][ 69]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.07.49:889][ 69]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2017.11.08-23.07.49:889][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015337s)
+[2017.11.08-23.07.50:051][ 69]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.07.50:063][ 69]LogInit: FAudioDevice initialized.
+[2017.11.08-23.07.50:107][ 69]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.07.50:116][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.07.50
+[2017.11.08-23.07.50:118][ 69]LogWorld: Bringing up level for play took: 0.009291
+[2017.11.08-23.07.50:122][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.07.50:123][ 69]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.675
+[2017.11.08-23.07.50:124][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.07.52:251][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.07.52:251][195]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.07.52:251][195]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.07.52:501][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.02:904][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.02:904][828]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.08.02:904][828]LogBlueprintUserMessages: [FloorTileStartBP_177] 2
+[2017.11.08-23.08.07:651][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.07:651][ 97]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.08.07:651][ 97]LogBlueprintUserMessages: [FloorTileStartBP_177] 3
+[2017.11.08-23.08.07:901][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:193][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:646][200]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:728][204]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:728][204]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.08.09:768][206]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:789][207]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.09:789][207]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.08.10:007][217]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.12:143][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.13:220][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter_C_0.CollisionCylinder
+[2017.11.08-23.08.17:433][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.08.17:473][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.08.28:482][265]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.08.36:586][364]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.08.36:609][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.08.36:609][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.08.36:609][364]PIE: New page: PIE session: Beta (08-Nov-2017 1:08:36 pm)
+[2017.11.08-23.08.36:609][364]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.08.36:623][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013443s)
+[2017.11.08-23.08.36:623][364]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.08.36:624][364]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2017.11.08-23.08.36:624][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.014737s)
+[2017.11.08-23.08.36:781][364]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.08.36:792][364]LogInit: FAudioDevice initialized.
+[2017.11.08-23.08.36:834][364]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.08.36:844][364]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.08.36
+[2017.11.08-23.08.36:846][364]LogWorld: Bringing up level for play took: 0.010136
+[2017.11.08-23.08.36:850][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Weapon_C_0.FlashLightTrigger
+[2017.11.08-23.08.36:851][364]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.597
+[2017.11.08-23.08.36:852][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.08.39:515][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileStartBP_177.EndTrigger
+[2017.11.08-23.08.39:516][522]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.08.39:516][522]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.08.39:766][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.08.46:778][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.08.46:845][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.ItemArea
+[2017.11.08-23.08.46:980][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0.Cube Cube
+[2017.11.08-23.08.46:980][967]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] Light Shard! You have:
+[2017.11.08-23.08.46:980][967]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] 3
+[2017.11.08-23.08.47:013][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1.Cube Cube
+[2017.11.08-23.08.47:013][969]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.08.47:115][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.EndTrigger
+[2017.11.08-23.08.47:132][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5.Cube Cube
+[2017.11.08-23.08.47:132][976]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.08.47:181][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.EndTrigger
+[2017.11.08-23.08.47:335][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.08.48:919][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.EndTrigger
+[2017.11.08-23.08.49:193][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP3.ItemArea
+[2017.11.08-23.08.50:531][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8] Light Shard! You have:
+[2017.11.08-23.08.50:531][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8] 4
+[2017.11.08-23.08.50:531][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8.Cube Cube
+[2017.11.08-23.08.50:714][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.EndTrigger
+[2017.11.08-23.08.51:328][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.08.56:465][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.09.00:136][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.09.01:687][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.09.01:730][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.09.16:369][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.11.08-23.09.16:566][629]LogSavePackage: Save=184.46ms
+[2017.11.08-23.09.16:566][629]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacterF1BCF73945D0223ED1855FB6530B21C3.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.08-23.09.16:571][629]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.08-23.12.12:216][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/EnemyAI" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset" SILENT=true
+[2017.11.08-23.12.12:255][ 17]LogSavePackage: Save=20.16ms
+[2017.11.08-23.12.12:255][ 17]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyAI125CB8A84DBA349627AA5A80633020D5.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2017.11.08-23.12.12:258][ 17]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2017.11.08-23.12.14:694][162]BlueprintLog: New page: Compile EnemyAI
+[2017.11.08-23.12.17:857][336]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.12.17:882][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.12.17:882][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.12.17:883][336]PIE: New page: PIE session: Beta (08-Nov-2017 1:12:17 pm)
+[2017.11.08-23.12.17:883][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.12.17:897][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014359s)
+[2017.11.08-23.12.17:898][336]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.12.17:898][336]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2017.11.08-23.12.17:898][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015492s)
+[2017.11.08-23.12.18:062][336]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.12.18:075][336]LogInit: FAudioDevice initialized.
+[2017.11.08-23.12.18:111][336]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.12.18:115][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.12.18
+[2017.11.08-23.12.18:116][336]LogWorld: Bringing up level for play took: 0.004706
+[2017.11.08-23.12.18:118][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Weapon_C_0.FlashLightTrigger
+[2017.11.08-23.12.18:119][336]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.671
+[2017.11.08-23.12.18:119][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.12.19:543][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileStartBP_177.EndTrigger
+[2017.11.08-23.12.19:543][420]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.12.19:543][420]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.12.19:811][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.12.28:692][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.ItemArea
+[2017.11.08-23.12.28:869][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0.Cube Cube
+[2017.11.08-23.12.28:869][974]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] Light Shard! You have:
+[2017.11.08-23.12.28:869][974]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_0] 3
+[2017.11.08-23.12.28:960][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1.Cube Cube
+[2017.11.08-23.12.28:960][979]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.12.29:037][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.EndTrigger
+[2017.11.08-23.12.29:037][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5.Cube Cube
+[2017.11.08-23.12.29:037][983]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.12.29:218][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_70.Cube Cube
+[2017.11.08-23.12.29:218][993]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_70] Crystal
+[2017.11.08-23.12.31:071][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_13.Cube Cube
+[2017.11.08-23.12.31:071][ 96]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_13] Light Shard! You have:
+[2017.11.08-23.12.31:071][ 96]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_13] 4
+[2017.11.08-23.12.38:422][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.12.38:465][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.13.17:655][838]BlueprintLog: New page: Compile EnemyAI
+[2017.11.08-23.13.20:054][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/EnemyAI" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset" SILENT=true
+[2017.11.08-23.13.20:091][968]LogSavePackage: Save=23.19ms
+[2017.11.08-23.13.20:091][968]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyAIC224E9DB4E82E5584A79C5B95F52AC51.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2017.11.08-23.13.20:094][968]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2017.11.08-23.14.34:396][400]BlueprintLog: New page: Compile EnemyAI
+[2017.11.08-23.14.36:018][484]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.14.36:045][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.14.36:045][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.14.36:045][484]PIE: New page: PIE session: Beta (08-Nov-2017 1:14:36 pm)
+[2017.11.08-23.14.36:046][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.14.36:060][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014324s)
+[2017.11.08-23.14.36:061][484]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.14.36:061][484]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2017.11.08-23.14.36:061][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015691s)
+[2017.11.08-23.14.36:221][484]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.14.36:233][484]LogInit: FAudioDevice initialized.
+[2017.11.08-23.14.36:269][484]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.14.36:274][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.14.36
+[2017.11.08-23.14.36:275][484]LogWorld: Bringing up level for play took: 0.005334
+[2017.11.08-23.14.36:278][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Weapon_C_0.FlashLightTrigger
+[2017.11.08-23.14.36:278][484]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.83
+[2017.11.08-23.14.36:279][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.14.39:197][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileStartBP_177.EndTrigger
+[2017.11.08-23.14.39:197][658]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.14.39:197][658]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.14.39:514][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.14.40:982][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.ItemArea
+[2017.11.08-23.14.41:199][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5.Cube Cube
+[2017.11.08-23.14.41:199][778]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.14.41:216][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1.Cube Cube
+[2017.11.08-23.14.41:216][779]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.08-23.14.41:283][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.EndTrigger
+[2017.11.08-23.14.41:332][786]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.EndTrigger
+[2017.11.08-23.14.41:499][796]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.14.42:468][854]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] Light Shard! You have:
+[2017.11.08-23.14.42:468][854]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6] 3
+[2017.11.08-23.14.42:468][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_6.Cube Cube
+[2017.11.08-23.14.51:719][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.EndTrigger
+[2017.11.08-23.14.52:026][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP3.ItemArea
+[2017.11.08-23.14.52:129][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8.Cube Cube
+[2017.11.08-23.14.52:129][427]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8] Light Shard! You have:
+[2017.11.08-23.14.52:129][427]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_8] 4
+[2017.11.08-23.14.53:420][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.EndTrigger
+[2017.11.08-23.14.54:056][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.14.55:769][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.EndTrigger
+[2017.11.08-23.14.55:882][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.ItemArea
+[2017.11.08-23.14.55:901][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.EndTrigger
+[2017.11.08-23.14.56:706][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.14.58:431][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] NODE_AddChildActorComponent-3_CrystalBP_C_CAT_76.Cube Cube
+[2017.11.08-23.14.58:431][783]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_76] Crystal
+[2017.11.08-23.15.01:054][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.ItemArea
+[2017.11.08-23.15.01:089][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.ItemArea
+[2017.11.08-23.15.01:360][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.EndTrigger
+[2017.11.08-23.15.01:399][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP10.EndTrigger
+[2017.11.08-23.15.01:571][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.ItemArea
+[2017.11.08-23.15.02:939][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.15.02:984][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.15.14:713][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/EnemyAI" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset" SILENT=true
+[2017.11.08-23.15.14:747][711]LogSavePackage: Save=22.64ms
+[2017.11.08-23.15.14:747][711]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/EnemyAIDDCCA8994368642B2AD16DA6022A3FE3.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset'
+[2017.11.08-23.15.14:750][711]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/EnemyAI.uasset
+[2017.11.08-23.18.14:251][334]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.18.21:192][334]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.08-23.18.31:879][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.08-23.18.32:288][511]LogSavePackage: Save=390.83ms
+[2017.11.08-23.18.32:288][511]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_Auto49F9AF77B433A3DD780C70A945209F4BA.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap'
+[2017.11.08-23.18.32:291][511]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/Levels/Beta_Auto4.umap
+[2017.11.08-23.18.32:297][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Beta' took 0.439
+[2017.11.08-23.18.32:297][511]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2017.11.08-23.18.32:299][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.08-23.18.32:311][511]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.08-23.18.32:311][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.11.08-23.18.32:528][511]LogSavePackage: Save=197.28ms
+[2017.11.08-23.18.32:528][511]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/ThirdPersonCharacter_Auto42B3999EA4126CD7D0C65EC9297566FAD.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2017.11.08-23.18.32:530][511]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2017.11.08-23.18.32:530][511]LogFileHelpers: Auto-saving content packages took 0.232
+[2017.11.08-23.18.32:735][523]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-23.18.32:761][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.18.32:761][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-23.18.32:762][523]PIE: New page: PIE session: Beta (08-Nov-2017 1:18:32 pm)
+[2017.11.08-23.18.32:762][523]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.08-23.18.32:776][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013670s)
+[2017.11.08-23.18.32:777][523]LogAIModule: Creating AISystem for world Beta
+[2017.11.08-23.18.32:777][523]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2017.11.08-23.18.32:777][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.015069s)
+[2017.11.08-23.18.32:940][523]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.08-23.18.32:953][523]LogInit: FAudioDevice initialized.
+[2017.11.08-23.18.32:988][523]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-23.18.32:994][523]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 60) at 2017.11.08-18.18.32
+[2017.11.08-23.18.32:995][523]LogWorld: Bringing up level for play took: 0.005558
+[2017.11.08-23.18.32:998][523]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.45
+[2017.11.08-23.18.32:998][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.18.33:299][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileStartBP_177.Floor Cube
+[2017.11.08-23.18.34:933][638]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.08-23.18.34:933][638]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.08-23.18.35:567][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_0.CollisionCylinder
+[2017.11.08-23.18.35:635][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP_448.Floor Cube
+[2017.11.08-23.18.35:801][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_1.CollisionCylinder
+[2017.11.08-23.18.36:235][716]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_2.CollisionCylinder
+[2017.11.08-23.18.36:636][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_4.CollisionCylinder
+[2017.11.08-23.18.36:752][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_3.CollisionCylinder
+[2017.11.08-23.18.37:770][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_6.CollisionCylinder
+[2017.11.08-23.18.37:887][815]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_5.CollisionCylinder
+[2017.11.08-23.18.38:359][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_7.CollisionCylinder
+[2017.11.08-23.18.38:910][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_8.CollisionCylinder
+[2017.11.08-23.18.39:428][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_9.CollisionCylinder
+[2017.11.08-23.18.40:098][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_10.CollisionCylinder
+[2017.11.08-23.18.40:116][948]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_12.CollisionCylinder
+[2017.11.08-23.18.40:599][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_11.CollisionCylinder
+[2017.11.08-23.18.41:351][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_13.CollisionCylinder
+[2017.11.08-23.18.41:884][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_15.CollisionCylinder
+[2017.11.08-23.18.42:253][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_14.CollisionCylinder
+[2017.11.08-23.18.42:804][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_16.CollisionCylinder
+[2017.11.08-23.18.43:444][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_17.CollisionCylinder
+[2017.11.08-23.18.43:844][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_18.CollisionCylinder
+[2017.11.08-23.18.44:114][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_19.CollisionCylinder
+[2017.11.08-23.18.44:947][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_20.CollisionCylinder
+[2017.11.08-23.18.45:416][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_22.CollisionCylinder
+[2017.11.08-23.18.45:465][268]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_21.CollisionCylinder
+[2017.11.08-23.18.46:133][308]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_23.CollisionCylinder
+[2017.11.08-23.18.46:754][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_24.CollisionCylinder
+[2017.11.08-23.18.47:107][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_25.CollisionCylinder
+[2017.11.08-23.18.48:231][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_26.CollisionCylinder
+[2017.11.08-23.18.48:531][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_27.CollisionCylinder
+[2017.11.08-23.18.49:265][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_28.CollisionCylinder
+[2017.11.08-23.18.49:399][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_30.CollisionCylinder
+[2017.11.08-23.18.49:684][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_29.CollisionCylinder
+[2017.11.08-23.18.50:704][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_31.CollisionCylinder
+[2017.11.08-23.18.51:188][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_33.CollisionCylinder
+[2017.11.08-23.18.51:604][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_32.CollisionCylinder
+[2017.11.08-23.18.52:039][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_35.CollisionCylinder
+[2017.11.08-23.18.52:242][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_34.CollisionCylinder
+[2017.11.08-23.18.53:043][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_36.CollisionCylinder
+[2017.11.08-23.18.53:329][738]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_38.CollisionCylinder
+[2017.11.08-23.18.53:529][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Enemy_C_39.CollisionCylinder
+[2017.11.08-23.18.54:315][797]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_70] Crystal
+[2017.11.08-23.18.54:499][808]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_5] Crystal
+[2017.11.08-23.18.54:820][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:820][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:836][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:836][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:852][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:852][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:869][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:869][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:886][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.54:886][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] FloorTileBP2.Floor Cube
+[2017.11.08-23.18.56:327][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.18.56:363][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.08-23.20.42:418][272]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{74246f82-d3f8-40ff-bfc6-5bac8a67f4ac} was removed. Shutting down audio device.
+[2017.11.08-23.24.51:848][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.08-23.24.52:292][633]LogSavePackage: Save=397.40ms
+[2017.11.08-23.24.52:292][633]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta853968ED4251D7108AD0D29E653C6545.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap'
+[2017.11.08-23.24.52:302][633]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta.umap
+[2017.11.08-23.24.52:343][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Beta_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset" SILENT=true
+[2017.11.08-23.24.52:370][633]LogSavePackage: Save=10.29ms
+[2017.11.08-23.24.52:370][633]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner/Saved/Beta_BuiltDataB7F4809C4F64DF5BCC47578D5A4E35AC.tmp' to 'D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset'
+[2017.11.08-23.24.52:371][633]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner/Content/Levels/Beta_BuiltData.uasset
