@@ -1,0 +1,975 @@
+﻿Log file open, 11/06/17 21:06:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1304224725) SRandInit(1304224725).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275841
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-02.06.24:613][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-02.06.24:613][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-02.06.24:653][  0]LogInit: Computer: SCOTTY
+[2017.11.07-02.06.24:653][  0]LogInit: User: mgsta
+[2017.11.07-02.06.24:653][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.07-02.06.24:653][  0]LogInit: High frequency timer resolution =2.742182 MHz
+[2017.11.07-02.06.24:654][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.07-02.06.24:654][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-02.06.24:654][  0]LogMemory: Process Physical Memory: 280.51 MB used, 280.51 MB peak
+[2017.11.07-02.06.24:654][  0]LogMemory: Process Virtual Memory: 274.76 MB used, 274.76 MB peak
+[2017.11.07-02.06.24:654][  0]LogMemory: Physical Memory: 9964.51 MB used,  6292.47 MB free, 16256.98 MB total
+[2017.11.07-02.06.24:654][  0]LogMemory: Virtual Memory: 702.89 MB used,  6292.47 MB free, 134217728.00 MB total
+[2017.11.07-02.06.25:882][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-02.06.25:882][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.07-02.06.25:891][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-02.06.27:634][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-02.06.27:713][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.11.07-02.06.27:713][  0]LogD3D11RHI:       6046/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.07-02.06.27:725][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.11.07-02.06.27:725][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.07-02.06.27:728][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-02.06.27:728][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-02.06.27:728][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-02.06.27:755][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-02.06.27:755][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-02.06.27:755][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-02.06.27:756][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.11.07-02.06.27:756][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.07-02.06.27:756][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.07-02.06.27:756][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.07-02.06.27:757][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.07-02.06.27:757][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.07-02.06.27:757][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.07-02.06.27:757][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.07-02.06.27:757][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.11.07-02.06.27:757][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.07-02.06.27:757][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.07-02.06.27:757][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.07-02.06.27:815][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-02.06.27:832][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.07-02.06.27:836][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Intermediate/Shaders/WorkingDirectory/17436/).
+[2017.11.07-02.06.27:837][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mgsta/AppData/Local/Temp/UnrealShaderWorkingDir/71029A7B4FCD7F7F610F94BE542B7D87/'.
+[2017.11.07-02.06.27:837][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-02.06.30:010][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-02.06.30:146][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-02.06.30:305][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-02.06.30:472][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-02.06.30:623][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-02.06.30:767][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-02.06.30:936][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-02.06.31:092][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-02.06.31:242][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-02.06.31:405][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-02.06.31:573][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-02.06.31:726][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-02.06.31:894][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-02.06.32:058][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-02.06.32:233][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-02.06.32:547][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-02.06.32:547][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-02.06.32:678][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-02.06.32:932][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-02.06.33:013][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-02.06.33:153][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-02.06.33:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-02.06.33:463][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-02.06.33:620][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-02.06.33:620][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-02.06.35:218][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: Loaded boot cache 0.22s 93MB C:/Users/mgsta/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mgsta/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-02.06.35:437][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-02.06.35:468][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-02.06.35:480][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mgsta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-02.06.35:507][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-02.06.35:507][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-02.06.35:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-02.06.35:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-02.06.36:146][  0]LogAssetRegistry: FAssetRegistry took 0.0349 seconds to start up
+[2017.11.07-02.06.36:508][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-02.06.36:809][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.07-02.06.37:691][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-02.06.37:859][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-02.06.37:859][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-02.06.37:859][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-02.06.37:859][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-02.06.37:859][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-02.06.38:675][  0]LogNetVersion: Runner , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1549170253)
+[2017.11.07-02.06.39:293][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.152674 seconds
+[2017.11.07-02.06.39:316][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.07-02.06.39:316][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.07-02.06.39:316][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-02.06.39:566][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-02.06.46:721][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-02.06.46:843][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-02.06.48:708][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-02.06.50:018][  0]SourceControl: Source control is disabled
+[2017.11.07-02.06.50:018][  0]SourceControl: Source control is disabled
+[2017.11.07-02.06.50:171][  0]SourceControl: Source control is disabled
+[2017.11.07-02.06.50:312][  0]SourceControl: Source control is disabled
+[2017.11.07-02.06.52:229][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-02.06.53:005][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-02.06.53:776][  0]LogEngine: Initializing Engine...
+[2017.11.07-02.06.54:470][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-CCB9B561
+[2017.11.07-02.06.54:856][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-02.06.54:856][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-02.06.55:188][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-02.06.55:338][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.06.55:373][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-02.06.55:497][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/mgsta/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-02.06.55:519][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-02.06.55:792][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-02.06.56:352][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-02.06.57:109][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-02.06.59:415][  0]LocalizationService: Localization service is disabled
+[2017.11.07-02.07.01:124][  0]LogConsoleResponse: Display: 
+[2017.11.07-02.07.01:506][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-02.07.01:506][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-02.07.01:506][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-02.07.02:150][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/' took 0.02s
+[2017.11.07-02.07.03:984][  0]SourceControl: Source control is disabled
+[2017.11.07-02.07.03:987][  0]LightingResults: New page: Lighting Build
+[2017.11.07-02.07.04:103][  0]MapCheck: New page: Map Check
+[2017.11.07-02.07.04:103][  0]LightingResults: New page: Lighting Build
+[2017.11.07-02.07.04:473][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-02.07.04:474][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-02.07.04:474][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.07-02.07.04:503][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-02.07.04:503][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-02.07.04:504][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.07-02.07.04:508][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-02.07.04:508][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-02.07.04:508][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-02.07.04:509][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-02.07.04:561][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-02.07.04:561][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.07-02.07.04:561][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-02.07.04:561][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.07-02.07.04:849][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-02.07.04:866][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-02.07.04:900][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-02.07.05:002][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.248ms to complete.
+[2017.11.07-02.07.05:002][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.019
+[2017.11.07-02.07.05:071][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-02.07.05:071][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-02.07.05:236][  0]LogCollectionManager: Loaded 0 collections in 0.002541 seconds
+[2017.11.07-02.07.05:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Collections/' took 0.01s
+[2017.11.07-02.07.05:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Developers/mgsta/Collections/' took 0.01s
+[2017.11.07-02.07.05:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Collections/' took 0.01s
+[2017.11.07-02.07.05:389][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.07-02.07.05:406][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2386 classes and 500 folders.
+[2017.11.07-02.07.05:568][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.11.07-02.07.05:637][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.07-02.07.05:737][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.07-02.07.05:873][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-02.07.05:876][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-02.07.05:888][  0]LogSlate: Took 0.000973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-02.07.06:054][  0]LogRenderer: Reallocating scene render targets to support 952x488 Format 26 NumSamples 1 (Frame:1).
+[2017.11.07-02.07.06:344][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.11.07-02.07.06:344][  0]LogLoad: (Engine Initialization) Total time: 46.35 seconds
+[2017.11.07-02.07.06:344][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-02.07.06:345][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.07-02.07.06:359][  0]LogSteamVRController: Controller role for device 2 is 1 (invalid=0, left=1, right=2).
+[2017.11.07-02.07.06:359][  0]LogSteamVRController: Warning: Controller device 2 is being assigned to its prefered role 'left'.
+[2017.11.07-02.07.06:359][  0]LogSteamVRController: Controller role for device 4 is 2 (invalid=0, left=1, right=2).
+[2017.11.07-02.07.06:359][  0]LogSteamVRController: Putting controller 4 on the right hand because there is already a controller for the left.
+[2017.11.07-02.07.06:379][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.07-02.07.06:505][  1]LogAssetRegistry: Asset discovery search completed in 30.3808 seconds
+[2017.11.07-02.07.06:509][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.07-02.07.06:509][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000139 seconds (updated 0 objects)
+[2017.11.07-02.07.10:471][269]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-02.07.13:049][442]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-02.07.13:642][442]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.07.13:747][442]Cmd: MAP LOAD FILE="../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-02.07.13:747][442]LightingResults: New page: Lighting Build
+[2017.11.07-02.07.13:749][442]LoadErrors: New page: Loading map: Beta.umap
+[2017.11.07-02.07.13:750][442]MapCheck: New page: Map Check
+[2017.11.07-02.07.13:750][442]LightingResults: New page: Lighting Build
+[2017.11.07-02.07.13:967][442]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-02.07.14:035][442]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-02.07.14:142][442]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.437ms to complete.
+[2017.11.07-02.07.14:142][442]LogFileHelpers: Loading map 'Beta' took 0.396
+[2017.11.07-02.07.20:895][840]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2017.11.07-02.07.21:883][840]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-02.07.21:995][840]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.07-02.07.22:353][841]LogSlate: Took 0.000633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.07-02.07.32:891][203]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2017.11.07-02.07.32:893][203]LogLinker: Can't find file '/Game/SpectatorCameraActorBP'
+[2017.11.07-02.07.32:895][203]LogLinker: Can't find file '/Game/SpectatorCameraActorBP'
+[2017.11.07-02.07.32:924][203]LogBlueprint: Warning: [ThirdPersonCharacter] 'SceneCaptureComponent2D' variable not found. Base class was probably changed.
+[2017.11.07-02.07.32:957][203]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-02.08.24:799][ 46]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.07-02.08.25:171][ 46]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SceneCaptureComponent2D" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get SceneCaptureComponent2D
+[2017.11.07-02.08.25:194][ 46]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Scene Capture Component 2D  could not be found
+[2017.11.07-02.08.44:688][ 46]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0144.69] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 19,888 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.11.07-02.08.47:488][139]LogSavePackage: Save=174.07ms
+[2017.11.07-02.08.47:488][139]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter1150FD454E35143F4653C3BF3546480A.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.08.47:508][139]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.09.19:203][266]LogSavePackage: Save=182.38ms
+[2017.11.07-02.09.19:203][266]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacterF79261354404A0C8E4FBACB46A48DF17.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.09.19:223][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.09.25:298][475]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.09.25:395][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.09.25:395][475]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.09.25:422][475]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.09.25:428][475]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.09.25:443][475]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.09.25:448][475]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.09.25:455][475]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.09.25:461][475]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.09.25:464][475]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.09.25:474][475]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.09.25:536][475]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.09.45:213][475]LogPlayLevel: PlayLevel: Blueprint regeneration took 19817 ms (9 blueprints)
+[2017.11.07-02.09.45:213][475]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:09:45 PM)
+[2017.11.07-02.09.45:213][475]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.09.45:242][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028816s)
+[2017.11.07-02.09.45:243][475]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.09.45:243][475]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2017.11.07-02.09.45:244][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.030465s)
+[2017.11.07-02.09.45:417][475]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.09.45:439][475]LogInit: FAudioDevice initialized.
+[2017.11.07-02.09.45:596][475]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.09.45:618][475]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.09.45
+[2017.11.07-02.09.45:620][475]LogWorld: Bringing up level for play took: 0.019738
+[2017.11.07-02.09.45:721][475]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2017.11.07-02.09.45:733][475]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.09.45:733][475]LogHMD: Warning: SetSpectatorScreenTexture blueprint function called with null Texture!
+[2017.11.07-02.09.45:734][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.09.45:734][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.09.45:735][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.09.45:735][475]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.09.45:735][475]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.09.45:735][475]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.09.45:778][475]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 19.726
+[2017.11.07-02.09.45:780][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.09.45:852][476]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 26 NumSamples 1 (Frame:1).
+[2017.11.07-02.10.21:924][313]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.10.21:924][313]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.10.42:620][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.10.42:954][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.14.56:132][653]LogSavePackage: Save=180.34ms
+[2017.11.07-02.14.56:132][653]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter2698FA1B4DED313A5EA1CABBB65226F7.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.14.56:157][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.14.57:780][705]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.14.57:825][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.14.57:825][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.14.57:860][705]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.14.57:871][705]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.14.57:890][705]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.14.57:896][705]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.14.57:903][705]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.14.57:908][705]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.14.57:911][705]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.14.57:931][705]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.14.58:002][705]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.15.20:660][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 22835 ms (9 blueprints)
+[2017.11.07-02.15.20:661][705]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:15:20 PM)
+[2017.11.07-02.15.20:661][705]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.15.20:693][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032047s)
+[2017.11.07-02.15.20:694][705]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.15.20:695][705]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2017.11.07-02.15.20:695][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.034122s)
+[2017.11.07-02.15.20:881][705]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.15.20:904][705]LogInit: FAudioDevice initialized.
+[2017.11.07-02.15.21:068][705]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.15.21:080][705]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.15.21
+[2017.11.07-02.15.21:082][705]LogWorld: Bringing up level for play took: 0.013184
+[2017.11.07-02.15.21:086][705]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.15.21:086][705]LogHMD: Warning: SetSpectatorScreenTexture blueprint function called with null Texture!
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.15.21:086][705]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.15.21:125][705]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 23.073
+[2017.11.07-02.15.21:125][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.15.46:622][809]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.15.46:622][809]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.15.50:293][966]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_35] Crystal
+[2017.11.07-02.15.50:475][972]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_102] Crystal
+[2017.11.07-02.15.50:722][983]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_3] Crystal
+[2017.11.07-02.16.47:995][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.16.48:298][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.17.01:005][108]LogSavePackage: Save=822.35ms
+[2017.11.07-02.17.01:006][108]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/BetaC56792BC4ADF9479CB9581B688F83BF4.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.17.01:030][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.17.01:111][108]LogFileHelpers: Saving map 'Beta' took 1.311
+[2017.11.07-02.17.01:437][108]LogSavePackage: Save=227.80ms
+[2017.11.07-02.17.01:437][108]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacterCD31D88C40F6B3CC7A1DE8BB44810FC5.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.17.01:455][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.17.02:984][151]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.17.03:038][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.17.03:038][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.17.03:077][151]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.17.03:088][151]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.17.03:111][151]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.17.03:118][151]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.17.03:129][151]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.17.03:134][151]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.17.03:137][151]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.17.03:155][151]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.17.03:217][151]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.17.30:246][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 27208 ms (9 blueprints)
+[2017.11.07-02.17.30:247][151]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:17:30 PM)
+[2017.11.07-02.17.30:247][151]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.17.30:281][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033690s)
+[2017.11.07-02.17.30:282][151]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.17.30:283][151]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2017.11.07-02.17.30:283][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.035762s)
+[2017.11.07-02.17.30:474][151]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.17.30:493][151]LogInit: FAudioDevice initialized.
+[2017.11.07-02.17.30:676][151]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.17.30:704][151]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.17.30
+[2017.11.07-02.17.30:710][151]LogWorld: Bringing up level for play took: 0.032560
+[2017.11.07-02.17.30:719][151]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.17.30:719][151]LogHMD: Warning: SetSpectatorScreenTexture blueprint function called with null Texture!
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.17.30:720][151]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.17.30:770][151]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 28.718
+[2017.11.07-02.17.30:771][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.17.43:628][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.17.44:026][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.17.58:326][ 48]LogSavePackage: Save=823.34ms
+[2017.11.07-02.17.58:327][ 48]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Beta5690576D413D32054DBBF18C3045366A.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.17.58:343][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.17.58:429][ 48]LogFileHelpers: Saving map 'Beta' took 1.154
+[2017.11.07-02.17.58:639][ 48]LogSavePackage: Save=77.84ms
+[2017.11.07-02.17.58:640][ 48]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/MC_pawn_NEW4DBAF07E437F11629033DB8DA19A68DA.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset'
+[2017.11.07-02.17.58:661][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset
+[2017.11.07-02.18.00:548][102]BlueprintLog: New page: Compile MC_pawn_NEW
+[2017.11.07-02.18.03:556][167]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.07-02.18.47:761][638]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.18.48:337][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.18.48:338][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.18.48:338][638]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:18:48 PM)
+[2017.11.07-02.18.48:338][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.18.48:366][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028186s)
+[2017.11.07-02.18.48:368][638]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.18.48:369][638]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2017.11.07-02.18.48:369][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.031484s)
+[2017.11.07-02.18.48:522][638]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.18.48:542][638]LogInit: FAudioDevice initialized.
+[2017.11.07-02.18.48:686][638]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.18.48:707][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.18.48
+[2017.11.07-02.18.48:712][638]LogWorld: Bringing up level for play took: 0.023220
+[2017.11.07-02.18.48:720][638]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.18.48:720][638]LogHMD: Warning: SetSpectatorScreenTexture blueprint function called with null Texture!
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.18.48:720][638]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.18.48:756][638]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.704
+[2017.11.07-02.18.48:757][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.19.17:235][862]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.19.17:235][862]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.19.17:506][876]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_130] Crystal
+[2017.11.07-02.19.17:819][890]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_89] Crystal
+[2017.11.07-02.19.17:864][892]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_35] Crystal
+[2017.11.07-02.19.18:129][904]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_102] Crystal
+[2017.11.07-02.19.18:334][913]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_3] Crystal
+[2017.11.07-02.19.38:086][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.19.38:403][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.21.21:263][834]LogSavePackage: Save=177.92ms
+[2017.11.07-02.21.21:263][834]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacterA3B154DB4C62538A0EB844B885FEFA54.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.21.21:275][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.21.22:416][867]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.21.22:458][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.21.22:459][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.21.22:459][867]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:21:22 PM)
+[2017.11.07-02.21.22:460][867]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.21.22:505][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044932s)
+[2017.11.07-02.21.22:506][867]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.21.22:507][867]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2017.11.07-02.21.22:507][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.047274s)
+[2017.11.07-02.21.22:678][867]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.21.22:700][867]LogInit: FAudioDevice initialized.
+[2017.11.07-02.21.22:867][867]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.21.22:892][867]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.21.22
+[2017.11.07-02.21.22:895][867]LogWorld: Bringing up level for play took: 0.024953
+[2017.11.07-02.21.22:900][867]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.21.22:900][867]LogHMD: Warning: SetSpectatorScreenTexture blueprint function called with null Texture!
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.21.22:900][867]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.21.22:951][867]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.9
+[2017.11.07-02.21.22:952][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.21.29:880][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.21.30:193][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.24.52:915][445]LogSavePackage: Save=186.71ms
+[2017.11.07-02.24.52:915][445]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter968C36B840101C184E42F5B8145A35CE.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.24.52:931][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.27.38:901][293]LogSavePackage: Save=33.41ms
+[2017.11.07-02.27.38:902][293]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorCamTest_BlueprintB6B05580459954390CFF8A91830CA55E.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset'
+[2017.11.07-02.27.38:913][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset
+[2017.11.07-02.28.43:422][976]LogSavePackage: Save=748.47ms
+[2017.11.07-02.28.43:423][976]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Beta947A198A4E029A6E37BD53BDA9FF18B9.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.28.43:435][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.28.43:486][976]LogFileHelpers: Saving map 'Beta' took 0.996
+[2017.11.07-02.28.43:564][976]LogSavePackage: Save=26.00ms
+[2017.11.07-02.28.43:564][976]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorCamTest_BlueprintBBFA5DB844A4C18D0BE95D936EC1352C.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset'
+[2017.11.07-02.28.43:569][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset
+[2017.11.07-02.28.43:600][976]LogSavePackage: Save=12.67ms
+[2017.11.07-02.28.43:601][976]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorScreenTESTRenderTarget2D0E4DB3EA4194936CA88C94B20EFF217B.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/SpectatorScreenTESTRenderTarget2D.uasset'
+[2017.11.07-02.28.43:607][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/SpectatorScreenTESTRenderTarget2D.uasset
+[2017.11.07-02.28.54:694][623]LogEditorViewport: Clicking on Actor (LMB): FloorTileBP_C (FloorTileBP)
+[2017.11.07-02.29.26:865][489]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2017.11.07-02.29.59:787][468]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.29.59:822][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.29.59:822][468]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.29.59:853][468]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.29.59:869][468]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.29.59:884][468]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.29.59:889][468]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.29.59:898][468]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.29.59:903][468]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.29.59:907][468]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.29.59:925][468]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.29.59:984][468]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.30.23:223][468]LogPlayLevel: [PlayLevel] Compiling SpectatorCamTest_Blueprint before play...
+[2017.11.07-02.30.23:702][468]LogPlayLevel: PlayLevel: Blueprint regeneration took 23879 ms (10 blueprints)
+[2017.11.07-02.30.23:702][468]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:30:23 PM)
+[2017.11.07-02.30.23:702][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.30.23:734][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031859s)
+[2017.11.07-02.30.23:735][468]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.30.23:735][468]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2017.11.07-02.30.23:735][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.033406s)
+[2017.11.07-02.30.23:927][468]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.30.23:944][468]LogInit: FAudioDevice initialized.
+[2017.11.07-02.30.24:072][468]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.30.24:086][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.30.24
+[2017.11.07-02.30.24:088][468]LogWorld: Bringing up level for play took: 0.014631
+[2017.11.07-02.30.24:091][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.30.24:091][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.30.24:091][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.30.24:092][468]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.30.24:092][468]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.30.24:092][468]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.30.24:093][468]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.30.24:112][468]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 24.06
+[2017.11.07-02.30.24:112][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.30.40:802][299]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.30.40:803][299]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.30.41:088][312]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_130] Crystal
+[2017.11.07-02.30.50:901][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.30.51:332][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.30.56:424][  3]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.07-02.31.01:720][233]LogSavePackage: Save=18.01ms
+[2017.11.07-02.31.01:720][233]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorScreenTESTRenderTarget2DD6A7741D46085237038DA3925F2BE5D5.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/SpectatorScreenTESTRenderTarget2D.uasset'
+[2017.11.07-02.31.01:728][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/SpectatorScreenTESTRenderTarget2D.uasset
+[2017.11.07-02.35.54:962][319]LogSavePackage: Save=766.78ms
+[2017.11.07-02.35.54:962][319]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/BetaAFBB6D4E4A16FF99FF2C94B79229C4BB.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.35.54:981][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.35.55:031][319]LogFileHelpers: Saving map 'Beta' took 1.077
+[2017.11.07-02.35.55:281][319]LogSavePackage: Save=164.96ms
+[2017.11.07-02.35.55:281][319]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter2B0E0F1D41191E5D35C71AA5470B9BD8.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.35.55:299][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.35.55:352][319]LogSavePackage: Save=21.88ms
+[2017.11.07-02.35.55:353][319]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorScreenRenderTarget2D6DA5113F49C74C4A6278BEACBE56771F.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/SpectatorScreenRenderTarget2D.uasset'
+[2017.11.07-02.35.55:363][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/SpectatorScreenRenderTarget2D.uasset
+[2017.11.07-02.36.01:765][507]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Runner
+[2017.11.07-02.36.01:765][507]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.07-02.36.01:765][507]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.11.07-02.36.01:765][507]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.07-02.36.01:765][507]LogTemp: BranchPath = SCOTTY/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = SCOTTY/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.07-02.36.01:765][507]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mgsta\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.07-02.36.38:247][631]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.36.38:300][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.36.38:300][631]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.36.38:333][631]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.36.38:337][631]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.36.38:353][631]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.36.38:357][631]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.36.38:366][631]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.36.38:372][631]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.36.38:374][631]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.36.38:393][631]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.36.38:466][631]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.37.01:818][631]LogPlayLevel: [PlayLevel] Compiling FloorTileBP before play...
+[2017.11.07-02.37.01:836][631]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.37.01:859][631]LogPlayLevel: [PlayLevel]   Compiling RunGameMode as a dependent...
+[2017.11.07-02.37.04:041][631]LogPlayLevel: PlayLevel: Blueprint regeneration took 25740 ms (12 blueprints)
+[2017.11.07-02.37.04:042][631]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:37:04 PM)
+[2017.11.07-02.37.04:042][631]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.37.04:070][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027860s)
+[2017.11.07-02.37.04:071][631]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.37.04:071][631]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2017.11.07-02.37.04:071][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.029526s)
+[2017.11.07-02.37.04:252][631]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.37.04:269][631]LogInit: FAudioDevice initialized.
+[2017.11.07-02.37.04:420][631]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.37.04:437][631]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.37.04
+[2017.11.07-02.37.04:442][631]LogWorld: Bringing up level for play took: 0.021133
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_86] -1
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_86] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_86] 
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_C_0] -1
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_C_0] &&& MC_pawn_NEWr controller ID:
+[2017.11.07-02.37.04:446][631]LogBlueprintUserMessages: [MC_pawn_NEW_C_0] 
+[2017.11.07-02.37.04:448][631]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.37.04:493][631]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 26.441
+[2017.11.07-02.37.04:494][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.37.37:865][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.37.38:246][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.38.08:760][676]LogSavePackage: Save=727.67ms
+[2017.11.07-02.38.08:760][676]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Beta3685143A497B63899E8C7A84816CC6CA.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.38.08:774][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.38.08:834][676]LogFileHelpers: Saving map 'Beta' took 0.969
+[2017.11.07-02.38.08:952][676]LogSavePackage: Save=55.64ms
+[2017.11.07-02.38.08:952][676]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/RunGameMode4FAECA2C429C3CEA25F31CB6CC924A20.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.11.07-02.38.08:961][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.11.07-02.38.09:048][676]LogSavePackage: Save=28.87ms
+[2017.11.07-02.38.09:048][676]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorCamTest_Blueprint505376834022865D84A2BCA55FF1EAAC.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset'
+[2017.11.07-02.38.09:060][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/SpectatorCamTest_Blueprint.uasset
+[2017.11.07-02.38.56:958][778]LogSavePackage: Save=176.15ms
+[2017.11.07-02.38.56:958][778]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter0D12C1B043B2BB3E3903DDB9E4DDF87D.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.38.56:971][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.39.00:090][854]LogSavePackage: Save=739.38ms
+[2017.11.07-02.39.00:090][854]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/BetaBB71FC0644D35032A269A0A7BCCBFEED.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.39.00:099][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.39.00:156][854]LogFileHelpers: Saving map 'Beta' took 0.971
+[2017.11.07-02.39.00:298][854]LogSavePackage: Save=65.76ms
+[2017.11.07-02.39.00:298][854]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/MC_pawn_NEW750E0F7B4151336245ED35910AD19B4D.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset'
+[2017.11.07-02.39.00:312][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset
+[2017.11.07-02.39.13:322][324]LogSavePackage: Save=68.43ms
+[2017.11.07-02.39.13:322][324]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/MC_pawn_NEW72A075B54DAB8126A0F58E82EF092BF4.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset'
+[2017.11.07-02.39.13:334][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/MichaelImported/MC_pawn_NEW.uasset
+[2017.11.07-02.39.14:949][382]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.39.14:989][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.39.14:989][382]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.39.15:019][382]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.39.15:030][382]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.39.15:046][382]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.39.15:051][382]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.39.15:058][382]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.39.15:062][382]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.39.15:065][382]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.39.15:082][382]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.39.15:136][382]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.39.39:140][382]LogPlayLevel: [PlayLevel] Compiling MC_pawn_NEW before play...
+[2017.11.07-02.39.39:707][382]LogPlayLevel: [PlayLevel] Compiling SpectatorCamTest_Blueprint before play...
+[2017.11.07-02.39.40:253][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 25265 ms (11 blueprints)
+[2017.11.07-02.39.40:254][382]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:39:40 PM)
+[2017.11.07-02.39.40:254][382]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.39.40:298][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043364s)
+[2017.11.07-02.39.40:299][382]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.39.40:300][382]LogPlayLevel: PIE: World Init took: (0.001551s)
+[2017.11.07-02.39.40:300][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.045525s)
+[2017.11.07-02.39.40:511][382]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.39.40:532][382]LogInit: FAudioDevice initialized.
+[2017.11.07-02.39.40:664][382]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.39.40:675][382]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 3) at 2017.11.06-21.39.40
+[2017.11.07-02.39.40:681][382]LogWorld: Bringing up level for play took: 0.015857
+[2017.11.07-02.39.40:720][382]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 26.668
+[2017.11.07-02.39.40:721][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.39.40:771][383]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.40.34:320][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.40.34:615][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.41.33:676][169]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-02.41.41:929][434]LogSavePackage: Save=737.03ms
+[2017.11.07-02.41.41:929][434]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Beta4577CDDF4EEC8D304A94A6B05C9D629D.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.41.41:941][434]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.41.42:002][434]LogFileHelpers: Saving map 'Beta' took 1.002
+[2017.11.07-02.41.45:228][555]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.41.45:262][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.41.45:262][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.41.45:262][555]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:41:45 PM)
+[2017.11.07-02.41.45:262][555]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.41.45:293][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030468s)
+[2017.11.07-02.41.45:293][555]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.41.45:294][555]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2017.11.07-02.41.45:294][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.031855s)
+[2017.11.07-02.41.45:486][555]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.41.45:502][555]LogInit: FAudioDevice initialized.
+[2017.11.07-02.41.45:620][555]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.41.45:644][555]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.41.45
+[2017.11.07-02.41.45:647][555]LogWorld: Bringing up level for play took: 0.025570
+[2017.11.07-02.41.45:652][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.41.45:652][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.41.45:652][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.41.45:683][555]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.368
+[2017.11.07-02.41.45:684][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.41.54:614][975]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.41.54:614][975]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.41.59:083][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_89] Crystal
+[2017.11.07-02.41.59:793][208]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_35] Crystal
+[2017.11.07-02.42.20:094][123]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_73] Crystal
+[2017.11.07-02.42.20:503][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_133] Crystal
+[2017.11.07-02.42.20:720][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1954] Crystal
+[2017.11.07-02.42.21:897][203]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_31] Crystal
+[2017.11.07-02.42.21:984][207]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_11] Crystal
+[2017.11.07-02.42.22:368][224]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_78] Crystal
+[2017.11.07-02.42.23:121][258]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_47] Crystal
+[2017.11.07-02.42.23:604][279]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_27] Light Shard! You have:
+[2017.11.07-02.42.23:604][279]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_27] 21
+[2017.11.07-02.42.23:806][288]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_107] Crystal
+[2017.11.07-02.42.31:169][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.42.31:457][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.43.07:676][957]LogSavePackage: Save=158.82ms
+[2017.11.07-02.43.07:676][957]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter567E9EF94E3346D93F7F39AC7C49C4AA.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.43.07:688][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.43.10:055][ 39]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.43.10:089][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.43.10:089][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.43.10:116][ 39]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.43.10:125][ 39]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.43.10:143][ 39]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.43.10:147][ 39]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.43.10:154][ 39]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.43.10:159][ 39]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.43.10:163][ 39]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.43.10:175][ 39]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.43.10:222][ 39]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.43.35:765][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 25675 ms (9 blueprints)
+[2017.11.07-02.43.35:766][ 39]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:43:35 PM)
+[2017.11.07-02.43.35:766][ 39]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.43.35:800][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034159s)
+[2017.11.07-02.43.35:801][ 39]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.43.35:801][ 39]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2017.11.07-02.43.35:801][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.035677s)
+[2017.11.07-02.43.35:993][ 39]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.43.36:010][ 39]LogInit: FAudioDevice initialized.
+[2017.11.07-02.43.36:161][ 39]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.43.36:181][ 39]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.43.36
+[2017.11.07-02.43.36:187][ 39]LogWorld: Bringing up level for play took: 0.023095
+[2017.11.07-02.43.36:196][ 39]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.43.36:241][ 39]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 26.189
+[2017.11.07-02.43.36:242][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.44.14:692][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.44.15:027][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.44.24:201][ 46]LogSavePackage: Save=174.01ms
+[2017.11.07-02.44.24:201][ 46]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacter5D0E9BED4BD160624D55E28DCC06C515.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.44.24:220][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.44.25:619][ 93]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.44.25:661][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.44.25:662][ 93]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.44.25:691][ 93]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.44.25:702][ 93]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.44.25:720][ 93]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.44.25:725][ 93]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.44.25:733][ 93]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.44.25:737][ 93]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.44.25:740][ 93]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.44.25:761][ 93]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.44.25:834][ 93]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.44.52:380][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 26718 ms (9 blueprints)
+[2017.11.07-02.44.52:380][ 93]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:44:52 PM)
+[2017.11.07-02.44.52:381][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.44.52:414][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033053s)
+[2017.11.07-02.44.52:415][ 93]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.44.52:416][ 93]LogPlayLevel: PIE: World Init took: (0.002163s)
+[2017.11.07-02.44.52:417][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.036216s)
+[2017.11.07-02.44.52:612][ 93]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.44.52:629][ 93]LogInit: FAudioDevice initialized.
+[2017.11.07-02.44.52:784][ 93]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.44.52:807][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.44.52
+[2017.11.07-02.44.52:812][ 93]LogWorld: Bringing up level for play took: 0.027573
+[2017.11.07-02.44.52:819][ 93]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.44.52:819][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.44.52:819][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.44.52:819][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.44.52:868][ 93]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 26.816
+[2017.11.07-02.44.52:869][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.44.56:234][241]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.44.56:234][241]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.45.02:101][510]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_130] Crystal
+[2017.11.07-02.45.04:323][610]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_3] Crystal
+[2017.11.07-02.45.04:349][611]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_102] Crystal
+[2017.11.07-02.45.12:232][964]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_425] Crystal
+[2017.11.07-02.45.17:842][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.45.18:171][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.45.38:384][924]LogSavePackage: Save=19.53ms
+[2017.11.07-02.45.38:384][924]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/SpectatorScreenRenderTarget2D74B0193D45263797E7BBD88390696AEA.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/SpectatorScreenRenderTarget2D.uasset'
+[2017.11.07-02.45.38:395][924]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/SpectatorScreenRenderTarget2D.uasset
+[2017.11.07-02.45.42:319][ 88]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.45.42:358][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.45.42:358][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.45.42:358][ 88]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:45:42 PM)
+[2017.11.07-02.45.42:358][ 88]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.45.42:389][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030400s)
+[2017.11.07-02.45.42:390][ 88]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.45.42:390][ 88]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2017.11.07-02.45.42:391][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.032537s)
+[2017.11.07-02.45.42:577][ 88]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.45.42:594][ 88]LogInit: FAudioDevice initialized.
+[2017.11.07-02.45.42:723][ 88]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.45.42:750][ 88]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.45.42
+[2017.11.07-02.45.42:753][ 88]LogWorld: Bringing up level for play took: 0.028472
+[2017.11.07-02.45.42:757][ 88]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.45.42:757][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.45.42:757][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.45.42:757][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.45.42:795][ 88]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.743
+[2017.11.07-02.45.42:798][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.45.55:578][661]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.45.55:578][661]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.45.55:891][675]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_130] Crystal
+[2017.11.07-02.45.58:832][806]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_425] Crystal
+[2017.11.07-02.46.03:947][ 36]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_91] Crystal
+[2017.11.07-02.46.12:053][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.46.12:308][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.46.55:335][ 97]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.46.55:368][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.46.55:369][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.46.55:369][ 97]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:46:55 PM)
+[2017.11.07-02.46.55:369][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.46.55:400][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031410s)
+[2017.11.07-02.46.55:401][ 97]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.46.55:401][ 97]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2017.11.07-02.46.55:402][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.033045s)
+[2017.11.07-02.46.55:583][ 97]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.46.55:600][ 97]LogInit: FAudioDevice initialized.
+[2017.11.07-02.46.55:753][ 97]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.46.55:773][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.46.55
+[2017.11.07-02.46.55:778][ 97]LogWorld: Bringing up level for play took: 0.024250
+[2017.11.07-02.46.55:784][ 97]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.46.55:784][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.46.55:784][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.46.55:784][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.46.55:833][ 97]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta -0.219
+[2017.11.07-02.46.55:834][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.47.09:513][710]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.47.09:514][710]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.47.17:456][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.47.17:746][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.10:328][889]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.48.10:380][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.10:380][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-02.48.10:381][889]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:48:10 PM)
+[2017.11.07-02.48.10:381][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.48.10:414][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033776s)
+[2017.11.07-02.48.10:416][889]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.48.10:417][889]LogPlayLevel: PIE: World Init took: (0.001878s)
+[2017.11.07-02.48.10:417][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.036592s)
+[2017.11.07-02.48.10:590][889]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.48.10:605][889]LogInit: FAudioDevice initialized.
+[2017.11.07-02.48.10:748][889]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.48.10:767][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.48.10
+[2017.11.07-02.48.10:771][889]LogWorld: Bringing up level for play took: 0.021206
+[2017.11.07-02.48.10:778][889]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.48.10:778][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.48.10:778][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.48.10:778][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.48.10:817][889]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 0.766
+[2017.11.07-02.48.10:818][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.22:673][418]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.48.22:673][418]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.48.22:939][430]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_130] Crystal
+[2017.11.07-02.48.41:375][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.41:651][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.48:978][498]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.48.49:013][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.48.49:014][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.48.49:045][498]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.48.49:061][498]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.48.49:079][498]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.48.49:084][498]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.48.49:092][498]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.48.49:096][498]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.48.49:099][498]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.48.49:117][498]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.48.49:191][498]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.49.16:059][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 27044 ms (9 blueprints)
+[2017.11.07-02.49.16:059][498]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:49:16 PM)
+[2017.11.07-02.49.16:060][498]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.49.16:094][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034797s)
+[2017.11.07-02.49.16:096][498]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.49.16:096][498]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2017.11.07-02.49.16:097][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.037100s)
+[2017.11.07-02.49.16:285][498]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.49.16:303][498]LogInit: FAudioDevice initialized.
+[2017.11.07-02.49.16:436][498]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.49.16:457][498]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.49.16
+[2017.11.07-02.49.16:459][498]LogWorld: Bringing up level for play took: 0.022226
+[2017.11.07-02.49.16:464][498]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.49.16:464][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.49.16:464][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.49.16:465][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.49.16:508][498]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 28.456
+[2017.11.07-02.49.16:508][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.49.41:803][624]LogBlueprintUserMessages: [FloorTileStartBP_177] Passed Start block!
+[2017.11.07-02.49.41:803][624]LogBlueprintUserMessages: [FloorTileStartBP_177] 1
+[2017.11.07-02.49.45:266][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.49.45:654][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.49.52:469][972]LogSavePackage: Save=782.42ms
+[2017.11.07-02.49.52:469][972]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/Beta59E9AF51426F57D1192F8DB97E6F2184.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap'
+[2017.11.07-02.49.52:486][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/Levels/Beta.umap
+[2017.11.07-02.49.52:550][972]LogFileHelpers: Saving map 'Beta' took 1.062
+[2017.11.07-02.49.52:772][972]LogSavePackage: Save=147.96ms
+[2017.11.07-02.49.52:772][972]LogSavePackage: Moving '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Saved/ThirdPersonCharacterF0486572476631D4615AF3A9E318AAD8.tmp' to '../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-02.49.52:780][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mgsta/Box Sync/Penn/MES/568-Game-Design-Fall02017/HoGod/sharedPrjNew/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-02.50.11:572][618]LogTemp: Repeating last play command: VR Preview
+[2017.11.07-02.50.11:614][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.50.11:615][618]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-02.50.11:641][618]LogPlayLevel: [PlayLevel] Compiling CrystalBP before play...
+[2017.11.07-02.50.11:655][618]LogPlayLevel: [PlayLevel]   Compiling FloorTileBP as a dependent...
+[2017.11.07-02.50.11:670][618]LogPlayLevel: [PlayLevel]   Compiling FloorTileEndBP as a dependent...
+[2017.11.07-02.50.11:674][618]LogPlayLevel: [PlayLevel]   Compiling FloorTileStartBP as a dependent...
+[2017.11.07-02.50.11:682][618]LogPlayLevel: [PlayLevel]   Compiling LightShardBP as a dependent...
+[2017.11.07-02.50.11:686][618]LogPlayLevel: [PlayLevel]   Compiling SpecialBP as a dependent...
+[2017.11.07-02.50.11:690][618]LogPlayLevel: [PlayLevel]   Compiling Beta as a dependent...
+[2017.11.07-02.50.11:712][618]LogPlayLevel: [PlayLevel]   Compiling HUD_widget as a dependent...
+[2017.11.07-02.50.11:755][618]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2017.11.07-02.50.39:765][618]LogPlayLevel: PlayLevel: Blueprint regeneration took 28150 ms (9 blueprints)
+[2017.11.07-02.50.39:765][618]PIE: New page: PIE session: Beta (Nov 6, 2017, 4:50:39 PM)
+[2017.11.07-02.50.39:765][618]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Beta
+[2017.11.07-02.50.39:796][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030584s)
+[2017.11.07-02.50.39:797][618]LogAIModule: Creating AISystem for world Beta
+[2017.11.07-02.50.39:797][618]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2017.11.07-02.50.39:798][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Beta.Beta to /Game/Levels/UEDPIE_0_Beta.Beta (0.032491s)
+[2017.11.07-02.50.39:987][618]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-02.50.40:003][618]LogInit: FAudioDevice initialized.
+[2017.11.07-02.50.40:148][618]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.07-02.50.40:166][618]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2017.11.06-21.50.40
+[2017.11.07-02.50.40:172][618]LogWorld: Bringing up level for play took: 0.023293
+[2017.11.07-02.50.40:181][618]LogHMD: SetSpectatorScreenMode(6).
+[2017.11.07-02.50.40:181][618]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Beta.Beta:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:00B7
+[2017.11.07-02.50.40:182][618]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Possess in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2017.11.07-02.50.40:182][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] -1
+[2017.11.07-02.50.40:182][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonChar controller ID:
+[2017.11.07-02.50.40:182][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 
+[2017.11.07-02.50.40:224][618]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Beta 28.172
+[2017.11.07-02.50.40:225][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Levels/Beta.Beta_C' with ClassGeneratedBy '/Game/Levels/Beta.Beta:PersistentLevel.Beta'
+[2017.11.07-02.51.14:855][143]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.421 s
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: 
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: Ensure condition failed: LevelViewport.IsValid() [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp] [Line: 3573]
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: 
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: Stack: 
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001F853E36
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001F5DC2D2
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001F5F4746
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000001A104B4D
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000019B6BE08
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000001A3FD646
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor.exe!0x000000004DDE534A
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor.exe!0x000000004DDF3970
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor.exe!0x000000004DDF39EA
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor.exe!0x000000004DE002D9
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: UE4Editor.exe!0x000000004DE01C47
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: KERNEL32.DLL!0x000000008A511FE4
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: ntdll.dll!0x000000008B59EF91
+[2017.11.07-02.51.14:856][143]LogOutputDevice: Error: 
+[2017.11.07-02.51.14:865][143]LogStats:                SubmitErrorReport -  0.000 s
