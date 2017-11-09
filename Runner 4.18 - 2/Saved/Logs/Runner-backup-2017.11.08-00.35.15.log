@@ -1,0 +1,1151 @@
+﻿Log file open, 11/08/17 00:04:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Runner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-941178009) SRandInit(-941178009).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266878
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Programs/Unreal/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.08-05.04.07:144][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-05.04.07:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.08-05.04.07:164][  0]LogInit: Computer: DESKTOP-AK73KT9
+[2017.11.08-05.04.07:164][  0]LogInit: User: Jon
+[2017.11.08-05.04.07:164][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.08-05.04.07:164][  0]LogInit: High frequency timer resolution =4.101563 MHz
+[2017.11.08-05.04.07:164][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.08-05.04.07:164][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.08-05.04.07:164][  0]LogMemory: Process Physical Memory: 272.50 MB used, 272.50 MB peak
+[2017.11.08-05.04.07:164][  0]LogMemory: Process Virtual Memory: 269.86 MB used, 269.86 MB peak
+[2017.11.08-05.04.07:164][  0]LogMemory: Physical Memory: 6999.25 MB used,  9347.87 MB free, 16347.12 MB total
+[2017.11.08-05.04.07:164][  0]LogMemory: Virtual Memory: 663.16 MB used,  9347.87 MB free, 134217728.00 MB total
+[2017.11.08-05.04.07:245][  0]LogInit: Using OS detected language (en-US).
+[2017.11.08-05.04.07:245][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.08-05.04.07:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.08-05.04.07:535][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.08-05.04.07:742][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.08-05.04.07:788][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.08-05.04.07:788][  0]LogD3D11RHI:       8081/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.08-05.04.07:790][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.08-05.04.07:790][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.08-05.04.07:790][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.08-05.04.07:794][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.08-05.04.07:794][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.08-05.04.07:795][  0]LogWindows: EnumDisplayDevices:
+[2017.11.08-05.04.07:795][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.08-05.04.07:795][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.11.08-05.04.07:795][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.08-05.04.07:795][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.08-05.04.07:795][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.08-05.04.07:795][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.08-05.04.07:795][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.08-05.04.07:795][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.08-05.04.07:795][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2017.11.08-05.04.07:810][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.08-05.04.07:830][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.08-05.04.07:879][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Intermediate/Shaders/WorkingDirectory/8056/).
+[2017.11.08-05.04.07:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jon/AppData/Local/Temp/UnrealShaderWorkingDir/949E03A244A4D4E23CEFD08753838550/'.
+[2017.11.08-05.04.07:879][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.08-05.04.08:523][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.08-05.04.08:554][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.08-05.04.08:585][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.08-05.04.08:616][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.08-05.04.08:647][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.08-05.04.08:678][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.08-05.04.08:709][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.08-05.04.08:744][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.08-05.04.08:769][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.08-05.04.08:798][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.08-05.04.08:828][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.08-05.04.08:858][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.08-05.04.08:888][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.08-05.04.08:918][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.08-05.04.08:978][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.08-05.04.08:978][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.08-05.04.09:012][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.08-05.04.09:035][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.08-05.04.09:096][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.08-05.04.09:111][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.08-05.04.09:142][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.08-05.04.09:172][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.08-05.04.09:204][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.08-05.04.09:234][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.08-05.04.09:234][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.08-05.04.09:492][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: Loaded boot cache 0.05s 69MB C:/Users/Jon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.08-05.04.09:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.08-05.04.09:551][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.08-05.04.09:563][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.08-05.04.09:570][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.08-05.04.09:570][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.08-05.04.09:571][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-05.04.09:571][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-05.04.09:834][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-05.04.10:062][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.08-05.04.10:091][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.08-05.04.10:091][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.08-05.04.10:091][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.08-05.04.10:091][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.08-05.04.10:091][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.08-05.04.10:119][  0]LogNetVersion: Runner , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3172265664)
+[2017.11.08-05.04.10:233][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.11.08-05.04.10:627][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.060124 seconds
+[2017.11.08-05.04.10:632][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.08-05.04.10:632][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.08-05.04.10:632][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.08-05.04.10:668][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.08-05.04.11:742][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2017.11.08-05.04.11:770][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2017.11.08-05.04.11:837][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2017.11.08-05.04.11:848][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2017.11.08-05.04.12:886][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2017.11.08-05.04.12:908][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2017.11.08-05.04.13:336][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.08-05.04.13:392][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.08-05.04.13:759][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2017.11.08-05.04.14:215][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.11.08-05.04.14:225][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2017.11.08-05.04.14:246][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.08-05.04.14:249][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2017.11.08-05.04.14:260][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2017.11.08-05.04.14:271][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.11.08-05.04.14:282][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.11.08-05.04.14:291][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.11.08-05.04.14:302][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.11.08-05.04.14:311][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.11.08-05.04.14:747][  0]SourceControl: Source control is disabled
+[2017.11.08-05.04.14:747][  0]SourceControl: Source control is disabled
+[2017.11.08-05.04.14:804][  0]SourceControl: Source control is disabled
+[2017.11.08-05.04.14:861][  0]SourceControl: Source control is disabled
+[2017.11.08-05.04.15:713][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.08-05.04.16:001][  0]LogOcInput: OculusInput pre-init called
+[2017.11.08-05.04.16:263][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2017.11.08-05.04.16:303][  0]LogEngine: Initializing Engine...
+[2017.11.08-05.04.16:306][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.08-05.04.16:311][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2017.11.08-05.04.16:559][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.08-05.04.17:205][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2017.11.08-05.04.17:394][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2017.11.08-05.04.18:018][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.08-05.04.18:661][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2017.11.08-05.04.18:844][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2017.11.08-05.04.18:942][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2017.11.08-05.04.18:968][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2017.11.08-05.04.18:988][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2017.11.08-05.04.19:007][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2017.11.08-05.04.19:027][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2017.11.08-05.04.19:046][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2017.11.08-05.04.19:055][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2017.11.08-05.04.19:072][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2017.11.08-05.04.19:117][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2017.11.08-05.04.19:134][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2017.11.08-05.04.19:158][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2017.11.08-05.04.19:173][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2017.11.08-05.04.19:191][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2017.11.08-05.04.19:291][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2017.11.08-05.04.19:310][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2017.11.08-05.04.19:331][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2017.11.08-05.04.19:347][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2017.11.08-05.04.19:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.08-05.04.19:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.08-05.04.19:594][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.08-05.04.19:603][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-05.04.19:651][  0]LogInit: FAudioDevice initialized.
+[2017.11.08-05.04.19:772][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Jon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.08-05.04.19:789][  0]LogInit: Texture streaming: Enabled
+[2017.11.08-05.04.19:875][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.08-05.04.20:032][  0]LogInit: Transaction tracking system initialized
+[2017.11.08-05.04.20:332][  0]BlueprintLog: New page: Editor Load
+[2017.11.08-05.04.21:201][  0]LocalizationService: Localization service is disabled
+[2017.11.08-05.04.21:949][  0]LogConsoleResponse: Display: 
+[2017.11.08-05.04.21:972][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2017.11.08-05.04.21:995][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2017.11.08-05.04.22:011][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2017.11.08-05.04.22:031][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2017.11.08-05.04.22:046][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2017.11.08-05.04.22:066][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2017.11.08-05.04.22:094][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2017.11.08-05.04.22:114][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2017.11.08-05.04.22:130][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2017.11.08-05.04.22:145][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2017.11.08-05.04.22:161][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2017.11.08-05.04.22:175][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2017.11.08-05.04.22:193][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2017.11.08-05.04.22:237][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2017.11.08-05.04.22:280][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2017.11.08-05.04.22:313][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2017.11.08-05.04.22:372][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.08-05.04.22:372][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.08-05.04.22:372][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.08-05.04.23:574][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/' took 0.02s
+[2017.11.08-05.04.23:622][  0]SourceControl: Source control is disabled
+[2017.11.08-05.04.23:734][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Programs/Unreal/UE_4.18/FeaturePacks/StarterContent.upack)
+[2017.11.08-05.04.23:746][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.08-05.04.23:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.08-05.04.23:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.08-05.04.23:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.11.08-05.04.23:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.08-05.04.23:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.08-05.04.23:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.08-05.04.23:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.08-05.04.23:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.08-05.04.23:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.08-05.04.23:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.08-05.04.23:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.08-05.04.23:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.11.08-05.04.23:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.11.08-05.04.23:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.08-05.04.23:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.11.08-05.04.23:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.11.08-05.04.23:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.08-05.04.23:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Fire01.uasset"
+[2017.11.08-05.04.23:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.08-05.04.23:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.08-05.04.23:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.08-05.04.23:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Light01.uasset"
+[2017.11.08-05.04.23:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.11.08-05.04.23:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Light02.uasset"
+[2017.11.08-05.04.23:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.11.08-05.04.23:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.11.08-05.04.23:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.08-05.04.23:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.08-05.04.23:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.08-05.04.23:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.11.08-05.04.23:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.08-05.04.23:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.08-05.04.23:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.08-05.04.23:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Steam01.uasset"
+[2017.11.08-05.04.23:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.08-05.04.23:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.08-05.04.23:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.08-05.04.23:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.08-05.04.23:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.08-05.04.23:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.08-05.04.23:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.11.08-05.04.23:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.08-05.04.23:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.11.08-05.04.23:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.11.08-05.04.23:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.11.08-05.04.23:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.11.08-05.04.23:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.11.08-05.04.23:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.11.08-05.04.23:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.11.08-05.04.23:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.11.08-05.04.23:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.11.08-05.04.23:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.11.08-05.04.23:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.11.08-05.04.23:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.11.08-05.04.23:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.11.08-05.04.23:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.08-05.04.23:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/StarterMap.umap"
+[2017.11.08-05.04.23:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.08-05.04.23:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.11.08-05.04.23:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.08-05.04.23:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.08-05.04.23:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.08-05.04.23:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.08-05.04.23:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.08-05.04.23:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.08-05.04.23:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.08-05.04.23:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.08-05.04.23:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.08-05.04.23:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.08-05.04.23:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.08-05.04.23:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.11.08-05.04.23:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.08-05.04.23:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.08-05.04.23:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.08-05.04.23:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.08-05.04.23:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.11.08-05.04.23:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.08-05.04.23:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.08-05.04.23:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.08-05.04.23:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.08-05.04.23:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.08-05.04.23:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.08-05.04.23:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.08-05.04.23:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.08-05.04.23:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.08-05.04.23:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.08-05.04.23:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.08-05.04.23:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.08-05.04.23:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.08-05.04.23:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.08-05.04.23:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.08-05.04.23:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.08-05.04.23:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.08-05.04.23:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.08-05.04.23:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.08-05.04.23:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.08-05.04.23:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.08-05.04.23:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.08-05.04.23:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.08-05.04.23:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.08-05.04.23:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.08-05.04.23:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.08-05.04.24:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.11.08-05.04.24:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.11.08-05.04.24:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.11.08-05.04.24:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.11.08-05.04.24:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.11.08-05.04.24:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.08-05.04.24:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.08-05.04.24:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.08-05.04.24:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.08-05.04.24:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.08-05.04.24:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.11.08-05.04.24:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.08-05.04.24:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.08-05.04.24:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.08-05.04.24:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.08-05.04.24:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.11.08-05.04.24:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.11.08-05.04.24:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.11.08-05.04.24:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.08-05.04.24:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.11.08-05.04.24:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Door.uasset"
+[2017.11.08-05.04.24:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.08-05.04.24:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.08-05.04.24:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.08-05.04.24:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.08-05.04.24:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.08-05.04.24:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.08-05.04.24:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.08-05.04.24:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.11.08-05.04.24:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.11.08-05.04.24:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.11.08-05.04.24:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.11.08-05.04.24:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.11.08-05.04.24:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.08-05.04.24:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.08-05.04.24:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.08-05.04.24:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.11.08-05.04.24:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.08-05.04.24:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.08-05.04.24:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.08-05.04.24:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.08-05.04.24:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.08-05.04.24:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.08-05.04.24:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.08-05.04.24:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.08-05.04.24:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.08-05.04.24:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.08-05.04.24:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.08-05.04.24:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.08-05.04.24:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.08-05.04.24:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.08-05.04.24:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.08-05.04.24:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.08-05.04.24:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.08-05.04.24:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.08-05.04.24:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.08-05.04.24:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.08-05.04.24:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.08-05.04.24:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.08-05.04.24:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.08-05.04.24:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.08-05.04.24:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.08-05.04.24:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.08-05.04.24:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.08-05.04.24:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.08-05.04.24:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.08-05.04.24:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.08-05.04.24:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.08-05.04.24:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.08-05.04.24:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.08-05.04.24:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.08-05.04.24:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.08-05.04.24:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.08-05.04.24:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.08-05.04.24:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.08-05.04.24:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.08-05.04.24:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.08-05.04.24:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.08-05.04.24:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.11.08-05.04.24:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.11.08-05.04.24:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.11.08-05.04.24:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.08-05.04.24:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.08-05.04.24:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.11.08-05.04.24:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.11.08-05.04.24:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.08-05.04.24:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.08-05.04.24:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.08-05.04.24:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.08-05.04.24:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.08-05.04.24:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.08-05.04.24:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.08-05.04.24:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.08-05.04.24:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.08-05.04.24:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.08-05.04.24:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.08-05.04.24:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.08-05.04.24:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.08-05.04.24:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.08-05.04.24:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.08-05.04.24:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.08-05.04.24:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.08-05.04.24:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.08-05.04.24:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.08-05.04.24:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.11.08-05.04.24:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.11.08-05.04.24:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.08-05.04.24:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.08-05.04.24:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.08-05.04.24:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.08-05.04.24:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.11.08-05.04.24:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.11.08-05.04.24:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.08-05.04.24:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.08-05.04.24:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.08-05.04.24:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.08-05.04.24:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.08-05.04.24:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.08-05.04.24:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.08-05.04.24:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.08-05.04.24:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.08-05.04.24:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.08-05.04.24:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.08-05.04.24:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.08-05.04.24:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.08-05.04.24:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.08-05.04.24:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.08-05.04.24:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.08-05.04.24:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.08-05.04.24:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.08-05.04.24:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.08-05.04.24:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.08-05.04.24:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.08-05.04.24:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.08-05.04.24:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.08-05.04.24:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.08-05.04.24:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.08-05.04.24:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.08-05.04.24:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.08-05.04.24:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.08-05.04.24:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.08-05.04.24:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.08-05.04.24:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.08-05.04.24:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.08-05.04.24:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.08-05.04.24:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.08-05.04.24:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.08-05.04.24:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.11.08-05.04.24:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.11.08-05.04.24:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.08-05.04.24:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.08-05.04.24:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.08-05.04.24:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.08-05.04.24:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.08-05.04.24:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.08-05.04.24:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.08-05.04.24:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.08-05.04.24:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.11.08-05.04.24:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.11.08-05.04.24:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.08-05.04.24:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.08-05.04.24:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.08-05.04.24:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.08-05.04.24:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.08-05.04.24:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.08-05.04.24:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.08-05.04.24:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.08-05.04.24:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.08-05.04.24:696][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.11.08-05.04.24:773][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.08-05.04.24:792][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.08-05.04.25:233][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-05.04.29:755][  0]LogSavePackage: Save=133.34ms
+[2017.11.08-05.04.29:765][  0]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Saved/Floor_400x400DB564F3944C7F0E0333F81AF66079D18.tmp' to '../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.08-05.04.29:788][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.08-05.04.29:788][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.08-05.04.29:790][  0]Cmd: MAP LOAD FILE="../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-05.04.29:790][  0]LightingResults: New page: Lighting Build
+[2017.11.08-05.04.29:832][  0]MapCheck: New page: Map Check
+[2017.11.08-05.04.29:832][  0]LightingResults: New page: Lighting Build
+[2017.11.08-05.04.30:682][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.08-05.04.30:683][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.08-05.04.30:683][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.08-05.04.30:699][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.08-05.04.30:699][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2017.11.08-05.04.30:699][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.08-05.04.30:703][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.08-05.04.30:703][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.08-05.04.30:704][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.08-05.04.30:704][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.08-05.04.30:735][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.08-05.04.30:735][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.08-05.04.30:735][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.08-05.04.30:735][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.08-05.04.30:820][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2017.11.08-05.04.30:923][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.08-05.04.31:045][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.08-05.04.31:226][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2017.11.08-05.04.31:257][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2017.11.08-05.04.31:334][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.08-05.04.31:554][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-05.04.31:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-05.04.31:679][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.907ms to complete.
+[2017.11.08-05.04.31:679][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.889
+[2017.11.08-05.04.32:103][  0]LogCollectionManager: Loaded 0 collections in 0.001511 seconds
+[2017.11.08-05.04.32:199][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Saved/Collections/' took 0.01s
+[2017.11.08-05.04.32:199][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Developers/Jon/Collections/' took 0.01s
+[2017.11.08-05.04.32:199][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Collections/' took 0.01s
+[2017.11.08-05.04.32:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.08-05.04.32:210][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2363 classes and 519 folders.
+[2017.11.08-05.04.32:302][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.08-05.04.32:402][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.08-05.04.32:525][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.08-05.04.32:805][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-05.04.32:807][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.08-05.04.32:874][  0]LogSlate: Took 0.006366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.08-05.04.33:026][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.11.08-05.04.33:080][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-05.04.33:287][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-05.04.33:537][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.08-05.04.33:537][  0]LogLoad: (Engine Initialization) Total time: 28.85 seconds
+[2017.11.08-05.04.33:537][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.08-05.04.33:537][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.08-05.04.33:547][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.08-05.04.33:606][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.08-05.04.33:885][  2]LogAssetRegistry: Asset discovery search completed in 23.6747 seconds
+[2017.11.08-05.04.33:889][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.08-05.04.33:889][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2017.11.08-05.04.51:885][904]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-05.04.52:248][904]LogLinker: Warning: Can't find file '/Game/Levels/ProceduralTest_BuiltData'
+[2017.11.08-05.04.52:248][904]LogLinker: Warning: Can't find file for asset '/Game/Levels/ProceduralTest_BuiltData' while loading ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Levels/ProceduralTest.umap.
+[2017.11.08-05.04.52:248][904]LoadErrors: Error: /Game/Levels/ProceduralTest : Can't find file for asset. /Game/Levels/ProceduralTest_BuiltData
+[2017.11.08-05.04.52:250][904]LogLinker: Warning: Can't find file '/Game/Levels/ProceduralTest_BuiltData'
+[2017.11.08-05.04.52:250][904]LogLinker: Warning: Can't find file for asset '/Game/Levels/ProceduralTest_BuiltData' while loading ../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Levels/ProceduralTest.umap.
+[2017.11.08-05.04.52:257][904]LogLinker: Warning: Can't find file '/Game/Levels/ProceduralTest_BuiltData'
+[2017.11.08-05.04.52:258][904]LogLinker: Warning: Can't find file for asset '/Game/Levels/ProceduralTest_BuiltData' while loading NULL.
+[2017.11.08-05.04.52:258][904]LogLinker: Warning: Can't find file '/Game/Levels/ProceduralTest_BuiltData'
+[2017.11.08-05.04.52:258][904]LogLinker: Warning: Can't find file for asset '/Game/Levels/ProceduralTest_BuiltData' while loading NULL.
+[2017.11.08-05.04.52:288][904]LogLinker: Warning: Can't find file '/Game/Levels/ProceduralTest_BuiltData'
+[2017.11.08-05.04.52:288][904]LoadErrors: Failed to load /Game/Levels/ProceduralTest_BuiltData.ProceduralTest_BuiltData Referenced by PersistentLevel
+[2017.11.08-05.04.52:288][904]LogLinker: Warning: Can't find file for asset '/Game/Levels/ProceduralTest_BuiltData' while loading NULL.
+[2017.11.08-05.04.52:323][904]LogStaticMesh: Building static mesh lightshard...
+[2017.11.08-05.04.52:324][904]LogStaticMesh: Built static mesh [0.00s] /Game/OBJs/lightshard.lightshard
+[2017.11.08-05.04.52:456][904]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.08-05.04.52:488][904]LogMaterial: Missing cached shader map for material Ebase, compiling. 
+[2017.11.08-05.04.52:510][904]LogStaticMesh: Building static mesh crystal...
+[2017.11.08-05.04.52:511][904]LogStaticMesh: Built static mesh [0.00s] /Game/OBJs/crystal.crystal
+[2017.11.08-05.04.52:534][904]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2017.11.08-05.04.52:564][904]LogStaticMesh: Building static mesh Heartless_Model_polySurface9...
+[2017.11.08-05.04.53:565][904]LogStaticMesh: Built static mesh [1.00s] /Game/ThirdPersonBP/Blueprints/Heartless_Model_polySurface9.Heartless_Model_polySurface9
+[2017.11.08-05.04.53:645][904]LogMaterial: Missing cached shader map for material blinn2, compiling. 
+[2017.11.08-05.04.53:855][904]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.08-05.04.53:886][904]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.08-05.04.53:898][904]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-05.04.53:938][904]Cmd: MAP LOAD FILE="../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Levels/ProceduralTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-05.04.53:938][904]LightingResults: New page: Lighting Build
+[2017.11.08-05.04.53:946][904]LoadErrors: New page: Loading map: ProceduralTest.umap
+[2017.11.08-05.04.53:959][904]MapCheck: New page: Map Check
+[2017.11.08-05.04.53:960][904]LightingResults: New page: Lighting Build
+[2017.11.08-05.04.53:977][904]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.08-05.04.53:981][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-05.04.54:007][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-05.04.54:071][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.126ms to complete.
+[2017.11.08-05.04.54:071][904]LogFileHelpers: Loading map 'ProceduralTest' took 0.137
+[2017.11.08-05.04.54:557][950]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-05.04.54:759][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.04.54:759][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-05.04.54:760][950]PIE: New page: PIE session: ProceduralTest (Nov 7, 2017, 7:04:54 PM)
+[2017.11.08-05.04.54:760][950]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.08-05.04.54:795][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034724s)
+[2017.11.08-05.04.54:795][950]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.08-05.04.54:805][950]LogPlayLevel: PIE: World Init took: (0.009945s)
+[2017.11.08-05.04.54:805][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.045003s)
+[2017.11.08-05.04.54:824][950]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-05.04.54:840][950]LogInit: FAudioDevice initialized.
+[2017.11.08-05.04.54:896][950]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-05.04.54:905][950]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 0) at 2017.11.08-00.04.54
+[2017.11.08-05.04.54:931][950]LogWorld: Bringing up level for play took: 0.027149
+[2017.11.08-05.04.54:989][950]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.08-05.04.55:002][950]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.08-05.04.55:018][950]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.08-05.04.55:035][950]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest -0.039
+[2017.11.08-05.04.55:035][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.04.55:210][960]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.55:710][  8]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.56:212][ 58]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.56:711][108]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.57:208][157]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.57:709][206]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.57:836][219]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] Light Shard! You have:
+[2017.11.08-05.04.57:836][219]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] 21
+[2017.11.08-05.04.58:209][257]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.58:718][304]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.59:216][352]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.04.59:712][399]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.00:210][446]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.00:213][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.05.00:255][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.05.00:921][513]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-05.05.00:929][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.05.00:929][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-05.05.00:929][513]PIE: New page: PIE session: ProceduralTest (Nov 7, 2017, 7:05:00 PM)
+[2017.11.08-05.05.00:929][513]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.08-05.05.00:935][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005899s)
+[2017.11.08-05.05.00:936][513]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.08-05.05.00:936][513]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.11.08-05.05.00:936][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.006912s)
+[2017.11.08-05.05.00:946][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-05.05.00:958][513]LogInit: FAudioDevice initialized.
+[2017.11.08-05.05.00:994][513]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-05.05.00:996][513]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 0) at 2017.11.08-00.05.00
+[2017.11.08-05.05.00:996][513]LogWorld: Bringing up level for play took: 0.001534
+[2017.11.08-05.05.01:000][513]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.08-05.05.01:001][513]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.08-05.05.01:003][513]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest -0.071
+[2017.11.08-05.05.01:003][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.05.01:343][548]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] Light Shard! You have:
+[2017.11.08-05.05.01:343][548]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] 21
+[2017.11.08-05.05.01:426][557]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.01:925][610]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.02:429][664]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.02:927][716]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.03:194][744]LogBlueprintUserMessages: [FloorTileStartBP_C_0] 1
+[2017.11.08-05.05.03:431][769]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.03:933][821]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.04:431][873]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.04:923][925]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.05:426][978]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.05:923][ 29]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.06:425][ 80]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.05.06:708][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.05.06:746][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.28.05:245][434]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.08-05.28.05:251][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.28.05:251][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-05.28.05:251][434]PIE: New page: PIE session: ProceduralTest (Nov 7, 2017, 7:28:05 PM)
+[2017.11.08-05.28.05:251][434]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.08-05.28.05:255][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004125s)
+[2017.11.08-05.28.05:256][434]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.08-05.28.05:256][434]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.11.08-05.28.05:256][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.005244s)
+[2017.11.08-05.28.05:265][434]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-05.28.05:277][434]LogInit: FAudioDevice initialized.
+[2017.11.08-05.28.05:308][434]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.08-05.28.05:310][434]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 0) at 2017.11.08-00.28.05
+[2017.11.08-05.28.05:310][434]LogWorld: Bringing up level for play took: 0.000957
+[2017.11.08-05.28.05:312][434]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.08-05.28.05:313][434]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.08-05.28.05:314][434]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest 0.241
+[2017.11.08-05.28.05:314][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.28.05:748][484]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.06:248][544]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.06:752][602]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.07:252][662]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.07:752][722]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.07:826][731]LogBlueprintUserMessages: [FloorTileStartBP_C_0] 1
+[2017.11.08-05.28.08:252][782]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.08:746][839]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.09:237][898]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_0] Crystal
+[2017.11.08-05.28.09:246][899]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.09:538][934]LogBlueprintUserMessages: [FloorTileBP_C_2] ADD TILE
+[2017.11.08-05.28.09:538][934]LogBlueprintUserMessages: [FloorTileBP_C_0] 2
+[2017.11.08-05.28.09:746][959]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.10:247][ 19]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.10:749][ 77]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.11:250][137]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.11:534][171]LogBlueprintUserMessages: [ProceduralTest_C_1] Floor
+[2017.11.08-05.28.11:750][197]LogBlueprintUserMessages: [EnemySpawner_158] spawn enemies
+[2017.11.08-05.28.11:867][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.28.11:899][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.08-05.28.16:917][796]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.08-05.28.25:311][727]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2017.11.08-05.28.25:883][727]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.11.08-05.28.25:952][727]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.11.08-05.28.26:132][727]LogSlate: Took 0.007716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.08-05.28.26:442][728]LogSlate: Took 0.000975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.08-05.28.31:451][994]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.08-05.34.02:022][490]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.08-05.34.14:872][304]Cmd: QUIT_EDITOR
+[2017.11.08-05.34.15:284][304]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.08-05.34.15:292][304]LogExit: Preparing to exit.
+[2017.11.08-05.34.15:942][304]LogDirectoryWatcher: A directory notification for 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/' was aborted.
+[2017.11.08-05.34.15:972][304]LogExit: Editor shut down
+[2017.11.08-05.34.15:978][304]LogExit: Transaction tracking system shut down
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../../../../Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.08-05.34.16:106][304]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.08-05.34.16:163][304]LogExit: Object subsystem successfully closed.
+[2017.11.08-05.34.16:183][304]LogD3D11RHI: Shutdown
+[2017.11.08-05.34.16:183][304]LogD3D11RHI: CleanupD3DDevice
+[2017.11.08-05.34.16:188][304]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.08-05.34.16:195][304]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2017.11.08-05.34.16:196][304]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2017.11.08-05.34.16:196][304]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.08-05.34.16:196][304]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.08-05.34.16:196][304]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.08-05.34.16:200][304]LogDirectoryWatcher: A directory notification for 'D:/Programs/Unreal/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.08-05.34.16:202][304]LogDirectoryWatcher: A directory notification for 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Collections/' was aborted.
+[2017.11.08-05.34.16:202][304]LogDirectoryWatcher: A directory notification for 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Content/Developers/Jon/Collections/' was aborted.
+[2017.11.08-05.34.16:202][304]LogDirectoryWatcher: A directory notification for 'D:/Penn/F17/CIS568/Beta/Hand_of_God/Runner 4.18 - 2/Saved/Collections/' was aborted.
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.08-05.34.16:202][304]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.08-05.34.16:203][304]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.08-05.34.17:163][304]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.08-05.34.17:227][304]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.08-05.34.17:233][304]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.08-05.34.17:243][304]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.08-05.34.17:244][304]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.08-05.34.17:244][304]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.08-05.34.17:244][304]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.08-05.34.17:245][304]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.08-05.34.17:345][304]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.08-05.34.17:445][304]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.08-05.34.17:446][304]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.08-05.34.17:446][304]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.08-05.34.17:446][304]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.08-05.34.17:446][304]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.08-05.34.17:447][304]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.08-05.34.17:447][304]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.08-05.34.17:447][304]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.08-05.34.17:447][304]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.08-05.34.17:447][304]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.08-05.34.17:448][304]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.08-05.34.17:454][304]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.08-05.34.17:455][304]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.08-05.34.17:456][304]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.08-05.34.17:501][304]LogDerivedDataCache: Shutdown
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.08-05.34.17:501][304]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.08-05.34.17:502][304]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.08-05.34.17:502][304]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.08-05.34.17:502][304]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.08-05.34.17:502][304]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.08-05.34.17:502][304]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B437FAD14-4B87-2C8E-CC0B-79A098DF3EF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=dc06c3a648778669737131bc1944855a%7C025b25ab26e14f64a438f921eec84600%7Cd9262411-f6f9-4582-9de7-759547dd2ec7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.08-05.34.17:505][304]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.08-05.34.17:506][304]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.08-05.34.17:507][304]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.08-05.34.17:510][304]LogExit: Exiting.
+[2017.11.08-05.34.17:515][304]Log file closed, 11/08/17 00:34:17
