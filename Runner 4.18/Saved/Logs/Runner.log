@@ -5795,3 +5795,378 @@ LogInit: Object subsystem initialized
 [2017.11.09-05.40.41:456][112]LogSavePackage: Save=4.53ms
 [2017.11.09-05.40.41:456][112]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest_BuiltData82DB183541CDCDBDDDE07C8BFAB6AF85.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset'
 [2017.11.09-05.40.41:459][112]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset
+[2017.11.09-05.45.18:092][317]EditorErrors: New page: Save Output
+[2017.11.09-05.45.18:092][317]EditorErrors: Warning: Asset 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset' cannot be saved as it has only been partially loaded
+[2017.11.09-05.45.18:092][317]EditorErrors: Warning: Asset 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset' cannot be saved as it has only been partially loaded
+[2017.11.09-05.45.20:633][452]LogSavePackage: Save=178.65ms
+[2017.11.09-05.45.20:633][452]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ThirdPersonCharacterE59616254D5EA9A14E2D72A8F3C61FC4.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.09-05.45.20:636][452]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.09-05.45.21:055][476]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.09-05.45.24:859][668]MapCheck: New page: Map Check
+[2017.11.09-05.45.24:872][668]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.09-05.45.24:872][668]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.09-05.45.24:888][668]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.09-05.45.24:891][668]LogBlueprintUserMessages: [FloorTileBP_843] ADD TILE
+[2017.11.09-05.45.24:893][668]LogBlueprintUserMessages: [FloorTileBP2] ADD TILE
+[2017.11.09-05.45.24:896][668]LogBlueprintUserMessages: [FloorTileBP3] ADD TILE
+[2017.11.09-05.45.24:927][668]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.09-05.45.24:934][668]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2017.11.09-05.45.24:940][668]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2017.11.09-05.45.24:946][668]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EYellow, compiling. 
+[2017.11.09-05.45.25:451][668]TextureStreamingBuild: Display: Compiling optional shaders took 0.529 seconds.
+[2017.11.09-05.45.25:455][668]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.11.09-05.45.25:464][668]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2017.11.09-05.45.25:478][668]LightingResults: New page: Lighting Build - 08-Nov-2017 7:45:25 pm
+[2017.11.09-05.45.25:488][668]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.09-05.45.25:490][668]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.09-05.45.25:490][668]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.09-05.45.25:490][668]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.09-05.45.25:490][668]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3632
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.09-05.45.29:999][668]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.09-05.45.30:126][668]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.09-05.45.30:126][668]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:45:30 pm
+[2017.11.09-05.45.30:197][668]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.607ms to complete.
+[2017.11.09-05.45.30:219][668]LogEditorBuildUtils: Build time 0:05
+[2017.11.09-05.45.31:417][718]Job is a success!
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.09-05.45.31:480][720]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.09-05.45.31:530][720]Lightmass on DESKTOP-PTDA5BA: 811 ms total, 108 ms importing, 20 ms setup, 377 ms photons, 268 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.71 sec total, 0 ms processing.
+[2017.11.09-05.45.31:538][720]LogStaticLightingSystem: Illumination: 6.03 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.09-05.45.31:538][720]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.45.31:538][720]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.45.32:004][720]DumpUnbuiltLightIteractions
+[2017.11.09-05.45.32:004][720]Lights with unbuilt interactions: 0
+[2017.11.09-05.45.32:004][720]
+[2017.11.09-05.45.32:004][720]Primitives with unbuilt interactions: 0
+[2017.11.09-05.45.32:047][721]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.09-05.45.32:047][721]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:45:32 pm
+[2017.11.09-05.45.32:150][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.824ms to complete.
+[2017.11.09-05.45.32:760][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.09-05.45.33:124][754]LogSavePackage: Save=343.03ms
+[2017.11.09-05.45.33:124][754]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTestC26A5D614A2E56ABD15CD98F23A09E0A.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap'
+[2017.11.09-05.45.33:127][754]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap
+[2017.11.09-05.45.33:162][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset" SILENT=true
+[2017.11.09-05.45.33:172][754]LogSavePackage: Save=4.54ms
+[2017.11.09-05.45.33:172][754]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest_BuiltDataF751C3D54597DAE32A1ED1A9612C0C4D.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset'
+[2017.11.09-05.45.33:175][754]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset
+[2017.11.09-05.45.36:324][942]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-05.45.36:346][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.45.36:346][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-05.45.36:346][942]PIE: New page: PIE session: ProceduralTest (08-Nov-2017 7:45:36 pm)
+[2017.11.09-05.45.36:346][942]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.09-05.45.36:354][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007782s)
+[2017.11.09-05.45.36:354][942]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.09-05.45.36:355][942]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2017.11.09-05.45.36:355][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.008720s)
+[2017.11.09-05.45.36:542][942]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.09-05.45.36:555][942]LogInit: FAudioDevice initialized.
+[2017.11.09-05.45.36:591][942]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.09-05.45.36:597][942]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 60) at 2017.11.09-00.45.36
+[2017.11.09-05.45.36:599][942]LogWorld: Bringing up level for play took: 0.005280
+[2017.11.09-05.45.36:608][942]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest 1.16
+[2017.11.09-05.45.36:609][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.45.38:309][ 43]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.09-05.45.38:310][ 43]LogBlueprintUserMessages: [FloorTileBP_843] 1
+[2017.11.09-05.45.40:710][187]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.09-05.45.40:711][187]LogBlueprintUserMessages: [FloorTileBP_C_0] 2
+[2017.11.09-05.45.42:077][269]LogBlueprintUserMessages: [FloorTileBP_C_2] ADD TILE
+[2017.11.09-05.45.42:078][269]LogBlueprintUserMessages: [FloorTileBP2] 3
+[2017.11.09-05.45.43:410][349]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] Light Shard! You have:
+[2017.11.09-05.45.43:410][349]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_1] 3
+[2017.11.09-05.45.43:511][355]LogBlueprintUserMessages: [FloorTileBP_C_3] ADD TILE
+[2017.11.09-05.45.43:511][355]LogBlueprintUserMessages: [FloorTileBP_C_1] 4
+[2017.11.09-05.45.43:544][357]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5001] Light Shard! You have:
+[2017.11.09-05.45.43:545][357]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5001] 4
+[2017.11.09-05.45.49:395][708]LogBlueprintUserMessages: [FloorTileBP_C_4] ADD TILE
+[2017.11.09-05.45.49:396][708]LogBlueprintUserMessages: [FloorTileBP2] 5
+[2017.11.09-05.45.49:761][730]LogBlueprintUserMessages: [FloorTileBP_C_0] 6
+[2017.11.09-05.45.52:312][883]LogBlueprintUserMessages: [FloorTileBP_843] 7
+[2017.11.09-05.45.53:294][942]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_2508] Crystal
+[2017.11.09-05.45.55:766][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.45.55:808][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.46.16:324][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.09-05.46.16:710][316]LogSavePackage: Save=359.74ms
+[2017.11.09-05.46.16:710][316]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest02C3992A468BDA66A4B3B1852737A156.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap'
+[2017.11.09-05.46.16:714][316]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap
+[2017.11.09-05.46.16:744][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset" SILENT=true
+[2017.11.09-05.46.16:762][316]LogSavePackage: Save=8.14ms
+[2017.11.09-05.46.16:762][316]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest_BuiltDataA40A447548B720742A92AFB65DAACD55.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset'
+[2017.11.09-05.46.16:763][316]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset
+[2017.11.09-05.46.17:850][381]MapCheck: New page: Map Check
+[2017.11.09-05.46.17:865][381]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.09-05.46.17:865][381]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.09-05.46.17:880][381]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.09-05.46.17:883][381]LogBlueprintUserMessages: [FloorTileBP_843] ADD TILE
+[2017.11.09-05.46.17:885][381]LogBlueprintUserMessages: [FloorTileBP2] ADD TILE
+[2017.11.09-05.46.17:887][381]LogBlueprintUserMessages: [FloorTileBP3] ADD TILE
+[2017.11.09-05.46.17:917][381]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.09-05.46.17:923][381]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2017.11.09-05.46.17:930][381]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2017.11.09-05.46.17:937][381]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EYellow, compiling. 
+[2017.11.09-05.46.18:430][381]TextureStreamingBuild: Display: Compiling optional shaders took 0.518 seconds.
+[2017.11.09-05.46.18:434][381]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.11.09-05.46.18:442][381]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2017.11.09-05.46.18:457][381]LightingResults: New page: Lighting Build - 08-Nov-2017 7:46:18 pm
+[2017.11.09-05.46.18:465][381]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.09-05.46.18:468][381]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.09-05.46.18:468][381]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.09-05.46.18:468][381]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.09-05.46.18:468][381]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3632
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.09-05.46.22:984][381]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.09-05.46.23:143][381]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.09-05.46.23:143][381]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:46:23 pm
+[2017.11.09-05.46.23:206][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.526ms to complete.
+[2017.11.09-05.46.23:229][381]LogEditorBuildUtils: Build time 0:05
+[2017.11.09-05.46.24:408][427]Job is a success!
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.09-05.46.24:477][429]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.09-05.46.24:524][429]Lightmass on DESKTOP-PTDA5BA: 793 ms total, 103 ms importing, 18 ms setup, 377 ms photons, 270 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.73 sec total, 0 ms processing.
+[2017.11.09-05.46.24:532][429]LogStaticLightingSystem: Illumination: 6.04 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.09-05.46.24:532][429]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.46.24:532][429]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.46.24:990][429]DumpUnbuiltLightIteractions
+[2017.11.09-05.46.24:990][429]Lights with unbuilt interactions: 0
+[2017.11.09-05.46.24:990][429]
+[2017.11.09-05.46.24:990][429]Primitives with unbuilt interactions: 0
+[2017.11.09-05.46.25:040][430]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.09-05.46.25:041][430]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:46:25 pm
+[2017.11.09-05.46.25:140][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.091ms to complete.
+[2017.11.09-05.46.26:012][481]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-05.46.26:031][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.46.26:031][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-05.46.26:031][481]PIE: New page: PIE session: ProceduralTest (08-Nov-2017 7:46:26 pm)
+[2017.11.09-05.46.26:031][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.09-05.46.26:041][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009566s)
+[2017.11.09-05.46.26:041][481]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.09-05.46.26:041][481]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2017.11.09-05.46.26:042][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.010509s)
+[2017.11.09-05.46.26:196][481]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.09-05.46.26:207][481]LogInit: FAudioDevice initialized.
+[2017.11.09-05.46.26:240][481]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.09-05.46.26:242][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 60) at 2017.11.09-00.46.26
+[2017.11.09-05.46.26:243][481]LogWorld: Bringing up level for play took: 0.001931
+[2017.11.09-05.46.26:246][481]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest 0.798
+[2017.11.09-05.46.26:247][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.46.29:190][657]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.09-05.46.29:191][657]LogBlueprintUserMessages: [FloorTileBP_843] 1
+[2017.11.09-05.46.31:690][807]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.09-05.46.31:691][807]LogBlueprintUserMessages: [FloorTileBP_C_0] 2
+[2017.11.09-05.46.32:924][881]LogBlueprintUserMessages: [FloorTileBP_C_2] ADD TILE
+[2017.11.09-05.46.32:925][881]LogBlueprintUserMessages: [FloorTileBP2] 3
+[2017.11.09-05.46.34:473][974]LogBlueprintUserMessages: [NODE_AddChildActorComponent-3_CrystalBP_C_CAT_1] Crystal
+[2017.11.09-05.46.34:542][978]LogBlueprintUserMessages: [FloorTileBP_C_3] ADD TILE
+[2017.11.09-05.46.34:544][978]LogBlueprintUserMessages: [FloorTileBP_C_1] 4
+[2017.11.09-05.46.36:874][118]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5001] Light Shard! You have:
+[2017.11.09-05.46.36:874][118]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_LightShardBP_C_CAT_5001] 3
+[2017.11.09-05.46.37:609][162]LogBlueprintUserMessages: [FloorTileBP_C_4] ADD TILE
+[2017.11.09-05.46.37:609][162]LogBlueprintUserMessages: [FloorTileBP_C_1] 5
+[2017.11.09-05.46.42:188][436]LogBlueprintUserMessages: [FloorTileBP2] 6
+[2017.11.09-05.46.45:886][658]LogBlueprintUserMessages: [FloorTileBP_C_0] 7
+[2017.11.09-05.46.49:287][862]LogBlueprintUserMessages: [FloorTileBP_C_0] 8
+[2017.11.09-05.46.50:388][928]LogBlueprintUserMessages: [FloorTileBP2] 9
+[2017.11.09-05.46.53:105][ 91]LogBlueprintUserMessages: [SpecialBP_77] SPECIAL
+[2017.11.09-05.46.55:024][206]LogBlueprintUserMessages: [FloorTileBP_C_1] 10
+[2017.11.09-05.46.56:443][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.46.56:480][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.32:434][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.09-05.47.32:807][367]LogSavePackage: Save=349.26ms
+[2017.11.09-05.47.32:807][367]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest57F1D34C41D2F52F74B9AB8251489C6C.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap'
+[2017.11.09-05.47.32:811][367]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap
+[2017.11.09-05.47.32:856][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset" SILENT=true
+[2017.11.09-05.47.32:866][367]LogSavePackage: Save=4.35ms
+[2017.11.09-05.47.32:866][367]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest_BuiltData5AA43D96458BFA92BDD3829E210D6251.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset'
+[2017.11.09-05.47.32:869][367]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset
+[2017.11.09-05.47.33:511][405]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-05.47.33:530][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.33:530][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-05.47.33:530][405]PIE: New page: PIE session: ProceduralTest (08-Nov-2017 7:47:33 pm)
+[2017.11.09-05.47.33:530][405]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.09-05.47.33:537][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007415s)
+[2017.11.09-05.47.33:538][405]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.09-05.47.33:538][405]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2017.11.09-05.47.33:538][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.008269s)
+[2017.11.09-05.47.33:694][405]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.09-05.47.33:706][405]LogInit: FAudioDevice initialized.
+[2017.11.09-05.47.33:739][405]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.09-05.47.33:741][405]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 60) at 2017.11.09-00.47.33
+[2017.11.09-05.47.33:741][405]LogWorld: Bringing up level for play took: 0.001630
+[2017.11.09-05.47.33:744][405]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest 0.296
+[2017.11.09-05.47.33:745][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.37:306][618]LogBlueprintUserMessages: [FloorTileBP_C_0] ADD TILE
+[2017.11.09-05.47.37:307][618]LogBlueprintUserMessages: [FloorTileBP_843] 1
+[2017.11.09-05.47.39:806][768]LogBlueprintUserMessages: [FloorTileBP_C_1] ADD TILE
+[2017.11.09-05.47.39:807][768]LogBlueprintUserMessages: [FloorTileBP_C_0] 2
+[2017.11.09-05.47.40:174][790]LogBlueprintUserMessages: [FloorTileBP_C_2] ADD TILE
+[2017.11.09-05.47.40:175][790]LogBlueprintUserMessages: [FloorTileBP2] 3
+[2017.11.09-05.47.41:990][899]LogBlueprintUserMessages: [FloorTileBP_C_3] ADD TILE
+[2017.11.09-05.47.41:991][899]LogBlueprintUserMessages: [FloorTileBP_C_1] 4
+[2017.11.09-05.47.43:525][991]LogBlueprintUserMessages: [FloorTileBP_C_4] ADD TILE
+[2017.11.09-05.47.43:525][991]LogBlueprintUserMessages: [FloorTileBP2] 5
+[2017.11.09-05.47.44:758][ 65]LogBlueprintUserMessages: [FloorTileBP_C_5] ADD TILE
+[2017.11.09-05.47.44:758][ 65]LogBlueprintUserMessages: [FloorTileBP_C_0] 6
+[2017.11.09-05.47.45:525][111]LogBlueprintUserMessages: [FloorTileBP_C_6] STOP ADDING TILES
+[2017.11.09-05.47.45:526][111]LogBlueprintUserMessages: [FloorTileBP2] 7
+[2017.11.09-05.47.46:995][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.47:035][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.49:056][318]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-05.47.49:074][318]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.49:074][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-05.47.49:074][318]PIE: New page: PIE session: ProceduralTest (08-Nov-2017 7:47:49 pm)
+[2017.11.09-05.47.49:074][318]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.09-05.47.49:082][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007501s)
+[2017.11.09-05.47.49:082][318]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.09-05.47.49:083][318]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2017.11.09-05.47.49:083][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.008542s)
+[2017.11.09-05.47.49:238][318]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.09-05.47.49:249][318]LogInit: FAudioDevice initialized.
+[2017.11.09-05.47.49:283][318]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.09-05.47.49:285][318]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 60) at 2017.11.09-00.47.49
+[2017.11.09-05.47.49:286][318]LogWorld: Bringing up level for play took: 0.001969
+[2017.11.09-05.47.49:289][318]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest -0.158
+[2017.11.09-05.47.49:290][318]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.50:168][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.50:204][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.47.51:207][428]MapCheck: New page: Map Check
+[2017.11.09-05.47.51:225][428]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.09-05.47.51:225][428]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.09-05.47.51:241][428]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.09-05.47.51:244][428]LogBlueprintUserMessages: [FloorTileBP_843] ADD TILE
+[2017.11.09-05.47.51:246][428]LogBlueprintUserMessages: [FloorTileBP2] ADD TILE
+[2017.11.09-05.47.51:250][428]LogBlueprintUserMessages: [FloorTileBP3] ADD TILE
+[2017.11.09-05.47.51:281][428]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.09-05.47.51:288][428]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2017.11.09-05.47.51:294][428]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2017.11.09-05.47.51:302][428]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EYellow, compiling. 
+[2017.11.09-05.47.51:799][428]TextureStreamingBuild: Display: Compiling optional shaders took 0.522 seconds.
+[2017.11.09-05.47.51:802][428]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.11.09-05.47.51:810][428]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2017.11.09-05.47.51:825][428]LightingResults: New page: Lighting Build - 08-Nov-2017 7:47:51 pm
+[2017.11.09-05.47.51:831][428]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.09-05.47.51:833][428]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.09-05.47.51:833][428]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.09-05.47.51:834][428]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.09-05.47.51:834][428]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3632
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.09-05.47.56:357][428]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.09-05.47.56:500][428]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.09-05.47.56:500][428]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:47:56 pm
+[2017.11.09-05.47.56:566][428]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.646ms to complete.
+[2017.11.09-05.47.56:589][428]LogEditorBuildUtils: Build time 0:05
+[2017.11.09-05.47.57:811][477]Job is a success!
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.09-05.47.57:873][479]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.09-05.47.57:917][479]Lightmass on DESKTOP-PTDA5BA: 795 ms total, 106 ms importing, 20 ms setup, 375 ms photons, 266 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.70 sec total, 0 ms processing.
+[2017.11.09-05.47.57:925][479]LogStaticLightingSystem: Illumination: 6.07 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.09-05.47.57:925][479]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.47.57:925][479]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.47.58:352][479]DumpUnbuiltLightIteractions
+[2017.11.09-05.47.58:353][479]Lights with unbuilt interactions: 0
+[2017.11.09-05.47.58:353][479]
+[2017.11.09-05.47.58:353][479]Primitives with unbuilt interactions: 0
+[2017.11.09-05.47.58:390][480]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.09-05.47.58:391][480]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:47:58 pm
+[2017.11.09-05.47.58:469][480]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.937ms to complete.
+[2017.11.09-05.48.11:684][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-05.48.11:705][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.48.11:706][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-05.48.11:706][ 44]PIE: New page: PIE session: ProceduralTest (08-Nov-2017 7:48:11 pm)
+[2017.11.09-05.48.11:706][ 44]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralTest
+[2017.11.09-05.48.11:714][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008460s)
+[2017.11.09-05.48.11:715][ 44]LogAIModule: Creating AISystem for world ProceduralTest
+[2017.11.09-05.48.11:715][ 44]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2017.11.09-05.48.11:716][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralTest.ProceduralTest to /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest (0.009802s)
+[2017.11.09-05.48.11:877][ 44]LogInit: XAudio2 using 'Headphones (Bose QuietComfort 35 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.09-05.48.11:887][ 44]LogInit: FAudioDevice initialized.
+[2017.11.09-05.48.11:917][ 44]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.09-05.48.11:920][ 44]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralTest.ProceduralTest up for play (max tick rate 60) at 2017.11.09-00.48.11
+[2017.11.09-05.48.11:920][ 44]LogWorld: Bringing up level for play took: 0.001994
+[2017.11.09-05.48.11:924][ 44]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralTest 0.476
+[2017.11.09-05.48.11:924][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.48.28:800][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.48.28:838][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest' with GeneratedClass '/Game/Levels/ProceduralTest.ProceduralTest_C' with ClassGeneratedBy '/Game/Levels/ProceduralTest.ProceduralTest:PersistentLevel.ProceduralTest'
+[2017.11.09-05.48.31:017][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.09-05.48.31:395][183]LogSavePackage: Save=356.46ms
+[2017.11.09-05.48.31:395][183]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest6D7185484B3CC31C21049CA5658FE0BA.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap'
+[2017.11.09-05.48.31:399][183]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest.umap
+[2017.11.09-05.48.31:428][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ProceduralTest_BuiltData" FILE="D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset" SILENT=true
+[2017.11.09-05.48.31:437][183]LogSavePackage: Save=4.28ms
+[2017.11.09-05.48.31:437][183]LogSavePackage: Moving 'D:/Documents/Github/Hand_of_God/Runner 4.18/Saved/ProceduralTest_BuiltDataDA6FE8D04CF0B3B48CB0628AC9A98A74.tmp' to 'D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset'
+[2017.11.09-05.48.31:440][183]LogSavePackage: Display: Finished SavePackage D:/Documents/Github/Hand_of_God/Runner 4.18/Content/Levels/ProceduralTest_BuiltData.uasset
+[2017.11.09-05.48.33:006][277]MapCheck: New page: Map Check
+[2017.11.09-05.48.33:022][277]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.09-05.48.33:022][277]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.09-05.48.33:037][277]LogBlueprintUserMessages: [LowerBound] STOP ADDING TILES
+[2017.11.09-05.48.33:040][277]LogBlueprintUserMessages: [FloorTileBP_843] ADD TILE
+[2017.11.09-05.48.33:042][277]LogBlueprintUserMessages: [FloorTileBP2] ADD TILE
+[2017.11.09-05.48.33:045][277]LogBlueprintUserMessages: [FloorTileBP3] ADD TILE
+[2017.11.09-05.48.33:075][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.09-05.48.33:082][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2017.11.09-05.48.33:088][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2017.11.09-05.48.33:096][277]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EYellow, compiling. 
+[2017.11.09-05.48.33:578][277]TextureStreamingBuild: Display: Compiling optional shaders took 0.508 seconds.
+[2017.11.09-05.48.33:582][277]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.11.09-05.48.33:589][277]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2017.11.09-05.48.33:603][277]LightingResults: New page: Lighting Build - 08-Nov-2017 7:48:33 pm
+[2017.11.09-05.48.33:609][277]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.09-05.48.33:611][277]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.09-05.48.33:611][277]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.09-05.48.33:611][277]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.09-05.48.33:611][277]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3632
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.09-05.48.38:126][277]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.09-05.48.38:275][277]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.09-05.48.38:275][277]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:48:38 pm
+[2017.11.09-05.48.38:338][277]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.652ms to complete.
+[2017.11.09-05.48.38:361][277]LogEditorBuildUtils: Build time 0:05
+[2017.11.09-05.48.39:533][324]Job is a success!
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.09-05.48.39:592][325]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.09-05.48.39:636][325]Lightmass on DESKTOP-PTDA5BA: 782 ms total, 103 ms importing, 18 ms setup, 377 ms photons, 256 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.63 sec total, 0 ms processing.
+[2017.11.09-05.48.39:643][325]LogStaticLightingSystem: Illumination: 6.01 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.09-05.48.39:643][325]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.48.39:643][325]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.09-05.48.40:135][325]DumpUnbuiltLightIteractions
+[2017.11.09-05.48.40:135][325]Lights with unbuilt interactions: 0
+[2017.11.09-05.48.40:135][325]
+[2017.11.09-05.48.40:135][325]Primitives with unbuilt interactions: 0
+[2017.11.09-05.48.40:186][326]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.09-05.48.40:186][326]MapCheck: New page: ProceduralTest - 08-Nov-2017 7:48:40 pm
+[2017.11.09-05.48.40:276][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.961ms to complete.
