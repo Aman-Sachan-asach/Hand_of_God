@@ -1485,3 +1485,194 @@ LogInit: Object subsystem initialized
 [2017.11.11-04.25.53:516][ 92]LogSavePackage: Save=151.91ms
 [2017.11.11-04.25.53:516][ 92]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ProceduralLevel3E6AA1054D9880916693EA86A24237B3.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap'
 [2017.11.11-04.25.53:524][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap
+[2017.11.11-04.28.58:548][178]BlueprintLog: New page: Compile FloorTileBase
+[2017.11.11-04.30.46:089][198]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.31.12:680][538]LogSlate: Took 0.004555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.11-04.31.16:552][860]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.34.18:728][574]LogSavePackage: Save=73.24ms
+[2017.11.11-04.34.18:728][574]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameModeE46E20ED470C812FC23CD69D38E487B5.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.11.11-04.34.18:734][574]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.11.11-04.34.19:570][653]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.34.21:951][842]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.34.21:975][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.34.21:975][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.34.21:975][842]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:34:21 PM)
+[2017.11.11-04.34.21:976][842]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.34.21:981][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005135s)
+[2017.11.11-04.34.21:981][842]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.34.21:982][842]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2017.11.11-04.34.21:982][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.006340s)
+[2017.11.11-04.34.22:013][842]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.34.22:027][842]LogInit: FAudioDevice initialized.
+[2017.11.11-04.34.22:055][842]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.34.22:057][842]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.34.22
+[2017.11.11-04.34.22:057][842]LogWorld: Bringing up level for play took: 0.001184
+[2017.11.11-04.34.22:063][842]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel 0.914
+[2017.11.11-04.34.22:064][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.34.33:588][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.34.33:623][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.34.43:870][123]Cmd: TRANSACTION UNDO
+[2017.11.11-04.34.43:870][123]LogEditorTransaction: Undo Change Number Pin Value
+[2017.11.11-04.34.45:763][302]Cmd: TRANSACTION UNDO
+[2017.11.11-04.34.45:763][302]LogEditorTransaction: Undo Break Pin Links
+[2017.11.11-04.35.08:243][495]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.35.10:337][634]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.35.10:361][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.35.10:361][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.35.10:362][634]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:35:10 PM)
+[2017.11.11-04.35.10:362][634]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.35.10:366][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004172s)
+[2017.11.11-04.35.10:366][634]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.35.10:367][634]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.11.11-04.35.10:367][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.005007s)
+[2017.11.11-04.35.10:395][634]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.35.10:409][634]LogInit: FAudioDevice initialized.
+[2017.11.11-04.35.10:437][634]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.35.10:438][634]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.35.10
+[2017.11.11-04.35.10:438][634]LogWorld: Bringing up level for play took: 0.001202
+[2017.11.11-04.35.10:445][634]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel -0.705
+[2017.11.11-04.35.10:445][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.35.13:193][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.35.13:225][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.35.37:814][346]LogEditorTransaction: Undo Move Node
+[2017.11.11-04.37.05:254][643]LogSavePackage: Save=81.62ms
+[2017.11.11-04.37.05:255][643]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameMode93306DF948F174E1B5C8D696A04CC2AC.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.11.11-04.37.05:263][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.11.11-04.38.01:576][683]LogSavePackage: Save=83.67ms
+[2017.11.11-04.38.01:576][683]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameMode2AE498954F0C3D3AA57607947732D6A5.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.11.11-04.38.01:579][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.11.11-04.38.02:907][804]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.38.06:714][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.38.06:739][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.38.06:739][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.38.06:739][ 91]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:38:06 PM)
+[2017.11.11-04.38.06:740][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.38.06:745][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004926s)
+[2017.11.11-04.38.06:745][ 91]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.38.06:745][ 91]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2017.11.11-04.38.06:745][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.005897s)
+[2017.11.11-04.38.06:775][ 91]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.38.06:790][ 91]LogInit: FAudioDevice initialized.
+[2017.11.11-04.38.06:822][ 91]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.38.06:823][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.38.06
+[2017.11.11-04.38.06:824][ 91]LogWorld: Bringing up level for play took: 0.001233
+[2017.11.11-04.38.06:830][ 91]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel -0.319
+[2017.11.11-04.38.06:831][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.38.23:555][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.38.23:588][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.39.03:721][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/ProceduralLevel' took 0.017
+[2017.11.11-04.39.03:722][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase] ([1] browsable assets)...
+[2017.11.11-04.39.03:735][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase.FloorTileBase]
+[2017.11.11-04.39.03:735][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase]
+[2017.11.11-04.39.04:002][112]LogSavePackage: Save=239.01ms
+[2017.11.11-04.39.04:002][112]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/FloorTileBase_Auto461317C8D4A6A52AA264D5385BB15373C.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase_Auto4.uasset'
+[2017.11.11-04.39.04:004][112]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase_Auto4.uasset
+[2017.11.11-04.39.04:004][112]LogFileHelpers: Auto-saving content packages took 0.282
+[2017.11.11-04.52.33:588][202]LogEditorTransaction: Undo Create Pin Link
+[2017.11.11-04.53.35:707][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/ProceduralLevel' took 0.020
+[2017.11.11-04.53.35:708][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2017.11.11-04.53.35:708][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2017.11.11-04.53.35:827][476]LogSavePackage: Save=89.33ms
+[2017.11.11-04.53.35:828][476]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameMode_Auto51DF5E74D420B876C2DF07ABA6F2B3683.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto5.uasset'
+[2017.11.11-04.53.35:830][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto5.uasset
+[2017.11.11-04.53.35:830][476]LogFileHelpers: Auto-saving content packages took 0.122
+[2017.11.11-04.55.27:631][898]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.55.29:320][983]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.55.29:345][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.55.29:345][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.55.29:345][983]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:55:29 PM)
+[2017.11.11-04.55.29:345][983]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.55.29:349][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004296s)
+[2017.11.11-04.55.29:350][983]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.55.29:350][983]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2017.11.11-04.55.29:350][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.005282s)
+[2017.11.11-04.55.29:380][983]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.55.29:395][983]LogInit: FAudioDevice initialized.
+[2017.11.11-04.55.29:430][983]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.55.29:432][983]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.55.29
+[2017.11.11-04.55.29:433][983]LogWorld: Bringing up level for play took: 0.001327
+[2017.11.11-04.55.29:439][983]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel 0.29
+[2017.11.11-04.55.29:439][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.55.39:360][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.55.39:395][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.55.45:590][257]BlueprintLog: New page: Compile RunGameMode
+[2017.11.11-04.55.46:752][297]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.55.46:776][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.55.46:776][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.55.46:776][297]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:55:46 PM)
+[2017.11.11-04.55.46:776][297]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.55.46:780][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2017.11.11-04.55.46:781][297]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.55.46:781][297]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2017.11.11-04.55.46:781][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.005024s)
+[2017.11.11-04.55.46:809][297]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.55.46:823][297]LogInit: FAudioDevice initialized.
+[2017.11.11-04.55.46:856][297]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.55.46:857][297]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.55.46
+[2017.11.11-04.55.46:858][297]LogWorld: Bringing up level for play took: 0.001252
+[2017.11.11-04.55.46:864][297]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel -0.286
+[2017.11.11-04.55.46:864][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.56.16:179][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.56.16:216][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.56.56:419][865]LogSavePackage: Save=90.57ms
+[2017.11.11-04.56.56:419][865]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameModeCB83955B45C8CC69885F4299EF421112.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.11.11-04.56.56:423][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.11.11-04.57.14:945][440]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.11-04.57.14:969][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.57.14:969][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.11-04.57.14:969][440]PIE: New page: PIE session: ProceduralLevel (Nov 10, 2017, 6:57:14 PM)
+[2017.11.11-04.57.14:970][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ProceduralLevel
+[2017.11.11-04.57.14:974][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004285s)
+[2017.11.11-04.57.14:974][440]LogAIModule: Creating AISystem for world ProceduralLevel
+[2017.11.11-04.57.14:975][440]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2017.11.11-04.57.14:975][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ProceduralLevel.ProceduralLevel to /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel (0.005266s)
+[2017.11.11-04.57.15:002][440]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.11-04.57.15:016][440]LogInit: FAudioDevice initialized.
+[2017.11.11-04.57.15:047][440]LogLoad: Game class is 'RunGameMode_C'
+[2017.11.11-04.57.15:048][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ProceduralLevel.ProceduralLevel up for play (max tick rate 0) at 2017.11.10-23.57.15
+[2017.11.11-04.57.15:049][440]LogWorld: Bringing up level for play took: 0.001231
+[2017.11.11-04.57.15:055][440]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel -0.095
+[2017.11.11-04.57.15:055][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.57.21:384][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.57.21:415][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.11-04.57.24:381][240]BlueprintLog: New page: Compile FloorTileBase
+[2017.11.11-04.57.48:863][248]LogSavePackage: Save=170.15ms
+[2017.11.11-04.57.48:863][248]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ThirdPersonCharacter3579F5FE44D1217848A4A08B3053E87F.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2017.11.11-04.57.48:866][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset
+[2017.11.11-05.00.33:177][282]LogSavePackage: Save=156.45ms
+[2017.11.11-05.00.33:177][282]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ThirdPersonCharacter02A1DC3543D3F81C62E6F8884057A004.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2017.11.11-05.00.33:179][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset
+[2017.11.11-05.06.50:353][489]LogSavePackage: Save=159.29ms
+[2017.11.11-05.06.50:353][489]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ThirdPersonCharacter97F2CBDD4BCC2DB9AE40649899ACC7A7.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2017.11.11-05.06.50:358][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset
+[2017.11.11-05.06.56:131][984]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.11-05.07.03:548][507]LogSavePackage: Save=158.88ms
+[2017.11.11-05.07.03:548][507]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ThirdPersonCharacter0EB89EC44243367E3375AB9312515245.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2017.11.11-05.07.03:550][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/Player/ThirdPersonCharacter.uasset
+[2017.11.11-05.07.04:117][551]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.11-05.07.18:164][369]LogSavePackage: Save=240.11ms
+[2017.11.11-05.07.18:164][369]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/FloorTileBase4B7EDEA14C2E517567551A9466C39C2C.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase.uasset'
+[2017.11.11-05.07.18:167][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/FloorTiles/FloorTileBase.uasset
+[2017.11.11-05.10.08:844][861]BlueprintLog: New page: Compile Enemy
+[2017.11.11-05.10.16:334][405]BlueprintLog: New page: Compile Enemy
+[2017.11.11-05.10.27:534][269]BlueprintLog: New page: Compile Enemy
+[2017.11.11-05.10.30:095][423]LogSavePackage: Save=59.57ms
+[2017.11.11-05.10.30:095][423]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/EnemyE90826394BDAF1AFF411869ABDDE5E6B.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ShadowMinions/Enemy.uasset'
+[2017.11.11-05.10.30:098][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ShadowMinions/Enemy.uasset
+[2017.11.11-05.11.09:875][478]LogSavePackage: Save=18.12ms
+[2017.11.11-05.11.09:875][478]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/EnemyAI9136178C479DB222109111A413CEFBE3.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ShadowMinions/EnemyAI.uasset'
+[2017.11.11-05.11.09:878][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/ThirdPersonBP/Blueprints/ShadowMinions/EnemyAI.uasset
+[2017.11.11-05.11.11:278][636]BlueprintLog: New page: Compile EnemyAI
+[2017.11.11-05.12.41:333][408]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.11-05.12.47:491][931]Cmd: TRANSACTION UNDO
+[2017.11.11-05.12.47:491][931]LogEditorTransaction: Undo Scale Actors
+[2017.11.11-05.13.00:714][ 79]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.11-05.13.02:251][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.11-05.13.02:622][237]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2017.11.11-05.13.16:055][375]LogSavePackage: Save=156.02ms
+[2017.11.11-05.13.16:055][375]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ProceduralLevel097CBFA44B465EDE5B6927A5197A5A8C.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap'
+[2017.11.11-05.13.16:059][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap
+[2017.11.11-05.14.04:523][649]LogSavePackage: Save=156.21ms
+[2017.11.11-05.14.04:523][649]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/ProceduralLevel1F42D0A54A66BC4E6431BE99F06A64B7.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap'
+[2017.11.11-05.14.04:526][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Content/Levels/ProceduralLevel.umap
+[2017.11.11-05.14.31:533][535]LogEditorActor: Deleted 0 Actors (6.243 secs)
