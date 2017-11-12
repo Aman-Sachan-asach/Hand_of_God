@@ -73,3 +73,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Stauffer
+Runner/Saved/Backup/*
+Runner/Saved/Logs/*
+Runner/Saved/Backup/*
