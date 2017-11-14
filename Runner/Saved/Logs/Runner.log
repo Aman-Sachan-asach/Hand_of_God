@@ -8774,3 +8774,36 @@ LogInit: Object subsystem initialized
 [2017.11.14-00.00.51:117][729]LogBlueprintUserMessages: [RunGameMode_C_0] 0
 [2017.11.14-00.00.51:117][729]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_ProceduralLevel -0.03
 [2017.11.14-00.00.51:120][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.14-00.00.52:512][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.14-00.00.52:548][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel' with GeneratedClass '/Game/Levels/ProceduralLevel.ProceduralLevel_C' with ClassGeneratedBy '/Game/Levels/ProceduralLevel.ProceduralLevel:PersistentLevel.ProceduralLevel'
+[2017.11.14-00.05.56:379][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/ProceduralLevel' took 0.023
+[2017.11.14-00.05.56:381][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2017.11.14-00.05.56:381][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2017.11.14-00.05.56:804][635]LogSavePackage: Save=388.30ms
+[2017.11.14-00.05.56:804][635]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/RunGameMode_Auto45EBB99A44F414228E6D3C58EE58DFB2B.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto4.uasset'
+[2017.11.14-00.05.56:806][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto4.uasset
+[2017.11.14-00.05.56:807][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileGeneral] ([1] browsable assets)...
+[2017.11.14-00.05.56:818][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileGeneral.FloorTileGeneral]
+[2017.11.14-00.05.56:818][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileGeneral]
+[2017.11.14-00.05.57:098][635]LogSavePackage: Save=251.44ms
+[2017.11.14-00.05.57:098][635]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/FloorTileGeneral_Auto4599E98434896FFE25FF3F0B15E8BE0FD.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileGeneral_Auto4.uasset'
+[2017.11.14-00.05.57:099][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/FloorTileGeneral_Auto4.uasset
+[2017.11.14-00.05.57:099][635]LogFileHelpers: Auto-saving content packages took 0.719
+[2017.11.14-00.09.07:332][163]LogEditorViewport: Clicking Background
+[2017.11.14-00.09.43:933][552]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2017.11.14-00.11.43:189][951]LogEditorTransaction: Undo Edit Curve
+[2017.11.14-00.15.57:657][617]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/ProceduralLevel' took 0.027
+[2017.11.14-00.15.57:658][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTiles/NewBlueprint] ([1] browsable assets)...
+[2017.11.14-00.15.57:658][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTiles/NewBlueprint]
+[2017.11.14-00.15.57:675][617]LogSavePackage: Save=14.75ms
+[2017.11.14-00.15.57:675][617]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/NewBlueprint_Auto59B9ABD344E3140D6BC0DA8B08B0FCDE1.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/NewBlueprint_Auto5.uasset'
+[2017.11.14-00.15.57:677][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTiles/NewBlueprint_Auto5.uasset
+[2017.11.14-00.15.57:677][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Fire] ([1] browsable assets)...
+[2017.11.14-00.15.57:683][617]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire]
+[2017.11.14-00.15.57:683][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Fire]
+[2017.11.14-00.15.57:767][617]LogSavePackage: Save=52.61ms
+[2017.11.14-00.15.57:767][617]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/P_Fire_Auto555D9B0D744FCF8DE688AC59939176A2C.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/StarterContent/Particles/P_Fire_Auto5.uasset'
+[2017.11.14-00.15.57:769][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/HandOfGod/Final/Hand_of_God/Runner/Saved/Autosaves/Game/StarterContent/Particles/P_Fire_Auto5.uasset
+[2017.11.14-00.15.57:769][617]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.11.14-00.17.15:568][980]LogCascade: Quitting Cascade. FXSystem=0x000002BC34C07C40
+[2017.11.14-00.20.02:869][206]LogCascade: Quitting Cascade. FXSystem=0x000002BB828FC720
