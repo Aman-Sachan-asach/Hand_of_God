@@ -1,0 +1,4 @@
+Home bounds
+  center -1000, 500
+  max 200, 2700
+  min -2200, -1700
