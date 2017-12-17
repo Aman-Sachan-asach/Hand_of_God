@@ -3,10 +3,10 @@
 Contributors: [Aman Sachan](http://amansachan.com/), [Jon Lee](http://jonlee.xyz/), [Michael Stauffer](https://github.com/mgstauffer)
 
 ## Gameplay Trailer
-[![](<img src= "Images/handOfGodGameplayImage.png" width="642" height="362">)](https://www.youtube.com/watch?v=8zP61F2Iodg)
+[<img src= "Images/handOfGodGameplayImage.png" width="642" height="362">](https://www.youtube.com/watch?v=8zP61F2Iodg)
 
 ## Trailer
-[![](<img src= "Images/handOfGodTrailerImage.png" width="642" height="362">)](https://www.youtube.com/watch?v=UKGqr8qPlbg)
+[<img src= "Images/handOfGodTrailerImage.png" width="642" height="362">](https://www.youtube.com/watch?v=UKGqr8qPlbg)
 
 ## Overview
 You are running from the encroaching Darkness of a dying world. Your path is hard to see and disintegrating. Creatures emerge from the shadows to drag you into the Darkness. Fortunately a God has decided to help you, but no God is perfect. How long can you last?
