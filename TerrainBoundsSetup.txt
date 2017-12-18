@@ -1,9 +1,0 @@
-Home bounds
-  center -1000, 500
-  max 200, 2700
-  min -2200, -1700
-
-SIG lab corner machine (I think)
-  center -4000, -2000
-  max -400, -1700
-  min -5600, -8700
